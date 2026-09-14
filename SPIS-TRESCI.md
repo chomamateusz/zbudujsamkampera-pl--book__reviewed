@@ -2,7 +2,7 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-## Volume 1: Zaplanuj
+## Tom 1: Zaplanuj
 
 - [00. O nas (dlaczego ta książka)](tom-1-zaplanuj/00-o-nas.md)
 - [00b. Ta książka nie ma sponsorów](tom-1-zaplanuj/00b-sponsorzy.md)
@@ -17,7 +17,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 - 09. Warsztat do budowy — (w przygotowaniu)
 - 10. Narzędzia, techniki, druk 3D — (w przygotowaniu)
 
-## Volume 2: Zbuduj
+## Tom 2: Zbuduj
 
 - 01. Przygotowanie blachy, antykorozja — (w przygotowaniu)
 - 02. Izolacja — (w przygotowaniu)
@@ -35,7 +35,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 - 14. Łóżko i sypialnia — (w przygotowaniu)
 - 15. Wykończenie i powłoki — (w przygotowaniu)
 
-## Volume 3: Wyposaż i jedź
+## Tom 3: Wyposaż i jedź
 
 - 01. Zawieszenie i opony — (w przygotowaniu)
 - 02. Bagażniki, haki, przyczepy — (w przygotowaniu)
