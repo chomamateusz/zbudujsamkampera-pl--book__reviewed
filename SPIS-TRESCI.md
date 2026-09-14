@@ -6,7 +6,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 
 - [00. O nas (dlaczego ta książka)](tom-1-zaplanuj/00-o-nas.md)
 - [00b. Ta książka nie ma sponsorów](tom-1-zaplanuj/00b-sponsorzy.md)
-- 01. Filozofia i styl życia — (w przygotowaniu)
+- [01. Filozofia i styl życia](tom-1-zaplanuj/01-filozofia-styl-zycia.md)
 - 02. Budować czy kupić? Cztery ścieżki — (w przygotowaniu)
 - 03. Wybór pojazdu bazowego — (w przygotowaniu)
 - 04. Formalności, prawo, homologacje — (w przygotowaniu)
