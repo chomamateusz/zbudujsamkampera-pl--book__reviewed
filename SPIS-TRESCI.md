@@ -4,6 +4,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 
 ## Tom 1: Zaplanuj
 
+- [Jak czytać tę trylogię?](tom-1-zaplanuj/0-jak-czytac-trylogie.md)
 - [00. O nas (dlaczego ta książka)](tom-1-zaplanuj/00-o-nas.md)
 - [00b. Ta książka nie ma sponsorów](tom-1-zaplanuj/00b-sponsorzy.md)
 - [01. Filozofia i styl życia](tom-1-zaplanuj/01-filozofia-styl-zycia.md)
@@ -20,6 +21,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 
 ## Tom 2: Zbuduj
 
+- [Jak czytać tę trylogię?](tom-2-zbuduj/0-jak-czytac-trylogie.md)
 - 01. Przygotowanie blachy, antykorozja — (w przygotowaniu)
 - 02. Izolacja — (w przygotowaniu)
 - 03. Okna, wentylacja, klimatyzacja — (w przygotowaniu)
@@ -39,6 +41,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 
 ## Tom 3: Wyposaż i jedź
 
+- [Jak czytać tę trylogię?](tom-3-wyposaz-i-jedz/0-jak-czytac-trylogie.md)
 - 01. Zawieszenie i opony — (w przygotowaniu)
 - 02. Bagażniki, haki, przyczepy — (w przygotowaniu)
 - 03. Smart kamper — (w przygotowaniu)
