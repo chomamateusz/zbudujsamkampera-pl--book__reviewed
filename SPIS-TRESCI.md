@@ -35,6 +35,7 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 - 13. Konstrukcja i montaż mebli — (w przygotowaniu)
 - 14. Łóżko i sypialnia — (w przygotowaniu)
 - 15. Wykończenie i powłoki — (w przygotowaniu)
+- 16. Najczęstsze błędy — (w przygotowaniu)
 
 ## Tom 3: Wyposaż i jedź
 
@@ -46,6 +47,5 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 - 06. Zima i warunki ekstremalne — (w przygotowaniu)
 - 07. Życie w trasie — (w przygotowaniu)
 - 08. Społeczność, targi, rynek — (w przygotowaniu)
-- 09. Najczęstsze błędy — (w przygotowaniu)
-- 10. Filozofia budowy MVP (finał trylogii) — (w przygotowaniu)
-- 11. Inne źródła — (w przygotowaniu)
+- 09. Filozofia budowy MVP (finał trylogii) — (w przygotowaniu)
+- 10. Inne źródła — (w przygotowaniu)
