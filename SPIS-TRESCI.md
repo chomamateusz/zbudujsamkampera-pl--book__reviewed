@@ -2,9 +2,9 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 254 024 słów (zatwierdzone: 27 744, 10.9%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 254 041 słów (zatwierdzone: 27 761, 10.9%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 
-## Tom 1: Zaplanuj — 80 197 słów (31.6% książki)
+## Tom 1: Zaplanuj — 80 214 słów (31.6% książki)
 
 | ID | Nr | Rozdział | Słowa | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---|---|---:|---|
@@ -15,12 +15,12 @@ Cała książka: 254 024 słów (zatwierdzone: 27 744, 10.9%). Liczby przy rozdz
 | PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 5.6% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
 | DROGA | 3 | Budować, zlecić, kupić używanego czy gotowca? | plan: 7276 | 9.1% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | – | – |
 | MANIF | 4 | Budowa to podróż, nie podróżowanie | plan: 2500 | 3.1% | 1.0% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | – | – |
-| BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 507 | 13.1% | 4.1% | zatwierdzony | – | – | – |
+| BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 524 | 13.1% | 4.1% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
 | PRAWO | 6 | Formalności, prawo, homologacje | plan: 6723 | 8.4% | 2.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
 | BUDZ | 7 | Budżet i masa | plan: 6346 | 7.9% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
 | PRAD | 8 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 7.8% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
 | HYDRO | 9 | Hydraulika od zera | plan: 4000 | 5.0% | 1.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
-| UKLAD | 10 | Układ wnętrza i ergonomia | plan: 6697 | 8.4% | 2.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
+| UKLAD | 10 | Układ wnętrza i ergonomia | plan: 6697 | 8.3% | 2.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
 | WARSZ | 11 | Warsztat do budowy | plan: 7362 | 9.2% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
 | NARZ | 12 | Narzędzia, techniki, druk 3D | plan: 6032 | 7.5% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
 
@@ -46,7 +46,7 @@ Cała książka: 254 024 słów (zatwierdzone: 27 744, 10.9%). Liczby przy rozdz
 | WYKON | 15 | Wykończenie i powłoki | plan: 5994 | 5.6% | 2.4% | w przygotowaniu | – | – | – |
 | BLEDY | 16 | Najczęstsze błędy | plan: 6816 | 6.4% | 2.7% | w przygotowaniu | – | – | – |
 
-## Tom 3: Wyposaż i jedź — 67 190 słów (26.5% książki)
+## Tom 3: Wyposaż i jedź — 67 190 słów (26.4% książki)
 
 | ID | Nr | Rozdział | Słowa | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---|---|---:|---|
