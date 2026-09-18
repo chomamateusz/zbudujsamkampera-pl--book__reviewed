@@ -14,14 +14,14 @@ Cała książka: 247 524 słów (zatwierdzone: 27 744, 11.2%). Liczby przy rozdz
 | FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 8.8% | 2.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
 | PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 5.7% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
 | DROGA | 3 | Budować, zlecić, kupić używanego czy gotowca? | plan: 7276 | 9.3% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | – | – |
-| BAZA | 4 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 507 | 13.5% | 4.2% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | – | – |
-| PRAWO | 5 | Formalności, prawo, homologacje | plan: 6723 | 8.6% | 2.7% | w przygotowaniu | – | – | – |
-| UBEZP | 6 | Ubezpieczenia i assistance | plan: 4403 | 5.6% | 1.8% | w przygotowaniu | – | – | – |
-| BUDZ | 7 | Budżet i masa | plan: 6346 | 8.1% | 2.6% | w przygotowaniu | – | – | – |
-| PRAD | 8 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 8.0% | 2.5% | w przygotowaniu | – | – | – |
-| UKLAD | 9 | Układ wnętrza i ergonomia | plan: 6697 | 8.6% | 2.7% | w przygotowaniu | – | – | – |
-| WARSZ | 10 | Warsztat do budowy | plan: 7362 | 9.4% | 3.0% | w przygotowaniu | – | – | – |
-| NARZ | 11 | Narzędzia, techniki, druk 3D | plan: 6032 | 7.7% | 2.4% | w przygotowaniu | – | – | – |
+| BAZA | 4 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 507 | 13.5% | 4.2% | zatwierdzony | – | – | – |
+| PRAWO | 5 | Formalności, prawo, homologacje | plan: 6723 | 8.6% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
+| UBEZP | 6 | Ubezpieczenia i assistance | plan: 4403 | 5.6% | 1.8% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UBEZP) | – | – |
+| BUDZ | 7 | Budżet i masa | plan: 6346 | 8.1% | 2.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
+| PRAD | 8 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 8.0% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
+| UKLAD | 9 | Układ wnętrza i ergonomia | plan: 6697 | 8.6% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
+| WARSZ | 10 | Warsztat do budowy | plan: 7362 | 9.4% | 3.0% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
+| NARZ | 11 | Narzędzia, techniki, druk 3D | plan: 6032 | 7.7% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
 
 ## Tom 2: Zbuduj — 106 637 słów (43.1% książki)
 
