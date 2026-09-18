@@ -4,25 +4,24 @@ Wygenerowano automatycznie — nie edytować ręcznie.
 
 Cała książka: 249 100 słów (zatwierdzone: 27 744, 11.1%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 
-## Tom 1: Zaplanuj — 79 676 słów (32.0% książki)
+## Tom 1: Zaplanuj — 75 273 słów (30.2% książki)
 
 | ID | Nr | Rozdział | Słowa | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---|---|---:|---|
-| JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 351 | 0.4% | 0.1% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
-| ONAS |  | [O nas (dlaczego ta książka)](tom-1-zaplanuj/ONAS-o-nas.md) | 4370 | 5.5% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
-| SPON |  | [Ta książka nie ma sponsorów](tom-1-zaplanuj/SPON-sponsorzy.md) | 428 | 0.5% | 0.2% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-SPON) | ✓ | – |
-| FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 8.7% | 2.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
-| PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 5.6% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
-| DROGA | 3 | Budować, zlecić, kupić używanego czy gotowca? | plan: 7276 | 9.1% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | – | – |
-| BAZA | 4 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 507 | 13.2% | 4.2% | zatwierdzony | – | – | – |
-| PRAWO | 5 | Formalności, prawo, homologacje | plan: 6723 | 8.4% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
-| UBEZP | 6 | Ubezpieczenia i assistance | plan: 4403 | 5.5% | 1.8% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UBEZP) | – | – |
-| BUDZ | 7 | Budżet i masa | plan: 6346 | 8.0% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
-| PRAD | 8 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 7.8% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
-| UKLAD | 9 | Układ wnętrza i ergonomia | plan: 6697 | 8.4% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
-| WARSZ | 10 | Warsztat do budowy | plan: 7362 | 9.2% | 3.0% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
-| NARZ | 11 | Narzędzia, techniki, druk 3D | plan: 6032 | 7.6% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
-| MANIF | 12 | Manifest MVP | plan: 1576 | 2.0% | 0.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | – | – |
+| JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 351 | 0.5% | 0.1% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
+| ONAS |  | [O nas (dlaczego ta książka)](tom-1-zaplanuj/ONAS-o-nas.md) | 4370 | 5.8% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
+| SPON |  | [Ta książka nie ma sponsorów](tom-1-zaplanuj/SPON-sponsorzy.md) | 428 | 0.6% | 0.2% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-SPON) | ✓ | – |
+| FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 9.2% | 2.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
+| PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 5.9% | 1.8% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
+| DROGA | 3 | Budować, zlecić, kupić używanego czy gotowca? | plan: 7276 | 9.7% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | – | – |
+| BAZA | 4 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 507 | 14.0% | 4.2% | zatwierdzony | – | – | – |
+| PRAWO | 5 | Formalności, prawo, homologacje | plan: 6723 | 8.9% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
+| BUDZ | 6 | Budżet i masa | plan: 6346 | 8.4% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
+| PRAD | 7 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 8.3% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
+| UKLAD | 8 | Układ wnętrza i ergonomia | plan: 6697 | 8.9% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
+| WARSZ | 9 | Warsztat do budowy | plan: 7362 | 9.8% | 3.0% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
+| NARZ | 10 | Narzędzia, techniki, druk 3D | plan: 6032 | 8.0% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
+| MANIF | 11 | Manifest MVP | plan: 1576 | 2.1% | 0.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | – | – |
 
 ## Tom 2: Zbuduj — 106 637 słów (42.8% książki)
 
@@ -46,18 +45,19 @@ Cała książka: 249 100 słów (zatwierdzone: 27 744, 11.1%). Liczby przy rozdz
 | WYKON | 15 | Wykończenie i powłoki | plan: 5994 | 5.6% | 2.4% | w przygotowaniu | – | – | – |
 | BLEDY | 16 | Najczęstsze błędy | plan: 6816 | 6.4% | 2.7% | w przygotowaniu | – | – | – |
 
-## Tom 3: Wyposaż i jedź — 62 787 słów (25.2% książki)
+## Tom 3: Wyposaż i jedź — 67 190 słów (27.0% książki)
 
 | ID | Nr | Rozdział | Słowa | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---|---|---:|---|
-| JAK |  | [Jak czytać tę trylogię?](tom-3-wyposaz-i-jedz/JAK-jak-czytac-trylogie.md) | 351 | 0.6% | 0.1% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-JAK) | ✓ | – |
-| ZAWIE | 1 | Zawieszenie i opony | plan: 6063 | 9.7% | 2.4% | w przygotowaniu | – | – | – |
-| BAGAZ | 2 | Bagażniki, haki, przyczepy | plan: 6023 | 9.6% | 2.4% | w przygotowaniu | – | – | – |
-| SMART | 3 | Smart kamper | plan: 6221 | 9.9% | 2.5% | w przygotowaniu | – | – | – |
-| NET | 4 | Internet i łączność | plan: 6223 | 9.9% | 2.5% | w przygotowaniu | – | – | – |
-| BEZP | 5 | Bezpieczeństwo i zabezpieczenia | plan: 6167 | 9.8% | 2.5% | w przygotowaniu | – | – | – |
-| ZIMA | 6 | Zima i warunki ekstremalne | plan: 6030 | 9.6% | 2.4% | w przygotowaniu | – | – | – |
-| ZYCIE | 7 | Życie w trasie | plan: 7212 | 11.5% | 2.9% | w przygotowaniu | – | – | – |
-| SPOLE | 8 | Społeczność, targi, rynek | plan: 6036 | 9.6% | 2.4% | w przygotowaniu | – | – | – |
-| MVP | 9 | Filozofia budowy MVP (finał trylogii) | plan: 6159 | 9.8% | 2.5% | w przygotowaniu | – | – | – |
-| ZRODL | 10 | Inne źródła | plan: 6302 | 10.0% | 2.5% | w przygotowaniu | – | – | – |
+| JAK |  | [Jak czytać tę trylogię?](tom-3-wyposaz-i-jedz/JAK-jak-czytac-trylogie.md) | 351 | 0.5% | 0.1% | zatwierdzony | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-JAK) | ✓ | – |
+| ZAWIE | 1 | Zawieszenie i opony | plan: 6063 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
+| BAGAZ | 2 | Bagażniki, haki, przyczepy | plan: 6023 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
+| SMART | 3 | Smart kamper | plan: 6221 | 9.3% | 2.5% | w przygotowaniu | – | – | – |
+| NET | 4 | Internet i łączność | plan: 6223 | 9.3% | 2.5% | w przygotowaniu | – | – | – |
+| BEZP | 5 | Bezpieczeństwo i zabezpieczenia | plan: 6167 | 9.2% | 2.5% | w przygotowaniu | – | – | – |
+| ZIMA | 6 | Zima i warunki ekstremalne | plan: 6030 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
+| ZYCIE | 7 | Życie w trasie | plan: 7212 | 10.7% | 2.9% | w przygotowaniu | – | – | – |
+| UBEZP | 8 | Ubezpieczenia i assistance | plan: 4403 | 6.6% | 1.8% | w przygotowaniu | – | – | – |
+| SPOLE | 9 | Społeczność, targi, rynek | plan: 6036 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
+| MVP | 10 | Filozofia budowy MVP (finał trylogii) | plan: 6159 | 9.2% | 2.5% | w przygotowaniu | – | – | – |
+| ZRODL | 11 | Inne źródła | plan: 6302 | 9.4% | 2.5% | w przygotowaniu | – | – | – |
