@@ -18,12 +18,12 @@ Cała książka: 250 969 słów (zatwierdzone: 31 965, 12.7%). Liczby przy rozdz
 | MANIF | 4 | Budowa to podróż, nie podróżowanie | plan: 2500 | 6 | 3.2% | 1.0% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | – | – |
 | BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 524 | 26 | 13.6% | 4.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
 | PRAWO | 6 | Formalności, prawo, homologacje | plan: 6723 | 17 | 8.7% | 2.7% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
-| BUDZ | 7 | Budżet i masa | plan: 6346 | 16 | 8.2% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
-| PRAD | 8 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 16 | 8.1% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
-| HYDRO | 9 | Hydraulika od zera | plan: 4000 | 10 | 5.2% | 1.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
-| UKLAD | 10 | Układ wnętrza i ergonomia | plan: 6697 | 17 | 8.7% | 2.7% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
-| WARSZ | 11 | Warsztat do budowy | plan: 7362 | 18 | 9.5% | 2.9% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
-| NARZ | 12 | Narzędzia, techniki, druk 3D | plan: 6032 | 15 | 7.8% | 2.4% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
+| UKLAD | 7 | Projektowanie i układ wnętrza | plan: 6697 | 17 | 8.7% | 2.7% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
+| BUDZ | 8 | Budżet i masa | plan: 6346 | 16 | 8.2% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
+| WARSZ | 9 | Warsztat do budowy | plan: 7362 | 18 | 9.5% | 2.9% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
+| NARZ | 10 | Narzędzia, techniki, druk 3D | plan: 6032 | 15 | 7.8% | 2.4% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
+| PRAD | 11 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 16 | 8.1% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
+| HYDRO | 12 | Hydraulika od zera | plan: 4000 | 10 | 5.2% | 1.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 106 637 słów (0%) — 42.5% książki
 
