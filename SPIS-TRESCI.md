@@ -18,7 +18,7 @@ Cała książka: 253 100 słów (zatwierdzone: 27 744, 11.0%). Liczby przy rozdz
 | PRAWO | 5 | Formalności, prawo, homologacje | plan: 6723 | 8.5% | 2.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
 | BUDZ | 6 | Budżet i masa | plan: 6346 | 8.0% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
 | PRAD | 7 | Elektryka od zera (Watt/Volt/Amper) | plan: 6219 | 7.8% | 2.5% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | – | – |
-| HYDRO | 8 | Hydraulika od zera | plan: 4000 | 5.0% | 1.6% | w przygotowaniu | – | – | – |
+| HYDRO | 8 | Hydraulika od zera | plan: 4000 | 5.0% | 1.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
 | UKLAD | 9 | Układ wnętrza i ergonomia | plan: 6697 | 8.4% | 2.6% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
 | WARSZ | 10 | Warsztat do budowy | plan: 7362 | 9.3% | 2.9% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
 | NARZ | 11 | Narzędzia, techniki, druk 3D | plan: 6032 | 7.6% | 2.4% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
@@ -58,7 +58,7 @@ Cała książka: 253 100 słów (zatwierdzone: 27 744, 11.0%). Liczby przy rozdz
 | BEZP | 5 | Bezpieczeństwo i zabezpieczenia | plan: 6167 | 9.2% | 2.4% | w przygotowaniu | – | – | – |
 | ZIMA | 6 | Zima i warunki ekstremalne | plan: 6030 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
 | ZYCIE | 7 | Życie w trasie | plan: 7212 | 10.7% | 2.8% | w przygotowaniu | – | – | – |
-| UBEZP | 8 | Ubezpieczenia i assistance | plan: 4403 | 6.6% | 1.7% | w przygotowaniu | – | – | – |
+| UBEZP | 8 | Ubezpieczenia i assistance | plan: 4403 | 6.6% | 1.7% | w przygotowaniu | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-UBEZP) | – | – |
 | SPOLE | 9 | Społeczność, targi, rynek | plan: 6036 | 9.0% | 2.4% | w przygotowaniu | – | – | – |
 | MVP | 10 | Filozofia budowy MVP (finał trylogii) | plan: 6159 | 9.2% | 2.4% | w przygotowaniu | – | – | – |
 | ZRODL | 11 | Inne źródła | plan: 6302 | 9.4% | 2.5% | w przygotowaniu | – | – | – |
