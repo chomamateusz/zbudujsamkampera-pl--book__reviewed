@@ -72,7 +72,7 @@ Po pierwszym sezonie usiądźcie i oceńcie każdy element zabudowy od 1 do 10 g
 
 ### 5. Formalności wcześnie, jazda równolegle
 
-Z dzisiejszą wiedzą zaczęlibyśmy od foteli, homologacji i przerejestrowania, bo jeśli wymienicie fotele, a nie dopełnicie formalności to nie powinniście jeździć tym autem, bo jego stan nie zgadza się z tym któ®y był podczas rejestracji. Zabudowy ta zasada nie dotyczy — dowolnej zmiany w fotelach już tak (dodania obrotnic też).
+Z dzisiejszą wiedzą zaczęlibyśmy od foteli, homologacji i przerejestrowania, bo jeśli wymienicie fotele, a nie dopełnicie formalności to nie powinniście jeździć tym autem, bo jego stan nie zgadza się z tym, który był podczas rejestracji. Zabudowy ta zasada nie dotyczy — dowolnej zmiany w fotelach już tak (dodania obrotnic też).
 
 ### 6. Rozbieralność
 
