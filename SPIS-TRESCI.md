@@ -2,10 +2,10 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 258 186 słów (zatwierdzone: 37 682, 14.6%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 258 102 słów (zatwierdzone: 37 598, 14.6%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 8/15 rozdziałów, 36 980 z 80 359 słów (46%) — 31.1% książki
+## Tom 1: Zaplanuj — zatwierdzone 8/15 rozdziałów, 36 896 z 80 275 słów (46%) — 31.1% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -16,7 +16,7 @@ Cała książka: 258 186 słów (zatwierdzone: 37 682, 14.6%). Liczby przy rozdz
 | FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 17 | 8.6% | 2.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
 | PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 11 | 5.6% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
 | DROGA | 3 | [Budować, zlecić, kupić używanego czy gotowca?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4204 | 11 | 5.2% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
-| MANIF | 4 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2518 | 6 | 3.1% | 1.0% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
+| MANIF | 4 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2434 | 6 | 3.0% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
 | BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 524 | 26 | 13.1% | 4.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
 | PRAWO | 6 | Formalności, prawo, homologacje | plan: 6723 | 17 | 8.4% | 2.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
 | UKLAD | 7 | Projektowanie i układ wnętrza | plan: 6697 | 17 | 8.3% | 2.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
