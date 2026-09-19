@@ -23,8 +23,8 @@ Cała książka: 258 008 słów (zatwierdzone: 43 723, 16.9%). Liczby przy rozdz
 | BUDZ | 8 | Budżet i masa | plan: 6346 | 16 | 7.9% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
 | WARSZ | 9 | Warsztat do budowy | plan: 7362 | 18 | 9.2% | 2.9% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
 | NARZ | 10 | Narzędzia, techniki, druk 3D | plan: 6032 | 15 | 7.5% | 2.3% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-NARZ) | – | – |
-| PRAD | 11 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6125 | 15 | 7.6% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
-| HYDRO | 12 | Hydraulika od zera | plan: 4000 | 10 | 5.0% | 1.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
+| HYDRO | 11 | Hydraulika od zera | plan: 4000 | 10 | 5.0% | 1.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
+| PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6125 | 15 | 7.6% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 106 637 słów (0%) — 41.3% książki
 
