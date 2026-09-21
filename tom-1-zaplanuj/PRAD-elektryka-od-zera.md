@@ -20,13 +20,13 @@ Prąd elektryczny to uporządkowany ruch ładunków elektrycznych, w praktyce na
 
 Metale mają szczególną budowę chemiczną. Każdy atom oddaje elektrony ze swojej ostatniej powłoki do wspólnej puli, tworząc one coś w rodzaju „chmury”, która swobodnie porusza się między atomami. Dopóki na elektrony nic nie oddziałuje z zewnątrz, poruszają się one chaotycznie — w losowych kierunkach. Gdy jednak do końców przewodu przyłożymy napięcie, na elektrony zaczyna działać siła i „chmura” dostaje jeden wspólny kierunek. To właśnie jest prąd.
 
-Ciekawostka: same elektrony wcale nie poruszają się z niesamowitymi prędkościami. W domowej instalacji przemieszczają się o ułamki milimetra na sekundę. Jednakże ich wspólny ruch propaguje się przez cały przewód niemal natychmiast. To jak z rurką pełną wody: naciskasz z jednej strony, a z drugiej woda wypływa natychmiast, choć żadna kropla nie przebyła całej rury :) Analogie z wodą są mocnym uproszczeniem, ale jeszcze będziemy do nich wracać, bo naprawdę dobrze obrazują temat. 
+Ciekawostka: same elektrony wcale nie poruszają się z niesamowitymi prędkościami. W domowej instalacji przemieszczają się o ułamki milimetra na sekundę. Jednakże ich wspólny ruch propaguje się przez cały przewód niemal natychmiast. To jak z rurką pełną wody: naciskasz z jednej strony, a z drugiej woda wypływa natychmiast, choć żadna kropla nie przebyła całej rury :) Analogie z wodą są mocnym uproszczeniem, ale skoro hydraulikę macie już za sobą, będę do nich wracał, bo naprawdę dobrze obrazują temat. 
 
 Druga ciekawostka: umownie przyjmuje się, że prąd płynie od plusa do minusa. Ustalono to, zanim odkryto elektron! Elektrony mają ładunek ujemny, więc naprawdę płyną w przeciwną stronę, od minusa (który je odpycha) do plusa (który je przyciąga).
 
 ### Jednostki i pojęcia
 
-Najłatwiej zrozumieć te pojęcia znów przez porównanie do ruchu wody w rurach.
+Najłatwiej zrozumieć te pojęcia przez porównanie do wody w rurach, którą znacie z poprzedniego rozdziału.
 
 #### Napięcie (U), czyli wolt (V)
 
@@ -135,7 +135,7 @@ Prostowanie jest proste, bo załatwia je jeden tani element: dioda. Dioda to ele
 
 Pojedyncza dioda po prostu odcina ujemną połowę sinusoidy, więc połowa energii się marnuje. Dlatego stosuje się cztery diody połączone w tak zwany „mostek”. Taki układ nie odcina ujemnej połowy, tylko ją odwraca. Na wyjściu prąd płynie już zawsze w jedną stronę, ale pulsuje: 100 razy na sekundę rośnie do szczytu i spada do zera. To właśnie przykład prądu zmiennego, który nie jest przemienny :)
 
-Pulsowanie wygładza kondensator, czyli element, który działa jak mały zbiornik wyrównawczy. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócimy do tego przy akumulatorach.
+Pulsowanie wygładza kondensator, czyli element, który działa jak małe naczynie wyrównawcze. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócimy do tego przy akumulatorach.
 
 ##### Falownik
 
@@ -151,7 +151,7 @@ Wyobraźcie sobie samochód, w którym pedał gazu ma tylko dwa położenia: gaz
 
 Falownik robi dokładnie to samo. Jego tranzystory włączają się i wyłączają kilkadziesiąt tysięcy razy na sekundę. Gdy napięcie ma być wysokie, włączenia są długie, a przerwy krótkie. Gdy ma być niskie, odwrotnie. Elektronika płynnie zmienia te proporcje w rytmie sinusoidy: coraz dłuższe włączenia, potem coraz krótsze, potem to samo po stronie ujemnej.
 
-Rolę bezwładności ciężkiego auta pełnią elementy wygładzające na wyjściu falownika, podobne do kondensatora — czyli zbiornika wyrównawczego, który poznaliśmy przy prostowniku. Tysiące pojedynczych impulsów zlewają się w nich w jedną gładką falę, taką samą jak w domowym gniazdku.
+Rolę bezwładności ciężkiego auta pełnią elementy wygładzające na wyjściu falownika, podobne do kondensatora — czyli naczynia wyrównawczego, które poznaliśmy przy prostowniku. Tysiące pojedynczych impulsów zlewają się w nich w jedną gładką falę, taką samą jak w domowym gniazdku.
 
 ##### Dlaczego duże falowniki potrzebują 24 V albo 48 V?
 

@@ -2,10 +2,10 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 259 948 słów (zatwierdzone: 43 723, 16.8%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 259 956 słów (zatwierdzone: 43 731, 16.8%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 9/15 rozdziałów, 43 021 z 81 651 słów (53%) — 31.4% książki
+## Tom 1: Zaplanuj — zatwierdzone 9/15 rozdziałów, 43 029 z 81 659 słów (53%) — 31.4% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -24,7 +24,7 @@ Cała książka: 259 948 słów (zatwierdzone: 43 723, 16.8%). Liczby przy rozdz
 | WARSZ | 9 | Warsztat do budowy | plan: 7362 | 18 | 9.0% | 2.8% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
 | STOL | 10 | Stolarka od zera | plan: 7502 | 19 | 9.2% | 2.9% | ✏️ | – | – | – |
 | HYDRO | 11 | Hydraulika od zera | plan: 4000 | 10 | 4.9% | 1.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | – | – |
-| PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6125 | 15 | 7.5% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
+| PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.5% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 106 637 słów (0%) — 41.0% książki
 
