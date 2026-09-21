@@ -22,7 +22,7 @@ Cała książka: 264 797 słów (zatwierdzone: 52 572, 19.9%). Liczby przy rozdz
 | UKLAD | 7 | Projektowanie i układ wnętrza | plan: 6697 | 17 | 7.7% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
 | BUDZ | 8 | Budżet i masa | plan: 6346 | 16 | 7.3% | 2.4% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
 | WARSZ | 9 | Warsztat do budowy | plan: 7362 | 18 | 8.5% | 2.8% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
-| STOL | 10 | Stolarka od zera | plan: 7502 | 19 | 8.7% | 2.8% | ✏️ | – | – | – |
+| STOL | 10 | Stolarka od zera | plan: 7502 | 19 | 8.7% | 2.8% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | – | – |
 | HYDRO | 11 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 10.2% | 3.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
 | PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.1% | 2.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
