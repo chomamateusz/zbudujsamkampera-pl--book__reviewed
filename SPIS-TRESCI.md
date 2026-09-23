@@ -2,10 +2,10 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 260 515 słów (zatwierdzone: 52 572, 20.2%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 260 860 słów (zatwierdzone: 61 228, 23.5%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 10/15 rozdziałów, 51 870 z 78 305 słów (66%) — 30.1% książki
+## Tom 1: Zaplanuj — zatwierdzone 11/15 rozdziałów, 60 526 z 78 650 słów (77%) — 30.2% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -13,20 +13,20 @@ Cała książka: 260 515 słów (zatwierdzone: 52 572, 20.2%). Liczby przy rozdz
 | ONAS |  | [O nas (dlaczego ta książka)](tom-1-zaplanuj/ONAS-o-nas.md) | 4370 | 11 | 5.6% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
 | BOXER |  | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3199 | 8 | 4.1% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
 | SPON |  | [Ta książka nie ma sponsorów](tom-1-zaplanuj/SPON-sponsorzy.md) | 428 | 1 | 0.5% | 0.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-SPON) | ✓ | – |
-| FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 17 | 8.8% | 2.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
+| FILO | 1 | [Filozofia i styl życia](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6909 | 17 | 8.8% | 2.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
 | PIERW | 2 | [Formalności, pierwszy rok i rekomendacje](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 11 | 5.7% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
-| DROGA | 3 | [Budować, zlecić, kupić używanego czy gotowca?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4204 | 11 | 5.4% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
+| DROGA | 3 | [Budować, zlecić, kupić używanego czy gotowca?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4204 | 11 | 5.3% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
 | MANIF | 4 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2434 | 6 | 3.1% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
 | BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 524 | 26 | 13.4% | 4.0% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
-| PRAWO | 6 | Formalności, prawo, homologacje | plan: 8311 | 21 | 10.6% | 3.2% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | – | – |
+| PRAWO | 6 | [Formalności, prawo, homologacje](tom-1-zaplanuj/PRAWO-formalnosci-prawo-homologacje.md) | 8656 | 22 | 11.0% | 3.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | ✓ | – |
 | UKLAD | 7 | Projektowanie i układ wnętrza | plan: 3768 | 9 | 4.8% | 1.4% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | – | – |
 | BUDZ | 8 | Budżet i masa | plan: 3051 | 8 | 3.9% | 1.2% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
 | WARSZ | 9 | Warsztat do budowy | plan: 1894 | 5 | 2.4% | 0.7% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
 | STOL | 10 | Stolarka od zera | plan: 9411 | 24 | 12.0% | 3.6% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | – | – |
-| HYDRO | 11 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 11.3% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
+| HYDRO | 11 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 11.2% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
 | PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.8% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
-## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 110 405 słów (0%) — 42.4% książki
+## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 110 405 słów (0%) — 42.3% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -48,7 +48,7 @@ Cała książka: 260 515 słów (zatwierdzone: 52 572, 20.2%). Liczby przy rozdz
 | WYKON | 15 | Wykończenie i powłoki | plan: 6004 | 15 | 5.4% | 2.3% | ✏️ | – | – | – |
 | BLEDY | 16 | Najczęstsze błędy | plan: 6807 | 17 | 6.2% | 2.6% | ✏️ | – | – | – |
 
-## Tom 3: Wyposaż i jedź — zatwierdzone 0/13 rozdziałów, 351 z 71 805 słów (0%) — 27.6% książki
+## Tom 3: Wyposaż i jedź — zatwierdzone 0/13 rozdziałów, 351 z 71 805 słów (0%) — 27.5% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -64,5 +64,5 @@ Cała książka: 260 515 słów (zatwierdzone: 52 572, 20.2%). Liczby przy rozdz
 | AKCES | 9 | Akcesoria, które się sprawdziły | plan: 3958 | 10 | 5.5% | 1.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-AKCES) | – | – |
 | UBEZP | 10 | Ubezpieczenia i assistance | plan: 4386 | 11 | 6.1% | 1.7% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-UBEZP) | – | – |
 | SPOLE | 11 | Społeczność, targi, rynek | plan: 5986 | 15 | 8.3% | 2.3% | ✏️ | – | – | – |
-| MVP | 12 | Filozofia budowy MVP (finał trylogii) | plan: 6124 | 15 | 8.5% | 2.4% | ✏️ | – | – | – |
+| MVP | 12 | Filozofia budowy MVP (finał trylogii) | plan: 6124 | 15 | 8.5% | 2.3% | ✏️ | – | – | – |
 | ZRODL | 13 | Inne źródła | plan: 6353 | 16 | 8.8% | 2.4% | ✏️ | – | – | – |
