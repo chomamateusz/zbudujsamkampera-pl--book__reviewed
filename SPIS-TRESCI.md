@@ -2,10 +2,10 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 254 536 słów (zatwierdzone: 73 059, 28.7%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 254 538 słów (zatwierdzone: 73 061, 28.7%). Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 13/15 rozdziałów, 72 357 z 84 417 słów (86%) — 33.2% książki
+## Tom 1: Zaplanuj — zatwierdzone 14/16 rozdziałów, 72 359 z 84 419 słów (86%) — 33.2% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -19,12 +19,13 @@ Cała książka: 254 536 słów (zatwierdzone: 73 059, 28.7%). Liczby przy rozdz
 | MANIF | 4 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2434 | 6 | 2.9% | 1.0% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
 | BAZA | 5 | [Wybór pojazdu bazowego](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 524 | 26 | 12.5% | 4.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
 | PRAWO | 6 | [Formalności, prawo, homologacje](tom-1-zaplanuj/PRAWO-formalnosci-prawo-homologacje.md) | 8656 | 22 | 10.3% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | ✓ | – |
-| UKLAD | 7 | [Projektowanie i układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 4524 | 11 | 5.4% | 1.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |
-| BUDZ | 8 | Budżet i masa | plan: 5788 | 14 | 6.9% | 2.3% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
-| WARSZ | 9 | Warsztat do budowy | plan: 6272 | 16 | 7.4% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
-| STOL | 10 | [Stolarka od zera](tom-1-zaplanuj/STOL-stolarka-od-zera.md) | 7307 | 18 | 8.7% | 2.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | ✓ | – |
-| HYDRO | 11 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 10.5% | 3.5% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
-| PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.3% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
+| PLAN | 7 | [Projektowanie i planowanie](tom-1-zaplanuj/PLAN-projektowanie-i-planowanie.md) | 1387 | 3 | 1.6% | 0.5% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PLAN) | ✓ | – |
+| UKLAD | 8 | [Układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 3139 | 8 | 3.7% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |
+| BUDZ | 9 | Budżet i masa | plan: 5788 | 14 | 6.9% | 2.3% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BUDZ) | – | – |
+| WARSZ | 10 | Warsztat do budowy | plan: 6272 | 16 | 7.4% | 2.5% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | – | – |
+| STOL | 11 | [Stolarka od zera](tom-1-zaplanuj/STOL-stolarka-od-zera.md) | 7307 | 18 | 8.7% | 2.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | ✓ | – |
+| HYDRO | 12 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 10.5% | 3.5% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
+| PRAD | 13 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.3% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/16 rozdziałów, 351 z 98 314 słów (0%) — 38.6% książki
 
