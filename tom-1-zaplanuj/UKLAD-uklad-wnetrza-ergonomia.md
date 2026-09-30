@@ -33,6 +33,8 @@ Cztery decyzje trzeba podjąć wcześniej, bo one skreślają część układów
 
 ### Układy ze ścianą grodziową
 
+![Rys. 1. Freedo 541 HT: z grodzią, łazienka w rogu za grodzią, łóżko w poprzek z tyłu](_rysunki/uklady/rys01-freedo-541ht.svg)
+
 Wszystkie układy z tej grupy mają wspólny punkt wyjścia: fabryczna ściana zostaje, szoferka jest osobnym pomieszczeniem tylko do jeżdżenia, a do części mieszkalnej wchodzicie drzwiami przesuwnymi.
 Różnice między układami sprowadzają się do tego, co stoi przy tej ścianie i co jest z tyłu. Najczęściej przy ścianie stoi łazienka, obok niej kuchnia, przy wejściu siedzisko ze stolikiem, a cały tył zajmuje stałe łóżko w poprzek z bagażnikiem pod spodem. Czasem zamiast stałego łóżka tył bywa salonem z dwiema kanapami i stołem, który na noc opuszcza się do poziomu siedzisk.
 
@@ -63,6 +65,8 @@ Bez ściany fotele z szoferki obracają się do środka i pracują jako jadalnia
 
 #### Łazienka na środku, drugi rząd, łóżko w poprzek nad garażem
 
+![Rys. 2. Sunlight Cliff 600: łazienka na środku po stronie kierowcy, naprzeciw kuchni; łóżko w poprzek z tyłu](_rysunki/uklady/rys03-sunlight-cliff-600.svg)
+
 To najpopularniejszy układ fabrycznych kampervanów. Otwarta szoferka z fotelami obrotowymi, za nimi stolik i drugi rząd, czyli kanapa do jazdy, która na noc rozkłada się w dodatkowe spanie. Dalej, na środku długości auta, przy lewej ścianie stoi kabina z prysznicem i toaletą, a naprzeciwko kuchnia. Z tyłu łóżko zamontowane jest w poprzek, a pod nim garaż z dostępem tylnymi drzwiami oraz od wewnątrz.
 
 Za przykład do rysunku bierzemy Sunlight Cliff 600 na Boxerze o długości 599 cm: łazienka na środku po lewej stronie, kuchnia z lodówką po drugiej, łóżko poprzeczne nad garażem, cztery miejsca do jazdy i dwa do spania plus jedno rozkładane. To ten sam Cliff, który w wersji 4x4 na Transicie wspominałem przy wyborze bazy :)
@@ -85,6 +89,8 @@ Za przykład do rysunku bierzemy Sunlight Cliff 600 na Boxerze o długości 599 
 - łóżko w poprzek nie przekroczy szerokości auta, więc osoby powyżej około 185 cm wzrostu potrzebują poszerzeń.
 
 #### Łóżko francuskie, łazienka w rogu tyłu
+
+![Rys. 3. Affinity One: łóżko francuskie, łazienka w rogu tyłu](_rysunki/uklady/rys05-affinity-one.svg)
 
 Otwarta szoferka z fotelami obrotowymi i stolik, za nimi zwykle drugi rząd, a kuchnia stoi tam, gdzie zostaje miejsce: z boku albo w poprzek, tuż za tylną ławą, jak w Affinity One. Wysokie szafy i łazienka stoją na samym końcu auta. Łóżko francuskie, czyli nie na całą szerokość auta, leży wzdłuż przy jednej ścianie, a w wąskim aucie bywa wyginane i poszerzane. Łazienka zajmuje róg tyłu, tylko część szerokości, a reszta tyłu pracuje jako bagażnik z dostępem od tylnych drzwi.
 
@@ -114,6 +120,8 @@ Niektórzy producenci rozwiązują ten problem podnoszonym dachem. Fragment dach
 
 #### Łóżka piętrowe z tyłu plus łóżko z jadalni
 
+![Rys. 4. Dethleffs Globetrail Active 600 KS: łóżka piętrowe z tyłu, jadalnia z drugim rzędem](_rysunki/uklady/rys04-dethleffs-globetrail-active-600ks.svg)
+
 W takim układzie obniżamy tylne poprzeczne łóżko kosztem przestrzeni bagażowej poniżej i tworzymy nad nim kolejny poziom, tworząc łóżko piętrowe.
 
 Za przykład do rysunku bierzemy Dethleffs Globetrail Active 600 KS, kampervan z największą liczbą miejsc do spania, jaką w życiu widziałem. W standardzie ma z tyłu dwa poprzeczne łóżka jedno nad drugim, razem cztery miejsca do spania. Do tego można dobrać dwie opcje: podnoszony dach (+2 osoby) i łóżko rozkładane z przedniej kanapy (+1 osoba). Można więc policzyć, że ten kampervan jest teoretycznie w stanie przenocować aż siedem osób naraz, mimo że jechać nim mogą „tylko” cztery :)
@@ -135,6 +143,8 @@ Za przykład do rysunku bierzemy Dethleffs Globetrail Active 600 KS, kampervan z
 
 #### Dwa pojedyncze łóżka wzdłuż ścian, łączone
 
+![Rys. 5. Carado CV640: dwa pojedyncze łóżka wzdłuż ścian](_rysunki/uklady/rys13-carado-cv640.svg)
+
 Przód taki sam jak w dwóch poprzednich, łazienka na środku, a z tyłu łóżko leżące wzdłuż auta. Będąc bardziej precyzyjnym, to są najczęściej dwa łóżka, ustawione wzdłuż obok siebie, tworzące jedno większe. Cały sens tego układu jest jednak w tym, że każde z łóżek osobno da się podnieść do pionu wzdłuż dłuższej krawędzi, tak że stoi wzdłuż swojej ściany. Wtedy od tylnych drzwi w głąb auta otwiera się przejście na całą wysokość, a do środka wjeżdżają rowery, deski, narty albo cokolwiek, co nie zmieści się pod łóżkiem.
 
 Za przykład do rysunku bierzemy Carado CV640: łóżko wzdłuż, łazienka na środku i cztery miejsca do jazdy.
@@ -155,6 +165,8 @@ Za przykład do rysunku bierzemy Carado CV640: łóżko wzdłuż, łazienka na �
 - stałe łóżko wzdłuż zjada 190–200 cm długości auta, a w poprzek tylko około 120 cm, dlatego ten układ potrzebuje długiej bazy i zostawia mało miejsca poza łóżkiem.
 
 #### Łóżko opuszczane z sufitu
+
+![Rys. 6. Bürstner Eliseo C 644: łóżko opuszczane z sufitu nad salonem](_rysunki/uklady/rys14-burstner-eliseo-c644.svg)
 
 Nad strefą dzienną albo nad tyłem wisi łóżko podnoszone pod sufit. W dzień pod nim jest normalna przestrzeń, salon albo garaż, a na noc łóżko opada i opiera się na zabudowie. Mechanizm to gotowy system albo własna konstrukcja na silniku rurowym, takim jak do rolet, i moim zdaniem to bardzo trudna rzecz do zrobienia samemu.
 
@@ -184,6 +196,8 @@ Minus jest jeden: fotele bez obrotnic nie będą miejscem siedzącym przy stole 
 
 ### Układy z zamkniętym tyłem
 
+![Rys. 7. Affinity Duo: łazienka i garaż na całą szerokość tyłu, łóżko przed nimi](_rysunki/uklady/rys06-affinity-duo.svg)
+
 Otwarta szoferka, strefa dzienna i kuchnia, dalej łóżko, a cały tył to zamknięta łazienka na pełną szerokość auta.
 
  Do łazienki wchodzi się przejściem od strony sypialni, a od tylnych drzwi jest ściana.
@@ -211,6 +225,8 @@ Za przykład do rysunku bierzemy Affinity Duo, łóżko wzdłuż przed łazienk�
 - łazienka na całą szerokość zjada około 80 cm długości paki, więc układ wymaga długiego auta.
 
 #### Nasz układ
+
+![Rys. 8. Nasz układ: otwarty przód, dwa biurka, łóżko wzdłuż, łazienka na cały tył](_rysunki/nasz-uklad/nasz-uklad.svg)
 
 Nasz układ to odmiana tego samego pomysłu, w Peugeocie Boxerze L4H3. Od przodu: otwarta szoferka bez ściany grodziowej i dwa pojedyncze fotele obrotowe. Dwa biurka: moje, zamontowane na szynie wzdłuż ściany i Weroniki, na jachtowym ramieniu Lagun, po stronie drzwi przesuwnych. Za moim biurkiem stoi lodówka. Łóżko leży wzdłuż lewej ściany, ma około 190 cm na 110 cm. Pod spodem siedzi zbiornik na wodę szarą, boiler, akumulatory i część bagażu. Obok łóżka biegnie przejście do łazienki. Kuchnia stoi wzdłuż prawej ściany. Łazienka zajmuje cały tył: prysznic 75 na 50 cm od lewej ściany, toaleta na środku z umywalką od prawej, plus mała tego szafka. Za łazienką jest stała pełna ściana, bez wejścia od tylnych drzwi.
 
