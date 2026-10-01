@@ -2,14 +2,14 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 261 532 słów ≈ 654 stron (zatwierdzone: 86 407 słów ≈ 216 stron, 33.0%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 261 571 słów ≈ 654 stron (zatwierdzone: 86 446 słów ≈ 216 stron, 33.0%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 15/15 rozdziałów, 85 705 z 85 705 słów (100%) — 32.8% książki
+## Tom 1: Zaplanuj — zatwierdzone 15/15 rozdziałów, 85 718 z 85 718 słów (100%) — 32.8% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
-| JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 351 | 1 | 0.4% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
+| JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 364 | 1 | 0.4% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
 | ONAS |  | [O nas (dlaczego ta książka)](tom-1-zaplanuj/ONAS-o-nas.md) | 4370 | 11 | 5.1% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
 | BOXER |  | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3199 | 8 | 3.7% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
 | SPON |  | [Ta książka nie ma sponsorów](tom-1-zaplanuj/SPON-sponsorzy.md) | 428 | 1 | 0.5% | 0.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-SPON) | ✓ | – |
@@ -26,11 +26,11 @@ Cała książka: 261 532 słów ≈ 654 stron (zatwierdzone: 86 407 słów ≈ 2
 | HYDRO | 11 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8841 | 22 | 10.3% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
 | PRAD | 12 | [Elektryka od zera (Watt/Volt/Amper)](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6133 | 15 | 7.2% | 2.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
-## Tom 2: Zbuduj — zatwierdzone 0/17 rozdziałów, 351 z 104 022 słów (0%) — 39.8% książki
+## Tom 2: Zbuduj — zatwierdzone 0/17 rozdziałów, 364 z 104 035 słów (0%) — 39.8% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
-| JAK |  | [Jak czytać tę trylogię?](tom-2-zbuduj/JAK-jak-czytac-trylogie.md) | 351 | 1 | 0.3% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom2-JAK) | ✓ | – |
+| JAK |  | [Jak czytać tę trylogię?](tom-2-zbuduj/JAK-jak-czytac-trylogie.md) | 364 | 1 | 0.3% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom2-JAK) | ✓ | – |
 | BLACH | 1 | Przygotowanie blachy, antykorozja | plan: 889 | 2 | 0.9% | 0.3% | ✏️ | – | – | – |
 | IZOL | 2 | Izolacja | plan: 2823 | 7 | 2.7% | 1.1% | ✏️ | – | – | – |
 | OKNA | 3 | Okna, wentylacja, klimatyzacja | plan: 2801 | 7 | 2.7% | 1.1% | ✏️ | – | – | – |
@@ -49,11 +49,11 @@ Cała książka: 261 532 słów ≈ 654 stron (zatwierdzone: 86 407 słów ≈ 2
 | BLEDY | 16 | Najczęstsze błędy | plan: 6807 | 17 | 6.5% | 2.6% | ✏️ | – | – | – |
 | BUDZ | 17 | Trzy warianty budżetu i masy: suma | plan: 5708 | 14 | 5.5% | 2.2% | ✏️ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom2-BUDZ) | – | – |
 
-## Tom 3: Wyposaż i jedź — zatwierdzone 0/13 rozdziałów, 351 z 71 805 słów (0%) — 27.5% książki
+## Tom 3: Wyposaż i jedź — zatwierdzone 0/13 rozdziałów, 364 z 71 818 słów (1%) — 27.5% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
-| JAK |  | [Jak czytać tę trylogię?](tom-3-wyposaz-i-jedz/JAK-jak-czytac-trylogie.md) | 351 | 1 | 0.5% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-JAK) | ✓ | – |
+| JAK |  | [Jak czytać tę trylogię?](tom-3-wyposaz-i-jedz/JAK-jak-czytac-trylogie.md) | 364 | 1 | 0.5% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom3-JAK) | ✓ | – |
 | ZAWIE | 1 | Zawieszenie i opony | plan: 6030 | 15 | 8.4% | 2.3% | ✏️ | – | – | – |
 | BAGAZ | 2 | Bagażniki, haki, przyczepy | plan: 6091 | 15 | 8.5% | 2.3% | ✏️ | – | – | – |
 | SMART | 3 | Smart kamper | plan: 6245 | 16 | 8.7% | 2.4% | ✏️ | – | – | – |
