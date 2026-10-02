@@ -450,7 +450,7 @@ To narzędzie, którego dużo osób nie docenia, a tak naprawdę wszystkie poł�
 
 My kupiliśmy go właśnie dlatego: wymagała tego instrukcja naszej stosunkowo drogiej klimatyzacji dachowej. Jest zamontowana na ścisk — na „kanapkę” — bez kleju i śrub. Żeby nie odleciała z dachu, a jednocześnie nie przenosiła na blachę zbyt wielu drgań kompresora, musiała być dokręcona bardzo dokładnie: na 2,5 niutonometra, z tolerancją 0,3. Kupiliśmy do tego Werę 7441 Kraftform, o zakresie od 1,2 do 3 niutonometrów, i moim zdaniem to bardzo dobry wkrętak: wygodny w użyciu i z bardzo dokładną podziałką.
 
-Warto zastanowić się, jakiej firmy wkrętak kupujecie, bo to narzędzie precyzyjne. Wera podaje dla swojego dokładność ±6 %, a w profesjonalnych warsztatach wręcz kalibruje się od czasu do czasu. Zakres do 3 Nm wystarcza na śruby M4, bo M4 dokręca się momentem niecałych 2 Nm. M5 potrzebuje już prawie 4, a M6 ponad 6, więc do większych śrub nasz wkrętak to za mało.
+Warto zastanowić się, jakiej firmy wkrętak kupujecie, bo to narzędzie precyzyjne. Wera podaje dla swojego dokładność ±6%, a w profesjonalnych warsztatach wręcz kalibruje się od czasu do czasu. Zakres do 3 Nm wystarcza na śruby M4, bo M4 dokręca się momentem niecałych 2 Nm. M5 potrzebuje już prawie 4, a M6 ponad 6, więc do większych śrub nasz wkrętak to za mało.
 
 #### Zestaw kluczy i nasadki z grzechotką
 

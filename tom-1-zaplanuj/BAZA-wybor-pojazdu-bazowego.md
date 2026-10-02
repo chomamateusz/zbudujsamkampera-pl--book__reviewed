@@ -28,7 +28,7 @@ Producenci dostawczaków opisują wersje nadwozia dwoma literami z cyframi: **L*
 
 Jest tu jedna pułapka, i to dość poważna: **te kody nie są znormalizowane między markami**. L4 u Fiata i L4 u Forda to dwie różne długości. Mało tego! Skala nie zaczyna się u wszystkich producentów w tym samym miejscu ani nie kończy — jedni mają cztery długości, inni pięć, jedni trzy wysokości, inni dwie.
 
-W rodzinie „wieloraczków” na bazie Ducato skala wygląda tak: L1 — 4,96 m, L2 — 5,41 m, L3 — 5,99 m, L4 — 6,36 m długości całkowitej; H1 — 2,25 m, H2 — 2,52 m, H3 — 2,76 m wysokości całkowitej, więc L4H3 (nasza baza) to faktycznie szczyt skali. Ciekawostka: L1 i H1 istnieją w cennikach, ale to naprawdę małe auta — jako bazy kamperów praktycznie ich nie spotkacie, dlatego w praktyce kamperowej skala zaczyna się od L2 H2.
+W rodzinie „wieloraczków” na bazie Ducato skala wygląda tak: L1 — 4,96 m, L2 — 5,41 m, L3 — 5,99 m, L4 — 6,36 m długości całkowitej; H1 — 2,25 m, H2 — 2,52 m, H3 — 2,76 m wysokości całkowitej, więc L4H3 (nasza baza) to faktycznie szczyt skali. Ciekawostka: L1 i H1 istnieją w cennikach, ale to naprawdę małe auta — jako bazy kamperów praktycznie ich nie spotkacie, dlatego w praktyce kamperowej skala zaczyna się od L2H2.
 
 Sprinter, Crafter czy Transit mają własne skale. Dlatego przez całą książkę, kiedy piszę L4 albo H3 bez nazwy modelu, mam na myśli rodzinę „wieloraczków” — bo na niej jeździmy i na niej powstaje większość polskich zabudów. Porównując auta różnych marek, porównujcie **dokładne wymiary**, nie kody. I jeszcze jedno: nikt nie gwarantuje, że te same kody oznaczają te same wymiary między generacjami jednego modelu — producent potrafi wydłużyć auto o kilkanaście centymetrów i zostawić literkę bez zmian. Zawsze zaglądajcie do aktualnej karty technicznej tej wersji, którą naprawdę kupujecie, a najlepiej zmierzcie na miejscu :)
 
@@ -63,7 +63,7 @@ I tu jest rada, która nie wymaga od Was żadnego zastanowienia: **jeżeli decyz
 
 ### Jak dużo mieści się poniżej dwóch metrów?
 
-Na targach zobaczyliśmy kiedyś Karman-Mobil Duncan 535 — fabryczny kamper na Fordzie Transicie Custom, według ogłoszenia 534 cm długości, 208 cm szerokości i 208 cm wysokości (ta konkretna wersja minimalnie przekracza magiczne 2 m, nie mierzyłem, ale wydaje mi się, że przez markizę). Toaleta z kasetą wyjmowaną przez tylne drzwi, kran umywalki, który jest jednocześnie słuchawką prysznicową, demontowalny sufit pod podnoszonym dachem, który może robić za dodatkowe łóżko. Nigdy w życiu nie widzieliśmy lepiej pomyślanej tak małej przestrzeni! Nowy kosztował niecałe 300 tysięcy złotych. Nie kupiliśmy go i nie zamierzamy — ale jeżeli planujecie wakacyjnie, obejrzyjcie go sobie choćby po to, żeby zobaczyć, ile da się upchnąć w tak niskim aucie. 
+Na targach zobaczyliśmy kiedyś Karmann-Mobil Duncan 535 — fabryczny kamper na Fordzie Transicie Custom, według ogłoszenia 534 cm długości, 208 cm szerokości i 208 cm wysokości (ta konkretna wersja minimalnie przekracza magiczne 2 m, nie mierzyłem, ale wydaje mi się, że przez markizę). Toaleta z kasetą wyjmowaną przez tylne drzwi, kran umywalki, który jest jednocześnie słuchawką prysznicową, demontowalny sufit pod podnoszonym dachem, który może robić za dodatkowe łóżko. Nigdy w życiu nie widzieliśmy lepiej pomyślanej tak małej przestrzeni! Nowy kosztował niecałe 300 tysięcy złotych. Nie kupiliśmy go i nie zamierzamy — ale jeżeli planujecie wakacyjnie, obejrzyjcie go sobie choćby po to, żeby zobaczyć, ile da się upchnąć w tak niskim aucie. 
 Pozwólcie, że powtórzę jeszcze raz — w tym aucie jest prysznic! Wewnątrz, nie na zewnątrz! Jedyne takie małe, seryjnie produkowane auto z pełną łazienką, jakie widzieliśmy. 
 
 Typowymi przedstawicielami baz pod zabudowę do 2 m wysokości są właśnie Ford Transit Custom (z fabrycznym kamperem Nugget), Volkswagen Transporter z jego legendarną Californią, Mercedes Vito z Marco Polo, Renault Trafic i jego bliźniak Nissan Primastar oraz „pięcioraczki” — Citroën Jumpy, Peugeot Expert, Opel Vivaro, Fiat Scudo i Toyota ProAce. W wersjach kempingowych występują, prawie zawsze, z podnoszonym dachem, w którym fabryczne zabudowy mają sypialnię i — prawie zawsze — toaletę turystyczną zamiast pełnej łazienki. Dlatego Duncan jest w tej klasie wyjątkiem, a nie regułą.
@@ -125,7 +125,7 @@ Warto wiedzieć: Już dziś na kategorię B (po dwóch latach stażu) wolno w P
 - nadwyżka ponad 3,5 t wynika z napędu (czyli głównie z masy baterii) i jest odnotowana w dowodzie rejestracyjnym — to praktycznie najważniejszy haczyk: bez tej adnotacji przy rejestracji przywilej nie działa.
 Polecam traktować to raczej jako ciekawostkę, ponieważ wynika to wyłącznie z polskiego ustawodawstwa, czyli wcale niekoniecznie działa w całej Unii Europejskiej (na dzień pisania książki). Podstawa: art. 6 ust. 3 pkt 4 ustawy o kierujących pojazdami (dodany nowelizacją ustawy o elektromobilności z 2.12.2021). 
 
-Dla cierpliwych: przyjęta 22 października 2025 roku i opublikowana 5 listopada 2025 dyrektywa UE 2025/2205 w sprawie praw jazdy wprost wpisuje kampery do kategorii B. Konkretnie: pozwala na kategorię B prowadzić „motor caravan” — czyli pojazd homologowany jako kamper (pojazd specjalnego przeznaczenia kategorii M) — o DMC powyżej 3,5 t do 4,25 t, także z przyczepą, jeśli cały zestaw nie przekracza 5 t. Warunek: ukończenie szkolenia albo zdanie egzaminu z umiejętności (albo jedno i drugie — o tym decyduje każde państwo osobno), a uprawnienie zapisuje się w prawie jazdy osobnym unijnym kodem. To nie jest opcja, którą kraj może pominąć — kampery weszły do wspólnego, obowiązkowego zakresu kategorii B. Terminy są za to odległe: państwa mają czas na uchwalenie swoich przepisów do 26 listopada 2028 roku, a stosować je mają od 26 listopada 2029. Realnie kamper 4,25 tony na kategorię B to więc niewcześniej niż koniec 2029 roku. Żeby nie było złudzeń: nowa kategoria B zmieni to, **czym** możecie jechać — nie podniesie DMC żadnego auta. I nawet kiedy kamper 4,25 tony wejdzie na kategorię B, dla e-TOLL i podobnych systemów prawdopodobnie pozostanie pojazdem powyżej 3,5 t. Tu trzeba śledzić zmiany na bieżąco, ale warto o tym pamiętać, bo przepisy zmieniają się powoli, za to w dobrą stronę :)
+Dla cierpliwych: przyjęta 22 października 2025 roku i opublikowana 5 listopada 2025 dyrektywa UE 2025/2205 w sprawie praw jazdy wprost wpisuje kampery do kategorii B. Konkretnie: pozwala na kategorię B prowadzić „motor caravan” — czyli pojazd homologowany jako kamper (pojazd specjalnego przeznaczenia kategorii M) — o DMC powyżej 3,5 t do 4,25 t, także z przyczepą, jeśli cały zestaw nie przekracza 5 t. Warunek: ukończenie szkolenia albo zdanie egzaminu z umiejętności (albo jedno i drugie — o tym decyduje każde państwo osobno), a uprawnienie zapisuje się w prawie jazdy osobnym unijnym kodem. To nie jest opcja, którą kraj może pominąć — kampery weszły do wspólnego, obowiązkowego zakresu kategorii B. Terminy są za to odległe: państwa mają czas na uchwalenie swoich przepisów do 26 listopada 2028 roku, a stosować je mają od 26 listopada 2029. Realnie kamper 4,25 tony na kategorię B to więc nie wcześniej niż koniec 2029 roku. Żeby nie było złudzeń: nowa kategoria B zmieni to, **czym** możecie jechać — nie podniesie DMC żadnego auta. I nawet kiedy kamper 4,25 tony wejdzie na kategorię B, dla e-TOLL i podobnych systemów prawdopodobnie pozostanie pojazdem powyżej 3,5 t. Tu trzeba śledzić zmiany na bieżąco, ale warto o tym pamiętać, bo przepisy zmieniają się powoli, za to w dobrą stronę :)
 
 ## Sześć metrów długości
 
@@ -204,7 +204,7 @@ Transit ma dziś dwa asy: silnik 2.0, czyli niską akcyzę i względnie niską 
 
 Paka jest szerokości Sprintera, a L4 to ten sam rozstaw osi co L3 z prawie dwumetrowym zwisem tylnym, dostępny tylko z napędem na tył albo na cztery koła. Ładowność wersji 3,5 t to około 1,4 t, jedna z najlepszych w stawce.
 
-Samodzielnych zabudów na Transicie jeszcze nie widzieliśmy, Ford sam też ich nie robi — za to seryjnych kamperów jest kilka ciekawych — np. Sunlight 4x4 to gotowy nowy kamper poniżej 400 tysięcy, na tle aut MAN i Sprinterów 4x4 z zabudową za jakieś 500-600 tysięcy wypada bardzo atrakcyjnie; sami się kiedyś nad nim serio zastanawialiśmy.
+Samodzielnych zabudów na Transicie jeszcze nie widzieliśmy, Ford sam też ich nie robi — za to seryjnych kamperów jest kilka ciekawych — np. Sunlight Cliff 4x4 to gotowy nowy kamper poniżej 400 tysięcy, na tle aut MAN i Sprinterów 4x4 z zabudową za jakieś 500-600 tysięcy wypada bardzo atrakcyjnie; sami się kiedyś nad nim serio zastanawialiśmy.
 
 ### Master i Interstar
 
@@ -243,7 +243,7 @@ Na pierwszego kampera — jak kupicie L4H2 albo L4H3 z wieloraczków, to nie ma 
 
 Warto wiedzieć, że katalogowa wysokość wewnętrzna to maksymalna wysokość, jaką da się zmierzyć — najczęściej będzie to wysokość między płaską częścią sufitu a podłogą. O ile podłoga, pomijając nadkola, jest względnie płaska, to sufit ma plus minus co pół metra profile konstrukcyjne zabierające z wysokości po kilka centymetrów. Po drugie, od podanej wysokości między podłogą a profilami odejmijcie izolację i zabudowę: u nas 5 cm z podłogi i około 10 cm z sufitu (głównie przez profile). Nasze H3 o katalogowych 2172 mm w środku ma realnie niecałe 2 m. Pamiętajcie również, że pod prysznicem, z racji, że brodzik wraz z odpływem w najlepszym układzie będzie jeszcze 10 cm, a zazwyczaj 20 cm nad podłogą (jak u nas), zostaje już 1,80 m. 
 
-Wniosek jest taki, że w najwyższej wersji paki w wieloraczkach swobodnie stanie prawie każdy niezależnie od wzrostu, ale już pod prysznicem naprawdę wysokie osoby mogą mieć problem nawet w najwyższej wersji H3. H2 będzie jeszcze o około 20 cm niższa. 
+Wniosek jest taki, że w najwyższej wersji paki w wieloraczkach swobodnie stanie prawie każdy niezależnie od wzrostu, ale już pod prysznicem naprawdę wysokie osoby mogą mieć problem nawet w najwyższej wersji H3. H2 będzie jeszcze o około 24 cm niższa. 
 
 My oboje mamy około 1,73 m i w naszym H3 zostaje nam ponad 20 cm nad głową. Luksus: da się suszyć włosy suszarką jak w domu :)
 
@@ -286,9 +286,9 @@ Ogólna reguła, którą z tych rozmów wyniosłem, jest prosta i dotyczy każde
 ### Co mówimy my
 
 Jeździmy najmocniejszym 2.0 i przy 3,5 t mocy nie ma się czego bać. Nasz zestaw z przyczepką ma 4,25 t DMC i silnik ciągnie go bez problemu. Bez przyczepki 140 km/h jest osiągalne. Zazwyczaj jeździmy 100–110 km/h solo ze spalaniem 10 l i około 13 z przyczepką (jadąc 80 km/h). Ograniczeniem nie jest moc, tylko przyczepność, o której już pisaliśmy. Mieliśmy do tej pory problemy z:
-    - spalaniem oleju — stosunkowo niedroga wymiana odmy
-    - skrystalizowanym AdBlue — droga regeneracja pompy — od tej pory działa
-    - zapchanym DPF — regeneracja
+- spalaniem oleju — stosunkowo niedroga wymiana odmy
+- skrystalizowanym AdBlue — droga regeneracja pompy — od tej pory działa
+- zapchanym DPF — regeneracja
 
 Szczerze mówiąc, bardzo często różnica w akcyzie, którą powinniśmy policzyć od gotowego pojazdu z zabudową, będzie równie droga, jak potencjalny remont silnika. Oczywiście wszystko zależy od ceny i wysokości, ostatecznej wysokości akcyzy, ale to są porównywalne kwoty. Więc szczerze mówiąc, większe silniki niż 2.0 brałbym tylko w przypadku, gdybym z innych względów koniecznie chciał kupić dany model samochodu z danego rocznika, w którym mniejsze silniki nie występują. 
 

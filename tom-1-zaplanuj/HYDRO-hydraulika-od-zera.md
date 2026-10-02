@@ -33,7 +33,7 @@ Zużycie składa się z kilku pozycji i każdą da się policzyć osobno:
 
 Liczy się czas, przez jaki woda leci, a nie czas spędzony pod prysznicem. W kamperach montuje się słuchawki z przyciskiem, takie jak przy bidetach: woda płynie tylko wtedy, gdy go naciskacie. Moczycie się, puszczacie przycisk, mydlicie się na sucho i dopiero potem spłukujecie. Dzięki temu nawet długi prysznic zużywa wodę zaledwie przez minutę czy dwie.
 
-Mimo to prysznic pozostaje największą pozycją „zjadającą” wodę i to na nim powinniśmy się skupić projektując i budując. Nie trzeba myć się krócej, ani rzadziej — wystarczy wylewać mniej litrów na minutę :) Sprawdziliśmy to na sobie. W naszym kamperze wielokrotnie zmienialiśmy pompę wody i nieraz zmienialiśmy jej parametry. Jeśli chodzi o prędkość pompowania mieliśmy wersje: 13, 11 i 7,5 l na minutę.
+Mimo to prysznic pozostaje największą pozycją „zjadającą” wodę i to na nim powinniśmy się skupić projektując i budując. Nie trzeba myć się krócej ani rzadziej — wystarczy wylewać mniej litrów na minutę :) Sprawdziliśmy to na sobie. W naszym kamperze wielokrotnie zmienialiśmy pompę wody i nieraz zmienialiśmy jej parametry. Jeśli chodzi o prędkość pompowania mieliśmy wersje: 13, 11 i 7,5 l na minutę.
 
 Przy 13 l na minutę wrażenie było prawie jak w domu, z wodą z wodociągu — ale nasz zbiornik wystarczał nam na zaledwie dwa dni, czyli na cztery prysznice i zmywanie. Dziś mamy najniższy przepływ, zaledwie 7,5 l na minutę, i daje to mniejszy komfort używania, ale ten sam zbiornik starcza na trzy dni, czyli na sześć pryszniców i zmywanie :)
 

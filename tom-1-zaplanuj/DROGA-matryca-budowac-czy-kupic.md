@@ -35,7 +35,7 @@ Niestandardowe układy wnętrza mają jednak nieprzewidziane wady — dowiecie 
 
 ### Co jest naprawdę najtrudniejsze?
 
-**Najtrudniejsze wcale nie jest to, czego się boicie.** Elektryki boi się każdy, a to akurat najmniejszy problem: są gotowe zestawy, można też po prostu wstawić przenośną stację zasilania. Do tego to chyba najlepiej opisany temat na wszystkich blogach. Najtrudniejsze są stolarka i hydraulika — i o nich nie pisze prawie nikt. Ludzie zakładają, że to tylko „rurki i drewienka”, jakoś się zrobi :) Ponadto elektrykę w domowym warsztacie zrobicie przykładając się w bardzo zbliżony sposób do profesjonalisty, jeśli chcecie profesjonalne narzędzia, których wymaga kamperowa elektryka nie są też tak drogie, jak stolarskie.
+**Najtrudniejsze wcale nie jest to, czego się boicie.** Elektryki boi się każdy, a to akurat najmniejszy problem: są gotowe zestawy, można też po prostu wstawić przenośną stację zasilania. Do tego to chyba najlepiej opisany temat na wszystkich blogach. Najtrudniejsze są stolarka i hydraulika — i o nich nie pisze prawie nikt. Ludzie zakładają, że to tylko „rurki i drewienka”, jakoś się zrobi :) Ponadto elektrykę w domowym warsztacie zrobicie przykładając się w bardzo zbliżony sposób do profesjonalisty, jeśli chcecie profesjonalne narzędzia, których wymaga kamperowa elektryka, nie są też tak drogie, jak stolarskie.
 Nie bez powodu elektryk przychodzi do domu z niewielką torbą na narzędzia, a stolarze, którzy na co dzień zajmują się tworzeniem mebli pod wymiar po wykonaniu projektu zamawiają formatki (precyzyjnie docięte fragmenty płyty) w firmie posiadającej odpowiednie maszyny. Żaden z nich nie tnie ich ręcznie, bo trzeba to robić niezwykle precyzyjnie by nie zrobić wyrw na wierzchniej warstwie, a i tak nie zawsze się uda. 
 Oczywiście nie można bagatelizować elektryki. Błąd w instalacji potrafi skończyć się pożarem (serio)! Chcę tylko, żebyście byli świadomi, że zabudowa i hydraulika to nie „pikuś”.
 
@@ -183,11 +183,11 @@ Dla kogo nie:
 
 ### Ścieżka 4: zlecacie zabudowę
 
-Co, jeśli chcecie gotowy, ale jednak skrojony pod Was? Istnieją firmy, które robią zabudowy customowe, ale uwaga! Bardzo duża część firm nie pozwala wybrać i zaprojektować całej zabudowy, tylko tworzą zabudowę według jednego z ich gotowych projektów. Nadal możecie wybrać osprzęt, ale nie zmienicie za bardzo układu wnętrza. Jest bardzo mało firm, które są w stanie wykonać wszystko dla Was. Ma to prostą przyczynę. Mało kto z zamawiających chce dopłacać za to, wykonawca, że musi stworzyć dla niego cały projekt od podstaw oraz spędzić długie godziny na dogranie wszystkich szczegółów zabudowy.  
+Co, jeśli chcecie gotowy, ale jednak skrojony pod Was? Istnieją firmy, które robią zabudowy customowe, ale uwaga! Bardzo duża część firm nie pozwala wybrać i zaprojektować całej zabudowy, tylko tworzą zabudowę według jednego z ich gotowych projektów. Nadal możecie wybrać osprzęt, ale nie zmienicie za bardzo układu wnętrza. Jest bardzo mało firm, które są w stanie wykonać wszystko dla Was. Ma to prostą przyczynę. Mało kto z zamawiających chce dopłacać za to, że wykonawca musi stworzyć dla niego cały projekt od podstaw oraz spędzić długie godziny na dogranie wszystkich szczegółów zabudowy.  
 
 Ile to kosztuje? Zależy jaką zabudowę chcemy. Najtańsze zabudowy zaczynają się od 100–150 tysięcy złotych w zależności od sprzętu a kończą nawet na 500 tysiącach, jeśli chcemy aluminiowe meble przystosowane do wersji terenowej. Oczywiście do tego musimy mieć nadal własne auto — czyli całość ląduje realnie w okolicach ceny najtańszych gotowców poprzedniej ścieżki. Realna opcja na obniżenie ceny to kupno nie nowej, a używanej bazy. 
 
-Teraz kuszący wariant pośredni, który bywa — „sam nie umiem wszystkiego, to pozlecam po kawałku różnym fachowcom: stolarzowi meble, elektrykowi prąd, hydraulikowi wodę” — w praktyce się nie sprawdza. Budujący musi być „wielobranżystą”, bo inaczej koordynacja zabija projekt. W kamperze wszystko przenika się ze wszystkim: kabel czy rura idzie przez szafkę, ogrzewania musi być rozprowadzone, a każdy fachowiec zna tylko swoją działkę i swoje standardy — z budownictwa domowego, nie kamperowego. Ktoś musi trzymać całość w głowie. Jeśli to nie jesteście Wy albo jedna odpowiedzialna za całość firma — to nikt :/
+Teraz kuszący wariant pośredni, który bywa — „sam nie umiem wszystkiego, to pozlecam po kawałku różnym fachowcom: stolarzowi meble, elektrykowi prąd, hydraulikowi wodę” — w praktyce się nie sprawdza. Budujący musi być „wielobranżystą”, bo inaczej koordynacja zabija projekt. W kamperze wszystko przenika się ze wszystkim: kabel czy rura idzie przez szafkę, ogrzewanie musi być rozprowadzone, a każdy fachowiec zna tylko swoją działkę i swoje standardy — z budownictwa domowego, nie kamperowego. Ktoś musi trzymać całość w głowie. Jeśli to nie jesteście Wy albo jedna odpowiedzialna za całość firma — to nikt :/
 
 Nie chcę też, żeby to brzmiało, jakbym w ogóle odradzał zlecanie. Zlecanie jest super pod warunkiem, że Wy to koordynujecie, a w najlepszym wypadku to Wy tworzycie zabudowę. Po prostu nie dajcie się zwieść, że zlecając po kolei kilku różnym fachowcom budowę będziecie mieli spójną całość. Prawdopodobnie w ogóle nie będziecie mieć całości :) 
 
@@ -229,13 +229,13 @@ To jedyna ścieżka z pięciu, na której prawie zawsze kończycie nie w kamper
 - półintegra — kabina dostawczaka też zostaje, tylko bez sypialni nad nią; łóżko jest najczęściej z tyłu, czasem opuszczane nad salonem; 
 - integra — producent zabudowuje gołe podwozie, bez oryginalnej blaszanej kabiny, więc cały przód jest już częścią zabudowy;
 
-Zabudowa mieszkalna, czyli „buda” w trzech ostatnich typach to nie blacha furgonu, tylko ściany, dach i podłoga z płyty warstwowej tak zwanego „sandwicha”: z zewnątrz blacha aluminiowa albo laminat, w środku rdzeń ze styropianu albo pianki, od wewnątrz często sklejka. W starszych autach całość jest postawione na szkielecie z drewnianych listew, między którymi siedzi styropian. Nowsze konstrukcje od drewna odchodzą na rzecz innych materiałów. Nie dotyczy to jednak wszystkich nadal konstrukcja z profili drewnianych się zdarza. Przy kamperze sprzed kilkunastu albo dwudziestu lat zakładajcie więc, że są oparte o drewniany szkielet, dopóki nie sprawdzicie, że jest inaczej. 
+Zabudowa mieszkalna, czyli „buda” w trzech ostatnich typach to nie blacha furgonu, tylko ściany, dach i podłoga z płyty warstwowej tak zwanego „sandwicha”: z zewnątrz blacha aluminiowa albo laminat, w środku rdzeń ze styropianu albo pianki, od wewnątrz często sklejka. W starszych autach całość jest postawiona na szkielecie z drewnianych listew, między którymi siedzi styropian. Nowsze konstrukcje od drewna odchodzą na rzecz innych materiałów. Nie dotyczy to jednak wszystkich nadal konstrukcja z profili drewnianych się zdarza. Przy kamperze sprzed kilkunastu albo dwudziestu lat zakładajcie więc, że są oparte o drewniany szkielet, dopóki nie sprawdzicie, że jest inaczej. 
 
 Jeśli kupujecie seryjnego kampera sprzed dziesięciu, piętnastu, a nawet dwudziestu i więcej lat to jedno jest od razu pewne: papiery i homologacja będzie w porządku, a auto od lat zarejestrowane jako specjalny kempingowy, układ wnętrza sprawdzony przez tysiące egzemplarzy. Wbrew pozorom w układach wnętrz kamperów niewiele się zmieniło przez lata :) 
 
 W zamian dostajecie auto starego typu, często ze słabym silnikiem i stary sprzęt na pokładzie.
 
-Największa potencjalna pułapka w tej ścieżce to woda. Przy starych kamperach jest praktycznie nieuniknione, że prędzej czy później podczas drogi, drgań i różnych rzeczy, które to auto przeszło podczas jazdy, gdzieś dostała się woda, w szczególności przy otworach w dachu jak okna czy przepusty kalbowe. Taki przeciek wędruje po listwach i szkielecie w dół i gnije tam, gdzie nikt nie zagląda — w podłodze, w tylnych narożnikach, w alkowie — a zgniły szkielet i rozwarstwiona płyta to już nie drobny remont, tylko odbudowa konstrukcji. W nowszych autach brak drewna w konstrukcji ogranicza gnicie, ale przecieku nie wyklucza.
+Największa potencjalna pułapka w tej ścieżce to woda. Przy starych kamperach jest praktycznie nieuniknione, że prędzej czy później podczas drogi, drgań i różnych rzeczy, które to auto przeszło podczas jazdy, gdzieś dostała się woda, w szczególności przy otworach w dachu jak okna czy przepusty kablowe. Taki przeciek wędruje po listwach i szkielecie w dół i gnije tam, gdzie nikt nie zagląda — w podłodze, w tylnych narożnikach, w alkowie — a zgniły szkielet i rozwarstwiona płyta to już nie drobny remont, tylko odbudowa konstrukcji. W nowszych autach brak drewna w konstrukcji ogranicza gnicie, ale przecieku nie wyklucza.
 
 Oczywiście nie ma szans rozbierać ściany przed zakupem. Da się za to zmierzyć wilgotność miernikiem, punkt po punkcie: wokół okien, na łączeniach ścian, w alkowie, w tylnych narożnikach, przy krawędziach podłogi. Odczyty miernika pojemnościowego są porównawcze, więc liczą się na tle innych punktów tego samego auta; pomiar igłowy zostawia dziurki i wymaga zgody sprzedającego. Pamiętajcie, że interesują Was ściany, sufit i podłoga w szczególności w narożnikach. Higrometr postawiony na stole mierzy powietrze — to jak mierzenie gorączki termometrem za oknem :)
 
@@ -261,11 +261,11 @@ Zalety:
 - układ sprawdzony przez fabrykę i tysiące użytkowników;
 - stare kampery w niezłym stanie da się kupić już od 40–50 tys. zł — tyle że w tej cenie będzie to auto mniej więcej 30-letnie, z lat 80., najpóźniej z początku lat 90.;
 - fabryczna dokumentacja — wiecie, jak to zbudowano;
-- modernizacja możecie zostawić na potem, a jechać od razu!
+- modernizację możecie zostawić na potem, a jechać od razu!
 
 Wady:
 
-- problemy z bazą sprzed lat: stary silnik, nieaktualne normy spalania, rdza, bezpieczeństwo;
+- problemy z bazą sprzed lat: stary silnik, nieaktualne normy emisji spalin, rdza, bezpieczeństwo;
 - potencjalna wilgoć;
 - sprzęt sprzed lat do sprawdzenia albo wymiany.
 

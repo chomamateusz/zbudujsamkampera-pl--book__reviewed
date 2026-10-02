@@ -24,7 +24,7 @@ Z racji, że ten program jest naprawdę bardzo popularny, gotowe modele lodówek
 Muszę też powiedzieć, że przez swoją prostotę ten program ma wyraźną granicę. Do zgrubnego rozmieszczenia elementów w vanie nadaje się swobodnie, ale tylko przy założeniu, że ściany traktujecie jako płaskie od wewnątrz. To znaczy, że stężeń, słupków, wnęk i krzywizn blachy w Waszym modelu nie ma. Każda bardziej skomplikowana geometria sprawi, że opisana wyżej prosta zasada działania programu SketchUp zacznie Wam przeszkadzać.
 Pojedynczy mebel również da się w nim zaprojektować: rozrysujecie każdą formatkę, a potem wstawicie gotowy mebel do rzutu i sprawdzicie, czy pasuje do Waszego układu. Jeśli jednak wyobrażacie sobie, że zaplanujecie w nim złożenie szafki, z otworami i gwintami, to ten program się do tego nie nadaje.
 
-Osobiście uważam, że podstaw SketchUpa warto się nauczyć, chociażby po to, żeby zaplanować każdą szafkę z osobna lub stworzyć przynajmniej zgrubny model rozstawienia wszystkich mebli i sprzętów w Waszym wanie z prawdziwymi wymiarami.
+Osobiście uważam, że podstaw SketchUpa warto się nauczyć, chociażby po to, żeby zaplanować każdą szafkę z osobna lub stworzyć przynajmniej zgrubny model rozstawienia wszystkich mebli i sprzętów w Waszym vanie z prawdziwymi wymiarami.
 
 ### Programy CAD
 

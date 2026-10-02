@@ -6,7 +6,7 @@ Od razu muszę Was uprzedzić, choć pewnie się spodziewacie — nie jestem pr
 
 W tym rozdziale zbieram podstawy, które dobrze mieć w głowie i w rękach przed pierwszym cięciem: dlaczego wkręt trzyma albo nie trzyma, skąd biorą się krzywe cięcia i nadszarpnięte krawędzie oraz dlaczego niektóre połączenia w jadącym aucie się luzują.
 
-Projekty samych mebli szafki, wybór akcesoriów zatrzasków i prowadnic oraz dobór płyt zostawiam na kolejny tom tej książki. Miejsce pracy już opisałem w jednym z poprzednich rozdziałów — o warsztacie.
+Projekty samych mebli (szafek), wybór akcesoriów (zatrzasków i prowadnic) oraz dobór płyt zostawiam na kolejny tom tej książki. Miejsce pracy już opisałem w jednym z poprzednich rozdziałów — o warsztacie.
 
 Jeśli macie za sobą własne meble i kilka lat z piłą w ręku, możecie ten rozdział swobodnie pominąć. Jeśli nie wiecie, po co wierci się otwór przed wkręceniem wkrętu, albo do czego służy podcinak przy cięciu płyty — przeczytajcie go w całości :)
 
@@ -27,7 +27,9 @@ Nad maską warto się zastanowić, zwłaszcza przy szlifowaniu, które daje najd
 Zwykłe okulary korekcyjne nie mają potwierdzonej odporności na uderzenie ani osłon bocznych. My oboje nosimy korekcyjne i przy budowie na nich poprzestaliśmy. Osobiście uważam, że do doraźnych prac jest to wystarczające i chroni wzrok o wiele więcej niż brak okularów. Gdybym nie nosił okularów korekcyjnych, zdecydowanie do każdego cięcia zakładałbym okulary. Chyba każdemu z nas coś kiedyś wpadło do oka i wiecie, jak nieprzyjemnym bólem jest nawet drobny paproszek w oku, a co dopiero drzazga czy element blachy samochodu.
 
 Prawdopodobnie większość z nas będzie używać pił i innych głośnych elektronarzędzi bez słuchawek. Mimo to naprawdę rekomenduję przynajmniej posiadanie ochronników słuchu. To naprawdę tanie urządzenie, dostępne w każdym markecie budowlanym. Są też wersje aktywne, które przepuszczają dźwięki normalnych rozmów, a blokują głośne dźwięki piły.
+
 Hałas zdaje się nie być ogromnym problemem, kiedy używacie piły na dworze, ale kiedy tniecie w zamkniętym pomieszczeniu, robi się naprawdę głośno. Jeśli chodzi o kategorię nieprzyjemnych dźwięków, chyba najgorszym materiałem do cięcia jest blacha samochodu cięta wyrzynarką.
+
 Kupcie ochronniki i zakładajcie je przynajmniej czasem, gdy tniecie wewnątrz i/lub więcej niż jedno cięcie na raz.
 
 Rękawice przydają się przy noszeniu arkuszy sklejki. Przy wirującym narzędziu mogą zaszkodzić, bo wiertło albo tarcza chwyta rękawicę i wciąga ją razem z dłonią. To samo dotyczy luźnych rękawów, sznurków od bluzy, biżuterii i rozpuszczonych włosów. Bezwzględnie zawsze sprawdzajcie, gdzie leżą Wasze ręce, Wasze ubrania oraz własne włosy przed uruchomieniem dowolnego elektronarzędzia. Starajcie się nie zmieniać pozycji rąk trzymających element podczas cięcia — wtedy bardzo prosto o nieuwagę, w szczególności chcąc przytrzymać element od spodu, gdzie nie widzimy dolnej części pracującej tarczy lub brzeszczotu.
@@ -99,8 +101,10 @@ OSB, od angielskiego oriented strand board, to płyta z dużych, płaskich wiór
 Spienione PCV to płyta z tworzywa z pęcherzykami powietrza w środku, dlatego przy grubości 3–10 mm jest lekka, ok. 500–700 kg/m³, i sztywna na tyle, żeby stać jako ścianka. Nie chłonie wody w ogóle, nie gnije i nie puchnie, więc trafia do łazienek, pod prysznic i na szyldy. Cienką przetniecie nożem, grubszą zwykłą piłą. Ma za to trzy wady, które w aucie wychodzą szybko. Wkręt trzyma się w niej słabo, bo gwint siedzi w piance z tworzywa, więc każde mocowanie idzie przez otwór przelotowy i śrubę z podkładką. Rozszerza się od ciepła kilka razy bardziej niż drewno, więc długa płyta przykręcona sztywno wybrzusza się w upał. I mięknie w słońcu: nagrzana szyba i ciemna płyta pod nią to wygięty panel po jednym lecie.
 
 Laminat HPL, od angielskiego high pressure laminate, to warstwy papieru nasączone żywicą i sprasowane pod wysokim ciśnieniem i w wysokiej temperaturze w jednolitą, twardą płytę. Występuje w dwóch postaciach. Cienki, poniżej milimetra, to okładzina, którą klei się na sklejkę albo płytę wiórową, żeby powierzchnia zniosła garnki, noże i mokre buty. Gruby, od ok. 6 do 13 mm, nazywany płytą kompaktową, jest samonośny: robi się z niego całe blaty, ścianki kabin prysznicowych i toalet publicznych, elewacje. Jest niemal niezniszczalny, nie chłonie wody i nie boi się szorowania.
+
 Raz robiłem z tego materiału blat kuchenny i muszę Wam powiedzieć, że jego trwałość to też trudna obróbka. Do jego cięcia niezbędna jest specjalna, dość droga tarcza do piły, która tępi się bardzo szybko. Płyta jest bardzo ciężka, ok. 1 400 kg/m³, czyli dwa razy więcej niż brzoza i trzy razy więcej niż topola.
- W kamperze kompaktowy HPL ma sens tylko na małe, mokre powierzchnie, na przykład blat przy zlewie, a na resztę jest za ciężki.
+
+W kamperze kompaktowy HPL ma sens tylko na małe, mokre powierzchnie, na przykład blat przy zlewie, a na resztę jest za ciężki.
 
 ### Płyty warstwowe: pianka i plaster miodu
 

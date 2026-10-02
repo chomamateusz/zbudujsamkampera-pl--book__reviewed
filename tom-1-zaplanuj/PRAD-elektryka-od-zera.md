@@ -8,7 +8,7 @@ Ten rozdział jest wstępem do tematu. Nie ma na celu przedstawić Wam katalogu 
 
 Jeśli nie wiecie, czym się różni prąd od napięcia, do czego służy falownik w kamperze oraz dlaczego amperogodziny bez woltów za dużo nam nie mówią, to koniecznie przeczytajcie ten rozdział od deski do deski. Najlepiej dwa razy :)
 
-Jeśli czujecie się naprawdę pewni w świecie elektryki, kładliście bądź naprawialiście przydomowe instalacje. Wiecie, czym różni się moc czynna od pozornej, i umiecie policzyć własny bilans energii w watogodzinach — możecie go swobodnie pominąć. 
+Jeśli czujecie się naprawdę pewni w świecie elektryki, kładliście bądź naprawialiście przydomowe instalacje, wiecie, czym różni się moc czynna od pozornej, i umiecie policzyć własny bilans energii w watogodzinach — możecie go swobodnie pominąć. 
 
 ## Fizyka
 
@@ -18,7 +18,7 @@ Będę starał się opisać zjawiska fizyczne najbardziej obrazowo i najproście
 
 Prąd elektryczny to uporządkowany ruch ładunków elektrycznych, w praktyce najczęściej elektronów. Płynie w przewodnikach, czyli materiałach, w których elektrony mogą się swobodnie przemieszczać. Przewodników jest wiele, ale skupimy się na metalach, bo to z nich zrobione są przewody w instalacjach elektrycznych.
 
-Metale mają szczególną budowę chemiczną. Każdy atom oddaje elektrony ze swojej ostatniej powłoki do wspólnej puli, tworząc one coś w rodzaju „chmury”, która swobodnie porusza się między atomami. Dopóki na elektrony nic nie oddziałuje z zewnątrz, poruszają się one chaotycznie — w losowych kierunkach. Gdy jednak do końców przewodu przyłożymy napięcie, na elektrony zaczyna działać siła i „chmura” dostaje jeden wspólny kierunek. To właśnie jest prąd.
+Metale mają szczególną budowę chemiczną. Każdy atom oddaje elektrony ze swojej ostatniej powłoki do wspólnej puli, tworzą one coś w rodzaju „chmury”, która swobodnie porusza się między atomami. Dopóki na elektrony nic nie oddziałuje z zewnątrz, poruszają się one chaotycznie — w losowych kierunkach. Gdy jednak do końców przewodu przyłożymy napięcie, na elektrony zaczyna działać siła i „chmura” dostaje jeden wspólny kierunek. To właśnie jest prąd.
 
 Ciekawostka: same elektrony wcale nie poruszają się z niesamowitymi prędkościami. W domowej instalacji przemieszczają się o ułamki milimetra na sekundę. Jednakże ich wspólny ruch propaguje się przez cały przewód niemal natychmiast. To jak z rurką pełną wody: naciskasz z jednej strony, a z drugiej woda wypływa natychmiast, choć żadna kropla nie przebyła całej rury :) Analogie z wodą są mocnym uproszczeniem, ale skoro hydraulikę macie już za sobą, będę do nich wracał, bo naprawdę dobrze obrazują temat. 
 
@@ -46,7 +46,7 @@ Mówi, ile energii urządzenie zużywa w każdej sekundzie. Liczy się prosto: m
 
 #### Energia (E), czyli dżul (J) i kilowatogodzina (kWh)
 
-Moc mówi, ile energii urządzenie pobiera w każdej sekundzie. Energia to ta moc zsumowana przez cały czas działania: energia = moc × czas. Fizycy liczą ją w dżulach (J), ale dżul jest bardzo małą jednostką niewygodną do praktycznego stosowania, więc na co dzień używamy kilowatogodzin. Jedna kilowatogodzina to urządzenie o mocy 1000 W (czyli jednego kilowata) działające przez godzinę albo urządzenie 100 W przez dziesięć godzin. Czajnik 2300 W gotujący wodę przez trzy minuty zużywa około 2300 W * 3/60 h = 115 Wh, czyli 0,115 kWh. To właśnie za zużyte kilowatogodziny płacimy na rachunku od dostawcy pądu w domu.
+Moc mówi, ile energii urządzenie pobiera w każdej sekundzie. Energia to ta moc zsumowana przez cały czas działania: energia = moc × czas. Fizycy liczą ją w dżulach (J), ale dżul jest bardzo małą jednostką niewygodną do praktycznego stosowania, więc na co dzień używamy kilowatogodzin. Jedna kilowatogodzina to urządzenie o mocy 1000 W (czyli jednego kilowata) działające przez godzinę albo urządzenie 100 W przez dziesięć godzin. Czajnik 2300 W gotujący wodę przez trzy minuty zużywa około 2300 W · 3/60 h = 115 Wh, czyli 0,115 kWh. To właśnie za zużyte kilowatogodziny płacimy na rachunku od dostawcy prądu w domu.
 
 ##### Pojemność baterii i akumulatorów
 
@@ -60,8 +60,8 @@ Inaczej jest z amperogodzinami. Amperogodzina (Ah) i miliamperogodzina (mAh) opi
 
 Przeciętny akumulator samochodowy ma 80 Ah przy 12 V. Duży powerbank do telefonu ma 20 000 mAh.  Producenci umyślnie używają miliamperogodzin, żeby liczba wydawała się większa. Na papierze 20 000 wygląda na więcej niż 80, ale wystarczy postawić oba obok siebie, żeby zwątpić :) Dla praktyki spróbujmy to obliczyć. Standardowy powerbank pracuje z napięciem 3,7 V. 
 
-Akumulator samochodowy: 80 Ah * 12 V = 960 Wh
-Duży powerbank do telefonu: 20 000 mAh * 3,7 V = 20 Ah * 3,7 V = 74 Wh
+Akumulator samochodowy: 80 Ah · 12 V = 960 Wh
+Duży powerbank do telefonu: 20 000 mAh · 3,7 V = 20 Ah · 3,7 V = 74 Wh
 
 Z obliczeń wyraźnie widać, że akumulator samochodowy przechowuje prawie 1 kWh energii, podczas gdy powerbank do telefonu przechowuje 13 razy mniej.
 
@@ -105,7 +105,7 @@ Gdy uśredni się kwadrat sinusoidy po całym cyklu, wychodzi dokładnie połowa
 
 napięcie skuteczne = napięcie szczytowe / √2
 
-W drugą stronę: 230 V · 1,41 to około 325 V. Tyle naprawdę wynosi napięcie w gniazdku w szczycie każdego cyklu, zmieniając się od 325 V do - 325 V — 100 razy na sekundę.
+W drugą stronę: 230 V · 1,41 to około 325 V. Tyle naprawdę wynosi napięcie w gniazdku w szczycie każdego cyklu, zmieniając się od 325 V do −325 V — 100 razy na sekundę.
 
 W praktyce wynikają z tego dwie rzeczy. Po pierwsze, możemy liczyć po staremu: czajnik 230 V i 10 A ma 2300 W, tak samo przy prądzie przemiennym, jak i przy prądzie stałym. Natężenie 10 A to również wartość skuteczna, a miernik pokazuje właśnie wartości skuteczne. Po drugie, izolacja i elektronika muszą wytrzymać 325 V, a nie 230 V. 
 
@@ -231,7 +231,7 @@ Druga konsekwencja jest poważniejsza i dotyczy pytania, które będziecie sobie
 
 Zacznijmy od tego, że naładowania akumulatora nie da się zmierzyć bezpośrednio. Nie istnieje czujnik, który zajrzy do środka i policzy zgromadzoną energię. Każdy wskaźnik naładowania, w telefonie, w samochodzie elektrycznym i w kamperze, pokazuje wartość wyliczoną pośrednio z czegoś, co zmierzyć się da. Metody są dwie.
 
-Pierwsza to pomiar napięcia. Napięcie akumulatora spada w miarę rozładowania, więc z napięcia można odczytać stan naładowania, a przynajmniej w starych akumulatorach to jako tako działa. Akumulatory LiFePO4 (więcej o nich w tomie o budowie) mają jednak charakterystykę napięcia płaską jak stół – bateria przez większość rozładowania trzyma prawie to samo napięcie, a potem następuje nagłe tąpnięcie. Wskaźnik oparty na napięciu pokazywałby więc przy takim akumulatorze przez cały czas „prawie pełna”, aż do chwili, gdy jest już prawie pusta.
+Pierwsza to pomiar napięcia. Napięcie akumulatora spada w miarę rozładowania, więc z napięcia można odczytać stan naładowania, a przynajmniej w starych akumulatorach to jako tako działa. Akumulatory LiFePO4 (więcej o nich w tomie o budowie) mają jednak charakterystykę napięcia płaską jak stół — bateria przez większość rozładowania trzyma prawie to samo napięcie, a potem następuje nagłe tąpnięcie. Wskaźnik oparty na napięciu pokazywałby więc przy takim akumulatorze przez cały czas „prawie pełna”, aż do chwili, gdy jest już prawie pusta.
 
 Druga metoda to liczenie wszystkiego, co do akumulatora wpływa i co z niego wypływa. Służy do tego „shunt”, po polsku „bocznik”. W uproszczeniu to bardzo dokładny licznik prądu wpinany przy akumulatorze. Zlicza każdą amperogodzinę w obie strony, tak jak wodomierz liczy wodę. Pamiętacie, że amperogodzina to ładunek? Shunt liczy właśnie ładunek, więc wie, ile go w baterii zostało, niezależnie od napięcia.
 
@@ -247,7 +247,7 @@ I tu zaczyna się kłopot w kamperze. Przy mieszkaniu na stałe, zimą albo przy
 
 Teraz trochę praktyki: ile prądu naprawdę zjadają sprzęty w kamperze. Liczby pochodzą z naszych pomiarów, a nie z kart katalogowych. Muszę Was jednak uprzedzić, że jesteśmy dość prądożerni. Mieszkamy i pracujemy w kamperze na stałe, więc nasze zużycie jest wyraźnie wyższe niż w przeciętnym kamperze wakacyjnym. Przy każdej pozycji piszę, co jest u nas niestandardowe.
 
-- **Praca zdalna dwóch osób**, czyli trzy laptopy i dwa duże monitory: około 1 kWh na 8 godzin pracy. To jest ta liczba, przed którą ostrzegał rozdział o filozofii, mówiąc, że monitory są bardzo prądożerne. Niestandardowe są tu właśnie monitory i 3 laptopy (ja pracuje na 2 na raz). Sam jeden laptop ładowany raz dziennie to zwykle około 100 Wh.
+- **Praca zdalna dwóch osób**, czyli trzy laptopy i dwa duże monitory: około 1 kWh na 8 godzin pracy. To jest ta liczba, przed którą ostrzegał rozdział o filozofii, mówiąc, że monitory są bardzo prądożerne. Niestandardowe są tu właśnie monitory i 3 laptopy (ja pracuję na 2 naraz). Sam jeden laptop ładowany raz dziennie to zwykle około 100 Wh.
 - **Lodówka:** około 600 Wh na dobę. Mamy dużą jak na kampera lodówkę domową, zasilaną z 230 V. Typowa kamperowa lodówka kompresorowa na 12 V zużywa mniej więcej połowę tego.
 - **Mały serwer smart home**, czyli niewielki komputer w trybie oszczędzania: ledwie około 8 W, ale przez dobę robi z tego około 200 Wh. Jedna trzecia lodówki!
 - **Starlink Mini:** teoretycznie do 40 W, realnie około 20 W. Nie włączamy go na 24h, bo najczęściej mamy zasięg sieci komórkowej.
@@ -258,7 +258,7 @@ Teraz trochę praktyki: ile prądu naprawdę zjadają sprzęty w kamperze. Liczb
 - **Airfryer:** 2,5 kW. To nasz luksus, a nie standard.
 - **Suszarka do włosów:** 2,5 kW. Akurat ona trafia się w wielu kamperach i zdarza się, że to właśnie ona jako urządzenie największej mocy decyduje o mocy falownika ;)
 - **Klimatyzacja** (Dometic FreshJet 2200): około 0,9–1,0 kW, kiedy pracuje. W kamperach wakacyjnych klimatyzacja postojowa jest rzadkością i zwykle działa tylko na słupku.
-- **Ogrzewanie** (Truma Combi D 6, na diesla): w czasie pracy średnio 30–50 W. Brzmi niewinnie, ale przez mroźną noc robi z tego 300–400 Wh. To więcej, niż w tym samym czasie bierze lodówka. Latem, gdy grzeje tylko wodę, pozycja praktycznie znika.”
+- **Ogrzewanie** (Truma Combi D 6 E, na diesla): w czasie pracy średnio 30–50 W. Brzmi niewinnie, ale przez mroźną noc robi z tego 300–400 Wh. To więcej, niż w tym samym czasie bierze lodówka. Latem, gdy grzeje tylko wodę, pozycja praktycznie znika.
 
 ### Nocny wyciek
 

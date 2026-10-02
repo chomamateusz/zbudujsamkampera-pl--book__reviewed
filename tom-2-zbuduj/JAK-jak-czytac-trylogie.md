@@ -1,4 +1,4 @@
-# Jak czytać tę trylogię? :)
+# Jak czytać tę trylogię?
 
 Ta książka ma trzy tomy — i to nie jest przypadek, tylko dokładnie ta kolejność, w której proponuję podejmować decyzje przy budowie kampera.
 
@@ -20,7 +20,7 @@ Przeczytajcie go w całości, **zanim kupicie auto bazowe** — i zanim wydacie 
 
 Ten tom trzymajcie pod ręką **w trakcie budowy**. Rozdziały idą w kolejności robót: od gołej blachy, przez okna i izolację, elektrykę i hydraulikę, aż po meble i wykończenie. Nie trzeba go czytać od deski do deski — czytacie ten rozdział, który właśnie robicie w aucie.
 
-## Tom 3: Wyposaż i jedź
+## Tom 3: Zamieszkaj i jedź
 
 Możecie go zacząć, **gdy zabudowa już stoi** — i już pojechaliście w pierwszą podróż. Są tam tematy opcjonalne, które łatwo dodać lub zmodyfikować w już gotowym kamperze, i codzienność życia w drodze.
 

@@ -1,10 +1,10 @@
 # Jeden Boxer, dwie zabudowy
 
-W tym rozdziale opisze całą historię naszej budowy. Wydaje mi się, że to jest wskazane i wartościowe również dla Was poznać tę historię, zanim przejdziemy do omawiania konkretnych tematów. Jednakże jeśli sięgnęliście po tę książkę tylko po konkretne porady, możecie go spokojnie pominąć — wszystko, co z tej historii wynika dla Waszej budowy, wraca w rozdziałach w kolejnych rozdziałach, we właściwym miejscu i z uzasadnieniem. 
+W tym rozdziale opiszę całą historię naszej budowy. Wydaje mi się, że to jest wskazane i wartościowe również dla Was poznać tę historię, zanim przejdziemy do omawiania konkretnych tematów. Jednakże jeśli sięgnęliście po tę książkę tylko po konkretne porady, możecie go spokojnie pominąć — wszystko, co z tej historii wynika dla Waszej budowy, wraca w kolejnych rozdziałach, we właściwym miejscu i z uzasadnieniem. 
 
 ## Karta pojazdu
 
-Nasz kamper to Peugeot Boxer w wersji L4H3, rocznik 2018, pierwszy raz zarejestrowany w 2019. Kupiliśmy go z salonu w Katowicach gdzie poprzedni właściciel zostawił go w rozliczeniu po zakończonym leasingu. Zapłaciliśmy za niego niecałe 100 tysięcy złotych brutto (dokładnie 98 398,77 zł) — nowy kosztowałby wtedy jakieś 180 tysięcy. Przekonał nas między prawie idealny jak na dostawczaka stan wnętrza oraz dostępność od ręki.
+Nasz kamper to Peugeot Boxer w wersji L4H3, rocznik 2018, pierwszy raz zarejestrowany w 2019. Kupiliśmy go z salonu w Katowicach gdzie poprzedni właściciel zostawił go w rozliczeniu po zakończonym leasingu. Zapłaciliśmy za niego niecałe 100 tysięcy złotych brutto (dokładnie 98 398,77 zł) — nowy kosztowałby wtedy jakieś 180 tysięcy. Przekonał nas między innymi prawie idealny jak na dostawczaka stan wnętrza oraz dostępność od ręki.
 Początkowo, ze względu na chęć posiadania gwarancji, zastanawialiśmy się nad kupnem auta zupełnie nowego. Niestety w tamtym czasie po nowe auto z salonu trzeba było się zapisać na listę oczekujących. Firmy nie wyrabiały z ilością zamówień po covidowych przestojach, jakie miały miejsce w poprzednich latach. Z perspektywy trochę jest nam szkoda, ponieważ niedawno wcześniej zostały wprowadzone ciemnoszare kolory w karoserii, a wcześniej dostępne były tylko w wariancie białym. No i nowe auto miałoby zdecydowanie lepsze wyposażenie wnętrza i odświeżoną szoferkę, która jest najbliższą częścią naszego samochodu. 
 Teraz, jak to piszę, wydaje się drogo, jednakże sprawdziłem w cennikach dostępnych w internecie na te i kolejne lata, aż do dziś i wniosek jest taki: cenniki do tej pory nie spadły, ale wróciły rabaty i salonowe auta „z placu”, a młode dostawczaki z drugiej ręki zaczęły tanieć. Przepłaciliśmy przez moment zakupu, a za nowe zapłacilibyśmy cenę z rynku niedoboru. 
 
@@ -14,7 +14,7 @@ Silnik to dwulitrowy diesel BlueHDi, 1 997 cm³, w dowodzie 120 kW, czyli około
 
 Wymiary L4H3 to:
 - 6,36 m całkowitej długości,
-    - 2,79 m całkowitej wysokości,
+- 2,76 m całkowitej wysokości,
 - rozstaw osi 4,035 m,
 - przestrzeń ładunkowa: 4,07 × 1,87 × 2,17 m (długość, szerokość, wysokość).
  
@@ -36,7 +36,7 @@ Pierwszy Excel jasno pokazał nam, że nie zmieścimy się w ładowności 7-metr
 
 ### Incognito mode
 
-W pierwotnej wersji zabudowy przykładaliśmy bardzo dużo wagi do tego, żeby pozostać maksymalnie incognito, czyli żeby nasz kamper wyglądał jak bus z zewnątrz i żeby po prostu nie było widać, że ktoś w środku śpi. Z zewnątrz zwykły dostawczak, w środku dom :) W teorii miało być tak, że stajemy, gdzie chcemy, śpimy spokojnie. Do tego bezpieczeństwo: o kampera najprościej się włamać przez okno, które w kanterach w większej części są plastikowe, a w naszym przypadku miało nie być o tym mowy, bo okien w ogóle miało nie być.
+W pierwotnej wersji zabudowy przykładaliśmy bardzo dużo wagi do tego, żeby pozostać maksymalnie incognito, czyli żeby nasz kamper wyglądał jak bus z zewnątrz i żeby po prostu nie było widać, że ktoś w środku śpi. Z zewnątrz zwykły dostawczak, w środku dom :) W teorii miało być tak, że stajemy, gdzie chcemy, śpimy spokojnie. Do tego bezpieczeństwo: o kampera najprościej się włamać przez okno, które w kamperach w większej części są plastikowe, a w naszym przypadku miało nie być o tym mowy, bo okien w ogóle miało nie być.
 
 Skutek był taki, że wszystko poszło na dach: światło: okna, wentylacja nawet wylot spalin ogrzewania pierwotnie był na dachu (dla ogrzewania gazowego da się tak zrobić)! Wszystkie przyłącza, jak wlew wody czy wejście do zewnętrznego ładowania na 230 oraz tankowanie gazu, były schowane za tylnymi drzwiami, a nie wbudowane w karoserię, tak jak się to robi zazwyczaj. Bez spojrzenia w górę, gdzie niestety mimo wszystko wystawały panele solarne oraz klimatyzacja, nie dało się rzeczywiście poznać, że to jest kamper. 
 
@@ -48,9 +48,9 @@ Szoferka w naszym domu jest otwarta na część mieszkalną, bez ściany grodzio
 
 ### Szoferka
 
-Fotele to dwa kapitańskie fotele od tego modelu używane, ale przetapicerowane na świeżo — takie kupiliśmy nie do końca świadomi, że nie są to fotele nowe, mimo że na takie wyglądały. Z tego miejsca możemy Was uczulić, żebyście nie popełnili tego błędu, bo kosztowały praktycznie tyle samo, co zupełnie nowe fotele, a z nowymi fotelami jest mniej problemów, o czym napiszemy więcej w rozdziale o formalnościach. W każdym razie każdy fotel kosztował nas około 4,5 tysiąca, więc łącznie 9 tysięcy za fotele. Fotele są postawione na obniżonych podstawach Sportscraft (około tysiąć złotych za sztukę) i obrotnicach Mobiframe (podobna cena jak podstawy). W oknach mamy rolety przeciwsłoneczne, które również izolują troszeczkę ciepła w zimie i zacieniają pomieszczenie. Komplet rolet bocznych kosztuje około 2000 zł i bardzo podobnie roleta przednia. Ponadto, zdejmując ścianę grodziową, mamy odsłonięte dość mocno obłe miejsce, w którym ta ściana grodziowa jest przykręcona: dwa słupki po lewej i po prawej stronie, patrząc od przestrzeni ładunkowej w stronę szoferki, oraz belkę górną.  Kupiliśmy dedykowane elementy, otapicerowane już na te miejsca. Każdy z nich kosztował około 500 zł na każdy ze słupków i każdą belkę. 
-Dlaczego tu nagle piszę dokładnie o cenach? Otóż żebyście byli świadomi, że zdjęcie ściany grodziowej i przeróbki w szoferce to naprawdę duży koszt. Podsumowując, cała szoferka wyszła w okolicach 20 tysięcy złotych: fotele 2x4,5 tyś + obrotnice 2x1 tyś + podstawy 2x1 tyś + zasłony boczne 2 tyś + zasłona szyby przedniej 2 tyś + osłony słupków 3x0,5 tyś = 18,5 tyś.
-Do ceny otwartejn szoferki większość z budujących dodałoby również akcyzę, ponieważ większość budujących zakłada, że akcyzę i przerejestrować auto trzeba tylko i wyłącznie, kiedy zdejmuje się ścianę grodziową. Nie jest to do końca prawda i o tym również napiszemy więcej w dalszych rozdziałach. 
+Fotele to dwa kapitańskie fotele od tego modelu używane, ale przetapicerowane na świeżo — takie kupiliśmy nie do końca świadomi, że nie są to fotele nowe, mimo że na takie wyglądały. Z tego miejsca możemy Was uczulić, żebyście nie popełnili tego błędu, bo kosztowały praktycznie tyle samo, co zupełnie nowe fotele, a z nowymi fotelami jest mniej problemów, o czym napiszemy więcej w rozdziale o formalnościach. W każdym razie każdy fotel kosztował nas około 4,5 tysiąca, więc łącznie 9 tysięcy za fotele. Fotele są postawione na obniżonych podstawach Sportscraft (około tysiąc złotych za sztukę) i obrotnicach Mobiframe (podobna cena jak podstawy). W oknach mamy rolety przeciwsłoneczne, które również izolują troszeczkę ciepła w zimie i zacieniają pomieszczenie. Komplet rolet bocznych kosztuje około 2000 zł i bardzo podobnie roleta przednia. Ponadto, zdejmując ścianę grodziową, mamy odsłonięte dość mocno obłe miejsce, w którym ta ściana grodziowa jest przykręcona: dwa słupki po lewej i po prawej stronie, patrząc od przestrzeni ładunkowej w stronę szoferki, oraz belkę górną.  Kupiliśmy dedykowane elementy, otapicerowane już na te miejsca. Każdy z nich kosztował około 500 zł na każdy ze słupków i każdą belkę. 
+Dlaczego tu nagle piszę dokładnie o cenach? Otóż żebyście byli świadomi, że zdjęcie ściany grodziowej i przeróbki w szoferce to naprawdę duży koszt. Podsumowując, cała szoferka wyszła w okolicach 20 tysięcy złotych: fotele 2x4,5 tys. + obrotnice 2x1 tys. + podstawy 2x1 tys. + zasłony boczne 2 tys. + zasłona szyby przedniej 2 tys. + osłony słupków 3x0,5 tys. = 18,5 tys.
+Do ceny otwartej szoferki większość z budujących dodałoby również akcyzę, ponieważ większość budujących zakłada, że akcyzę i przerejestrować auto trzeba tylko i wyłącznie, kiedy zdejmuje się ścianę grodziową. Nie jest to do końca prawda i o tym również napiszemy więcej w dalszych rozdziałach. 
 
 ### Izolacja i nadwozie
 
@@ -66,7 +66,7 @@ Pierwotny plan zakładał, że wyrobimy się w trzy miesiące urlopu, który wzi
 ### Elektryka
 
 Znowu z powodu, że za wszelką cenę chcieliśmy się wyrobić w 3 miesiące, postanowiliśmy kupić zupełnie gotowe rozwiązanie. Zdecydowanie więcej o nim oraz o alternatywach powiem w kolejnych rozdziałach poświęconych elektryce, więc tu skrótowo. 
-Postawiliśmy na EcoFlow Power Kit z dwoma akumulatorami 48 V o łącznej pojemności 10 kWh, który kupiliśmy w kwietniu 2023, zaledwie kilka miesięcy po jego premierze. Zamontowaliśmy go zaraz potem — i od tego dnia system zasilał budowę: elektronarzędzia, światło, ładowarki. Do tego zestawu kupiliśmy panele solarne o łącznej mocy 400 W oraz generator Smart Generator Dual Fuel na benzynę i gaz. Tu znowu nie wziąłem pod uwagę, że każdy z tych akumulatorów waży 40 kilo, a Excel zakładał pierwotnie tylko jeden. Ponadto generator ważył kolejne trzydzieści kilka kilogramów, a generatora w Excelu w ogóle nie było. Jakby tego było mało, stwierdziłem, że generator jakoś zmieści się w środku. To jednak nie jest takie proste, ponieważ generator musi mieć odpowiednią wentylację oraz miejsce do wyrzucania spalin, a większość generatorów, tak jak i ten, nie ma możliwości na doczepienie rury odprowadzającej spaliny na zewnątrz, tylko wyrzuca je bezpośrednio za siebie. Także, jak się pewnie spodziewacie, o montażach środku nie było mowy i generator ostatecznie nigdy, pomimo że go już kupiliśmy, nie został zamontowany w kamperze. Znowu konsekwencje pośpiechu :/
+Postawiliśmy na EcoFlow Power Kit z dwoma akumulatorami 48 V o łącznej pojemności 10 kWh, który kupiliśmy w kwietniu 2023, zaledwie kilka miesięcy po jego premierze. Zamontowaliśmy go zaraz potem — i od tego dnia system zasilał budowę: elektronarzędzia, światło, ładowarki. Do tego zestawu kupiliśmy panele solarne o łącznej mocy 400 W oraz generator Smart Generator Dual Fuel na benzynę i gaz. Tu znowu nie wziąłem pod uwagę, że każdy z tych akumulatorów waży 40 kilo, a Excel zakładał pierwotnie tylko jeden. Ponadto generator ważył kolejne trzydzieści kilka kilogramów, a generatora w Excelu w ogóle nie było. Jakby tego było mało, stwierdziłem, że generator jakoś zmieści się w środku. To jednak nie jest takie proste, ponieważ generator musi mieć odpowiednią wentylację oraz miejsce do wyrzucania spalin, a większość generatorów, tak jak i ten, nie ma możliwości na doczepienie rury odprowadzającej spaliny na zewnątrz, tylko wyrzuca je bezpośrednio za siebie. Także, jak się pewnie spodziewacie, o montażu w środku nie było mowy i generator ostatecznie nigdy, pomimo że go już kupiliśmy, nie został zamontowany w kamperze. Znowu konsekwencje pośpiechu :/
 
 ### Woda
 
@@ -80,7 +80,7 @@ Ogrzewanie pierwszej wersji to gazowa Truma Combi 6E, którą zamontowaliśmy sa
 
 ### Łazienka
 
-Łazienka zajęła cały tył auta na pełną szerokość i to jest coś, co planowaliśmy od początku. Dzięku temu bez minimalizacji poczucia przestrzeni w części mieszkalnej mieści nam się osobno stała umywalka toaleta oraz prysznic.
+Łazienka zajęła cały tył auta na pełną szerokość i to jest coś, co planowaliśmy od początku. Dzięki temu bez minimalizacji poczucia przestrzeni w części mieszkalnej mieści nam się osobno stała umywalka toaleta oraz prysznic.
 
 ### Spanie
 
@@ -100,7 +100,7 @@ Zdecydowaliśmy się przeczekać zimę i wrócić do zabudowy dopiero na wiosnę
 
 ### Układ i meble
 
-Wyleciał słupek kuchenny z całą zawartością (ponad 100 kg), wyleciała podwójna podłoga z części mieszkalnej i większość zabudowy grubej sklejki (również ponad 100 kg). Tym razem konstrukcję mebli postanowiliśmy oprzeć na profilach aluminiowych ze względu na ich bardzo dużą wytrzymałość, większą niż drewna, i podobną masę. Ścianki mebli wykonaliśmy z cieniutkiej 4-milimetrowej sklejki. Jest ona na tyle cienka, że zablokowana w profilach aluminiowych tworzy sztywną konstrukcję. I nie wygina się, jak sklejka, np. dwumilimetrowa, a jest wielokrotnie lżejsza od grubszej sklejki, która mogłaby przenosić konstrukcję.  Zostały dwie pełne ściany przy łazience, której postanowiliśmy nie rozbierać. Stawiam na to, że na jej przeróbkę jeszcze przyjdzie czas przeszłości :)
+Wyleciał słupek kuchenny z całą zawartością (ponad 100 kg), wyleciała podwójna podłoga z części mieszkalnej i większość zabudowy grubej sklejki (również ponad 100 kg). Tym razem konstrukcję mebli postanowiliśmy oprzeć na profilach aluminiowych ze względu na ich bardzo dużą wytrzymałość, większą niż drewna, i podobną masę. Ścianki mebli wykonaliśmy z cieniutkiej 4-milimetrowej sklejki. Jest ona na tyle cienka, że zablokowana w profilach aluminiowych tworzy sztywną konstrukcję. I nie wygina się, jak sklejka, np. dwumilimetrowa, a jest wielokrotnie lżejsza od grubszej sklejki, która mogłaby przenosić konstrukcję.  Zostały dwie pełne ściany przy łazience, której postanowiliśmy nie rozbierać. Stawiam na to, że na jej przeróbkę jeszcze przyjdzie czas w przyszłości :)
 
 ### Woda
 
@@ -108,23 +108,23 @@ Liczba zbiorników skurczyła się z siedmiu do dwóch. Został jeden nadkolow
 
 ### Gaz i ogrzewanie
 
-Redukując masę, postanowiliśmy też usunąć całą instalację gazową. Butle, przyłącza, kuchenka oraz gazowa Truma zostały odmontowane. W jej miejsce wszedł jej dieslowy odpowiednik: Truma Combi 6DE zasilana z baku samochodu. Kuchenkę gazową zastąpiliśmy indukcyjną z racji, że mamy ogromny bank energii. Mogliśmy podjąć taką decyzję. Z gazu został nam jedynie mały składany palnik i kartusz na awaryjne gotowanie — stałej instalacji nie ma żadnej.
+Redukując masę, postanowiliśmy też usunąć całą instalację gazową. Butle, przyłącza, kuchenka oraz gazowa Truma zostały odmontowane. W jej miejsce wszedł jej dieslowy odpowiednik: Truma Combi D 6 E zasilana z baku samochodu. Kuchenkę gazową zastąpiliśmy indukcyjną z racji, że mamy ogromny bank energii. Mogliśmy podjąć taką decyzję. Z gazu został nam jedynie mały składany palnik i kartusz na awaryjne gotowanie — stałej instalacji nie ma żadnej.
 
 Dzięki temu zaoszczędziliśmy głównie miejsce, ponieważ dwie butle z gazem zajmują go naprawdę dużo w kampervanie oraz dwie pełne duże butle razem z masą własną oszczędziły nam kolejne 40 kg wagi. 
 
 ### Podsumowanie przebudowy 
 
-Same sklejki usunęliśmy prawie 100 kg. Kolejna 35 kg to redukcja ilości zbiorników. To jest kolejne miejsce, w którym można nie spodziewać się masy. Zbiorniki przecież są puste w środku i plastikowe — jeden zbiornik waży zaledwie 7 kilo, ale 5 to już 35 kg :) Usunięty piekarnik oraz zmywarka to kolejne 65 kg (43 kg i 22 kg). Usunięcie instalacji gazowej to, jak pisałem wyżej, dodatkowe 40 kg przy napełnionych butlach. 
+Same sklejki usunęliśmy prawie 100 kg. Kolejne 35 kg to redukcja ilości zbiorników. To jest kolejne miejsce, w którym można nie spodziewać się masy. Zbiorniki przecież są puste w środku i plastikowe — jeden zbiornik waży zaledwie 7 kilo, ale 5 to już 35 kg :) Usunięty piekarnik oraz zmywarka to kolejne 65 kg (43 kg i 22 kg). Usunięcie instalacji gazowej to, jak pisałem wyżej, dodatkowe 40 kg przy napełnionych butlach. 
 
 Oczywiście nowo zbudowane meble wraz z profilami aluminiowymi musieliśmy odjąć od naszego bilansu. Całość dołożonych materiałów ważyło około 50 kg, więc udało nam się zredukować masę naszego kampera o mniej więcej sto pięćdziesiąt kilo, a prawie dwieście, licząc wagę gazu i butli, którego już nigdy nie zatankujemy. 
 
 ## Rekomendacja autora
 
 Gdybym budował trzeci raz, zacząłbym od tego, co u nas wyszło dopiero w drugiej wersji:
-    - Nigdy więcej nie zrobiłbym już podwójnej podłogi. Zbiornik w środku powyżej odpływu da się rozwiązać prostą, lekką i tanią pompą zęzową ze studzienką prysznicową. 
-    - Meble zawsze robiłbym z jak najcieńszego materiału. Sklejka 4 mm jest dobra zarówno na podłogę, ściany, sufit, jak i ścianki mebli. Jest delikatnie za cienka na fronty w szafkach, ale też da się z nich zrobić, jeśli zaakceptujemy to, że będą się delikatnie uginać podczas otwierania. 
-    - W kamperze do 3,5 tony z pełną zabudową do mieszkania około 100 litrów czystej wody to praktyczny sufit — u nas zbiornik ma 112 l, a więcej zabiera ładowność na wszystko inne. 
-    - W mojej opinii w dzisiejszych czasach zupełnie nie ma potrzeby montować instalacji gazowej oraz butli. Nawet jeśli chcecie mieć kuchenkę gazową, kuchenka na kartusze będzie wystarczająca, a redukujecie masę dość znacząco i zyskujecie na miejsce przez brak dużej i niewygodnej butli. 
+- Nigdy więcej nie zrobiłbym już podwójnej podłogi. Zbiornik w środku powyżej odpływu da się rozwiązać prostą, lekką i tanią pompą zęzową ze studzienką prysznicową. 
+- Meble zawsze robiłbym z jak najcieńszego materiału. Sklejka 4 mm jest dobra zarówno na podłogę, ściany, sufit, jak i ścianki mebli. Jest delikatnie za cienka na fronty w szafkach, ale też da się z nich zrobić, jeśli zaakceptujemy to, że będą się delikatnie uginać podczas otwierania. 
+- W kamperze do 3,5 tony z pełną zabudową do mieszkania około 100 litrów czystej wody to praktyczny sufit — u nas zbiornik ma 112 l, a więcej zabiera ładowność na wszystko inne. 
+- W mojej opinii w dzisiejszych czasach zupełnie nie ma potrzeby montować instalacji gazowej oraz butli. Nawet jeśli chcecie mieć kuchenkę gazową, kuchenka na kartusze będzie wystarczająca, a redukujecie masę dość znacząco i zyskujecie na miejsce przez brak dużej i niewygodnej butli. 
     
 ## Jeśli macie zapamiętać z tej książki jedną rzecz
 

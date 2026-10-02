@@ -1,15 +1,15 @@
 # Układ wnętrza
 
-Większość z nas, projektując wnętrze kampera, zastanawia się nad jednym: „jak to wszystko zmieścić, żeby dało się jeszcze przejść?” :)|
+Większość z nas, projektując wnętrze kampera, zastanawia się nad jednym: „jak to wszystko zmieścić, żeby dało się jeszcze przejść?” :)
 
 Chciałbym Wam zaproponować inne pytanie: „czy w tym wnętrzu będzie czuć przestrzeń”.
 
-Przy mieszkaniu na stałe, z dużym prawdopodobieństwem, będziecie spędzać w środku większość czasu w robocze. Zdarzają się też całe tygodnie deszczu, kiedy z kampera praktycznie się nie wychodzi mimo chęci. Dlatego uważam, że Warto się zastanowić nad tym, żebyśmy w naszym kamperze nie czuli się jak w klatce otoczeni szafkami ze wszystkich stron bez przestrzeni, żeby się przeciągnąć. Wiem, że kolejna szafka i kolejny sprzęt zazwyczaj wygrywają z poczuciem przestrzeni, i nie każdemu jego brak przeszkadza, ale uważam, że przynajmniej warto to wziąć pod uwagę i być tego świadomym przy projektowaniu.
+Przy mieszkaniu na stałe, z dużym prawdopodobieństwem, będziecie spędzać w środku większość czasu w dni robocze. Zdarzają się też całe tygodnie deszczu, kiedy z kampera praktycznie się nie wychodzi mimo chęci. Dlatego uważam, że warto się zastanowić nad tym, żebyśmy w naszym kamperze nie czuli się jak w klatce otoczeni szafkami ze wszystkich stron bez przestrzeni, żeby się przeciągnąć. Wiem, że kolejna szafka i kolejny sprzęt zazwyczaj wygrywają z poczuciem przestrzeni, i nie każdemu jego brak przeszkadza, ale uważam, że przynajmniej warto to wziąć pod uwagę i być tego świadomym przy projektowaniu.
 
 W kampervanach zbudowanych na popularnych bazach, czyli autach ze względnie krótkim i wąskim wnętrzem, najbardziej na poczucie przestrzeni wpływa układ wnętrza. Zaryzykuję wręcz stwierdzenie, że układ ma większy wpływ na poczucie przestrzeni niż wybrana wersja długości nadwozia! Planując, najczęściej używamy rzutu z góry i w takiej perspektywie kompletnie nie widać tego, co najbardziej zaburza poczucie przestrzeni w środku, czyli tego, czy zabudowa staje na linii wzroku!
 
 Klasyczny układ — z łazienką na środku — dzieli optycznie auto na pół. W pierwszej wersji mieliśmy mniej więcej w tym miejscu słupek kuchenny z lodówką, piekarnikiem i zmywarką od góry do dołu. Słupek był węższy od przeciętnej kamperowej łazienki, a mimo tego dzielił kampera na „kącik do pracy” i „kącik do spania”.
-W aktualnej wersji słupek wyleciał. Łazienka od zawsze zajmowała cały tył i stoi za ścianą, więc Patrząc, ma się wrażenie, że na tej ścianie kończy się kamper, a wchodząc za nią, dostajemy kolejne mini pomieszczenie. Dzięki temu, że nie mamy ściany grodziowej, wchodząc do kampera jest przestrzeń zarówno na lewo aż do ściany łazienki, jak i na prawo do szoferki. Jest to przestrzeń na całą szerokość i z dowolnego miejsca części mieszkalnej widać każdy jej zakątek. Oczywiście z wyłączeniem łazienki.
+W aktualnej wersji słupek wyleciał. Łazienka od zawsze zajmowała cały tył i stoi za ścianą, więc patrząc, ma się wrażenie, że na tej ścianie kończy się kamper, a wchodząc za nią, dostajemy kolejne mini pomieszczenie. Dzięki temu, że nie mamy ściany grodziowej, wchodząc do kampera jest przestrzeń zarówno na lewo aż do ściany łazienki, jak i na prawo do szoferki. Jest to przestrzeń na całą szerokość i z dowolnego miejsca części mieszkalnej widać każdy jej zakątek. Oczywiście z wyłączeniem łazienki.
 
 Trzeba otwarcie przyznać, że ten układ wyszedł nam trochę z przymusu, a nie z chęci, bo właśnie planowaliśmy mieć osobny „kącik do pracy” i „do spania” przedzielony tym słupkiem :) Mimo tego wyszło coś naprawdę fajnego, czego się kompletnie nie spodziewaliśmy, przez co nasz kamper prezentuje się zupełnie inaczej niż większość zabudów.
 
@@ -17,7 +17,7 @@ Trzeba otwarcie przyznać, że ten układ wyszedł nam trochę z przymusu, a nie
 
 Zebrałem tu układy, które powtarzają się w większości zabudów fabrycznych i często też samodzielnych. Przy każdym z tych układów postarałem się zebrać jego plusy i minusy, ale oczywiście są to tylko i wyłącznie moje opinie.
 
-Warto pójść sprawdzony standardowy układ, jeśli zależy Wam na minimalizacji ilości potencjalnych błędów.
+Warto pójść w sprawdzony standardowy układ, jeśli zależy Wam na minimalizacji ilości potencjalnych błędów.
 Taką poradę znajdziecie w większości książek i poradników dotyczących budowy własnego kampervana i ja z tą opinią się zgadzam. Z drugiej strony chcę Was trochę zachęcić do eksperymentowania :) To przecież właśnie po to budujemy własnymi rękoma, żeby móc zrobić taki układ, jak pasuje nam. W takich układach na pewno popełnimy błędy. Prawie na pewno po wybudowaniu tego układu będziecie chcieli go poprawić albo, co gorsza, rozebrać i zbudować od nowa, ale uważam, że w tym tkwi piękno własnych konstrukcji. Nie bójcie się eksperymentować! Jednak zróbcie to z głową, żebyście nie musieli rozbierać Waszego układu jeszcze przed pierwszymi podróżami tak jak my.
 
 Warto też zaznaczyć, że mniej standardowe układy będzie prawdopodobnie też trudniej odsprzedać, jeśli kiedykolwiek mielibyście myśleć o sprzedaży Waszego kampera. Samoróbki same z siebie bardzo tracą na wartości, a niestandardowy układ jeszcze bardziej utrudni sprzedaż za rozsądne pieniądze :/
@@ -200,7 +200,7 @@ Minus jest jeden: fotele bez obrotnic nie będą miejscem siedzącym przy stole 
 
 Otwarta szoferka, strefa dzienna i kuchnia, dalej łóżko, a cały tył to zamknięta łazienka na pełną szerokość auta.
 
- Do łazienki wchodzi się przejściem od strony sypialni, a od tylnych drzwi jest ściana.
+Do łazienki wchodzi się przejściem od strony sypialni, a od tylnych drzwi jest ściana.
 
 Łóżko wcale nie musi być szersze niż w innych układach, bo dzieli szerokość auta z przejściem do łazienki i z szafkami albo kuchnią wzdłuż ściany. Za to na noc może się rozsunąć i zająć przestrzeń, która w dzień służy za korytarz, więc w dzień macie przejście, a w nocy szerokie łóżko.
 
@@ -220,7 +220,7 @@ Za przykład do rysunku bierzemy Affinity Duo, łóżko wzdłuż przed łazienk�
 **Minusy:**
 
 - zero garażu, a duża część miejsca pod łóżkiem będzie zajęta przez zbiorniki, akumulatory czy bojler na wodę;
-- tylne drzwi przestają być drzwiami do wnętrza, więc każdy bagaż wchodzi bocznymi
+- tylne drzwi przestają być drzwiami do wnętrza, więc każdy bagaż wchodzi bocznymi;
 - brak widoku przez otwarty tył;
 - łazienka na całą szerokość zjada około 80 cm długości paki, więc układ wymaga długiego auta.
 
@@ -228,7 +228,7 @@ Za przykład do rysunku bierzemy Affinity Duo, łóżko wzdłuż przed łazienk�
 
 ![Rys. 8. Nasz układ: otwarty przód, dwa biurka, łóżko wzdłuż, łazienka na cały tył](_rysunki/nasz-uklad/nasz-uklad.svg)
 
-Nasz układ to odmiana tego samego pomysłu, w Peugeocie Boxerze L4H3. Od przodu: otwarta szoferka bez ściany grodziowej i dwa pojedyncze fotele obrotowe. Dwa biurka: moje, zamontowane na szynie wzdłuż ściany i Weroniki, na jachtowym ramieniu Lagun, po stronie drzwi przesuwnych. Za moim biurkiem stoi lodówka. Łóżko leży wzdłuż lewej ściany, ma około 190 cm na 110 cm. Pod spodem siedzi zbiornik na wodę szarą, boiler, akumulatory i część bagażu. Obok łóżka biegnie przejście do łazienki. Kuchnia stoi wzdłuż prawej ściany. Łazienka zajmuje cały tył: prysznic 75 na 50 cm od lewej ściany, toaleta na środku z umywalką od prawej, plus mała tego szafka. Za łazienką jest stała pełna ściana, bez wejścia od tylnych drzwi.
+Nasz układ to odmiana tego samego pomysłu, w Peugeocie Boxerze L4H3. Od przodu: otwarta szoferka bez ściany grodziowej i dwa pojedyncze fotele obrotowe. Dwa biurka: moje, zamontowane na szynie wzdłuż ściany i Weroniki, na jachtowym ramieniu Lagun, po stronie drzwi przesuwnych. Za moim biurkiem stoi lodówka. Łóżko leży wzdłuż lewej ściany, ma około 190 cm na 110 cm. Pod spodem siedzi zbiornik na wodę szarą, bojler, akumulatory i część bagażu. Obok łóżka biegnie przejście do łazienki. Kuchnia stoi wzdłuż prawej ściany. Łazienka zajmuje cały tył: prysznic 75 na 50 cm od lewej ściany, toaleta na środku z umywalką od prawej, plus mała tego szafka. Za łazienką jest stała pełna ściana, bez wejścia od tylnych drzwi.
 
 Ten układ ma dla nas naprawdę sporo zalet. Cztery strefy: czyli spanie, łazienka, praca i kuchnia, są dostępne bez przestawiania czegokolwiek poza obróceniem foteli! Mało tego, z bezwzględnie każdej z nich da się korzystać, gdy druga osoba korzysta z innej. Nic niczego nie blokuje.
 
@@ -236,7 +236,7 @@ Dzięki naprawdę dużej otwartej przestrzeni w kamperze swobodnie da się przec
 
 Nawiązując do deszczowych dni: w takie dni i tak musimy wychodzić na spacery z psami, i wszystkie zamoknięte ubrania mogą swobodnie suszyć się pod prysznicem. Toaleta jest obok, więc nadal da się z niej swobodnie korzystać!
 
-Z dużych minusów tego układu jest kompletny brak garażu. Pomiędzy tylnymi drzwiami a tylną ścianą łazienki mieszczą się krzesełka kempingowe, stolik, szpula z przedłużaczem, wąż do nalewania wody i trochę bagażu. Nie mamy niestety najmniejszych szans przenieść rowerów. Nie wejdzie nam nawet hulajnoga. Jeśli chcemy wejść ze sobą trapy, bo planujemy jeździć na przykład po lesie, albo jedziemy w zimie na deskę i chcemy wziąć ze sobą snowboard, musimy zrezygnować na przykład z więzienia stołu.
+Z dużych minusów tego układu jest kompletny brak garażu. Pomiędzy tylnymi drzwiami a tylną ścianą łazienki mieszczą się krzesełka kempingowe, stolik, szpula z przedłużaczem, wąż do nalewania wody i trochę bagażu. Nie mamy niestety najmniejszych szans przenieść rowerów. Nie wejdzie nam nawet hulajnoga. Jeśli chcemy wziąć ze sobą trapy, bo planujemy jeździć na przykład po lesie, albo jedziemy w zimie na deskę i chcemy wziąć ze sobą snowboard, musimy zrezygnować na przykład z wożenia stołu.
 
 Poza tym nasze łóżko, w przeciwieństwie do Affinity, nie rozsuwa się na szerokość przejścia i to jest jedna z rzeczy, które zdecydowanie musimy poprawić, ponieważ tak na dobrą sprawę wystarczy zamienić stały stelaż na rozsuwany stelaż. Dzięki temu łóżko zamiast 110 cm szerokości będzie miało 140 m i będzie wielkości standardowego małego domowego łóżka.
 
