@@ -14,7 +14,7 @@ To tyle „straszenia” :) Dobra wiadomość jest taka, że przy wyborze bazy n
 Ewentualnie można jeszcze dodać:
 - czy kamper będzie dłuższy od 6 m
 
-Poniżej dwóch metrów wjeżdżacie na każdy parking podziemny i prowadzicie auto jak osobówkę. Powyżej macie kampera, z większą przestrzenią do życia, który zaparkuje prawie tylko pod gołym niebem.
+Poniżej dwóch metrów wjeżdżacie na prawie każdy parking podziemny i prowadzicie auto jak osobówkę. Powyżej macie kampera, z większą przestrzenią do życia, który zaparkuje prawie tylko pod gołym niebem.
 
 Do 3,5 tony jeździcie na zwykłe prawo jazdy kategorii B i liczycie każdy kilogram zabudowy — powyżej potrzebujecie innych uprawnień, wchodzicie w opłaty drogowe (jak nasz polski e-TOLL), płacicie więcej na promach i autostradach, ale na zabudowę macie znacznie więcej dostępnej ładowności pojazdu. Musicie pamiętać, że sama baza swoje waży, a w wariancie 3,5 t waga własna auta to większa część DMC :/
 
@@ -44,17 +44,11 @@ Po drugie, podstawą nie jest cena bazy, tylko wartość rynkowa gotowego kamper
 
 **Po trzecie, akcyzy nie da się uniknąć!** Obowiązek powstaje z dniem, w którym zabudowa jest gotowa, niezależnie od tego, co jest wpisane w dowodzie. Popularna opcja „zostawię auto ciężarówką” nie jest w 100% legalną opcją, jest raczej szarą strefą.
 
-Ustawa z 6 grudnia 2008 r. o podatku akcyzowym: Artykuł 100 ust. 4 definiuje samochód osobowy przez kod celny CN 8703, który obejmuje samochody kempingowe. Artykuł 100 ust. 1a pkt 1, obowiązujący od 1 lipca 2021 r., opodatkowuje „dokonanie w pojeździe samochodowym, innym niż samochód osobowy, zarejestrowanym na terytorium kraju, zmian konstrukcyjnych zmieniających rodzaj tego pojazdu na samochód osobowy”. Artykuł 101 ust. 4a mówi, że obowiązek podatkowy powstaje z dniem dokonania tych zmian.
-
-### Pierwszy kamper to MVP
-
-Potraktujcie pierwszego kampera jak MVP — w IT tak nazywa się pierwszą, celowo niedoskonałą wersję produktu, którą buduje się po to, żeby sprawdzić pomysł w praktyce i znaleźć pierwszych klientów. Dopiero mieszkając w aucie albo kempingując, dowiecie się, co się u Was sprawdziło, a co nie. Nasza własna lista jest długa i część już znacie: prysznic w zwężeniu, wysokość 3,20 m, H3 pod podłogę, której nie ma. **Jeszcze w życiu nie widzieliśmy kogoś, kto powiedziałby, że zrobił jednego kampera i wszystko mu się podoba. Z nami włącznie.**
-
-I my nie jesteśmy tu wyjątkiem: żywo zastanawiamy się, żeby kolejnego kampera robić na czymś naprawdę dużym — po głowie chodzi nam Sprinter, MAN albo Iveco na kategorię C. Czasem też zastanawiamy się nad zakupem bazy z nowszą szoferką i lepszym wyposażeniem, jak choćby asystent pasa ruchu — w tym momencie nie mamy nawet czujnika martwego pola :/ Baza numer jeden nie musi być ostatnia. Ma być na tyle dobra, żebyście ruszyli :)
+Podstawy prawne i terminy — w rozdziale o formalnościach.
 
 ## Pierwsza granica: dwa metry wysokości
 
-Dwa metry to prawne minimum wysokości parkingu podziemnego: przepisy budowlane wymagają w garażu 2,2 m w świetle konstrukcji, ale pod belkami, rurami i instalacjami — a więc na realnej trasie przejazdu — wystarczy równe 2,0 m. Do tego zarządcy wieszają znaki z zapasem, więc na wjazdach zobaczycie 1,9–2,1 m. Samochód poniżej dwóch metrów wjedzie wszędzie; auto, które ma kilka centymetrów ponad dwa metry — pewnie też, ale trzeba bardziej uważać.
+Dwa metry to prawne minimum wysokości parkingu podziemnego: przepisy budowlane wymagają w garażu 2,2 m w świetle konstrukcji, ale pod belkami, rurami i instalacjami — a więc na realnej trasie przejazdu — wystarczy równe 2,0 m. Do tego zarządcy wieszają znaki z zapasem, więc na wjazdach zobaczycie 1,9–2,1 m. Auto poniżej dwóch metrów wjedzie na większość parkingów.
 Samochód poniżej dwóch metrów wysokości wjedzie więc pod galerię handlową, pod hotel lub na parking podziemny w centrum Barcelony. Małą bazą realnie zwiedzicie miasta jak osobówką. Wysoką będziecie kombinować z parkingami na obrzeżach. Z kompletnie niejasnego dla mnie powodu małe bazy kamperowe też mniej rzucają się w oczy niż busy, nawet gdy mają markizę. Może to przez standardowe okna?
 
 Ponadto auto poniżej dwóch metrów prowadzi się po prostu jak osobówkę. Ja wiem, że wrażenia z jazdy większością z dostawczaków są bardzo zbliżone do jazdy osobówką. Kto z Was nie próbował, to otwórzcie dowolną aplikację do car sharingu i wynajmijcie jakiegoś dostawczaka, chociażby na pół godziny :) W mojej osobistej opinii dostawczaki wręcz prowadzi się lepiej niż osobówki, ze względu na to, że siedzi się wyżej i zdecydowanie więcej widać. Niestety, wystarczy takim autem wyjechać na otwartą przestrzeń bądź autostradę i poczuć podmuch wiatru, bądź wyjechać zza tira. Wysokie samochody swoją powierzchnią boczną działają jak żagiel i wiatr naprawdę aktywnie i często spycha je z toru jazdy. W dwumetrowych autach wiatr prawie nie ma znaczenia. Ponadto mniejsze bazy rozwijają zdecydowanie bardziej autostradowe prędkości. Naszym Boxerem L4H3 da się pojechać 140 km/h, ale jest to nieprzyjemne ze względu na bujanie i podmuchy wiatru. Spalanie jest wtedy absurdalnie wysokie, a przeciętna realna prędkość, z jaką podróżujemy, to okolica 100 km na godzinę. 
@@ -80,9 +74,9 @@ Do tego dochodzi cała gama pick-upów, o których nie będziemy tu pisać jako 
 
 DMC, czyli dopuszczalna masa całkowita, to maksymalna masa, jaką Wasz samochód może legalnie mieć na wadze — razem z zabudową, wodą, bagażami i Wami w środku. Na zwykłe prawo jazdy kategorii B wolno prowadzić auto do 3,5 tony. I to jest, powiem to wprost, **kategorycznie największy problem we wszystkich kamperach na kategorię B**. Każdy kilogram się liczy — nawet w kamperze dla dwóch osób.
 
-Już o tym pisałem, ale napiszę jeszcze raz: **DMC nie da się w Polsce podnieść po pierwszej rejestracji. Kropka.** Nie ma prostej, urzędowej ścieżki „dokupię sobie pół tony później”. Decyzja o tym, ile Wasz kamper będzie mógł ważyć, zapada w momencie zakupu auta i jest nieodwracalna. 
+**DMC w Polsce w praktyce się nie podnosi** (podstawa — w rozdziale o formalnościach). Nie ma prostej, urzędowej ścieżki „dokupię sobie pół tony później”. Decyzja o tym, ile Wasz kamper będzie mógł ważyć, zapada w momencie zakupu auta i jest nieodwracalna. 
 
-Dla przykładu Ducato L4H3 z silnikiem 2.2 180 KM w wersji 3,5 t DMC ma masę własną 2 320 kg (dane z katalogu 2025) — na zabudowę, wodę, bagaże i Was zostaje **1 180 kg** (+/- 3%). Ten sam blaszak w wersji ciężkiej 4,25 t waży, z tego co wiem, dokładnie tyle samo (niestety nigdy nie widziałem takiego na żywo, żeby sprawdzić w dowodzie), za to ładowność skacze o 750 kg, czyli o całą różnicę w DMC! To o dwie trzecie więcej niż w wersji 3,5 t! Crafter czy MAN waży podobnie co trojaczki, za to ma wersje DMC 5,0 t z ładownością ponad 2,5 t — to jest ponad dwa razy więcej dostępnej wagi na zabudowę niż wersje 3,5 t DMC. W tym segmencie, czyli względnie małych dostawczaków, a jeszcze niepełnowymiarowych ciężarówek, podium należy do Iveco Daily z maksymalnym DMC aż 7,0 t i ładownością **prawie 4 t**, czyli trzy i pół raza tyle, co zwykły „wieloraczek” w wariancie 3,5 t.
+Dla przykładu Ducato L4H3 z silnikiem 2.2 180 KM w wersji 3,5 t DMC ma masę własną 2 320 kg (dane z katalogu 2025) — na zabudowę, wodę, bagaże i Was zostaje **1 180 kg** (+/- 3%). Ten sam blaszak w wersji ciężkiej 4,25 t waży, z tego co wiem, dokładnie tyle samo (niestety nigdy nie widziałem takiego na żywo, żeby sprawdzić w dowodzie), za to ładowność skacze o 750 kg, czyli o całą różnicę w DMC! To o dwie trzecie więcej niż w wersji 3,5 t! Crafter czy MAN waży podobnie co trojaczki, za to ma wersje DMC 5,0 t z ładownością grubo ponad 2 t — to jest ponad dwa razy więcej dostępnej wagi na zabudowę niż wersje 3,5 t DMC. W tym segmencie, czyli względnie małych dostawczaków, a jeszcze niepełnowymiarowych ciężarówek, podium należy do Iveco Daily z maksymalnym DMC aż 7,0 t i ładownością **prawie 4 t**, czyli trzy i pół raza tyle, co zwykły „wieloraczek” w wariancie 3,5 t.
 Wniosek jest prosty: przekraczając 3,5 tony DMC, przechodzicie do innej ligi możliwości zabudów, w której 250 litrów wody, dwa/trzy akumulatory, gruba izolacja i normalna lodówka, pralka czy generator prądu mieszczą się bez problemu.
 
 ### Budżet masy
@@ -118,7 +112,7 @@ Pierwsza rzecz to uprawnienia — i tu opcjonalnie dobra wiadomość: nie potrze
 
 W praktyce C1 to kategoria-widmo. Zanim się na nią nastawicie, otwórzcie strony ośrodków szkolenia w swoim mieście i policzcie, ile z nich w ogóle ma ją w ofercie. My sprawdziliśmy Lublin: żadna z przejrzanych szkół nie szkoli na C1 — wszystkie za to chętnie zapiszą Was na pełne C. Nawet WORD w Lublinie ma C1 w cenniku egzaminów, ale w wykazie pojazdów egzaminacyjnych nie znajdziecie ani jednego auta z przedziału 3,5–7,5 t; egzamin musiałby się odbyć na pojeździe podstawionym przez ośrodek szkolenia — którego nie ma, bo nikt nie szkoli. Powód jest prozaiczny: kurs C1 kosztuje prawie tyle samo co kurs pełnej kategorii C, więc rynek uznał kategorię pośrednią za zbędną.
 
-Dlatego realny wybór wygląda tak: pełna kategoria C. Obejmuje wszystko powyżej 3,5 tony bez górnego limitu (solo; zestawy z dużą przyczepą to już C+E), kurs to 20 godzin teorii i 30 godzin praktyki. Ceny w 2026 roku zwykle 4 500–6 500 zł + egzamin w WORD. Różnice względem C1 są dwie. Po pierwsze wiek: C wymaga ukończonych 21 lat — chyba że zrobicie pełną kwalifikację wstępną (280 godzin kursu na kierowcę zawodowego), wtedy próg spada do 18 lat, ale to ścieżka dla zawodowców, nie dla budowniczych kamperów. 
+Dlatego realny wybór wygląda tak: pełna kategoria C. Obejmuje wszystko powyżej 3,5 tony bez górnego limitu (solo; zestawy z dużą przyczepą to już C+E), kurs to 20 godzin teorii i 30 godzin praktyki. Ceny w 2026 roku zwykle 4 500–6 500 zł + egzamin w WORD. Różnice względem C1 są dwie: kurs na C ma 30 godzin jazd, a nie 20, i wyższy jest próg wieku — C wymaga ukończonych 21 lat, chyba że zrobicie pełną kwalifikację wstępną (280 godzin kursu na kierowcę zawodowego), wtedy próg spada do 18 lat, ale to ścieżka dla zawodowców, nie dla budowniczych kamperów. 
 W obu przypadkach jest haczyk z ważnością: zarówno C1, jak i C wydaje się maksymalnie na 5 lat, a każde przedłużenie wymaga powtórnych badań lekarskich i psychologicznych.
 
 Wniosek: jeśli Wasz wymarzony bazowy pojazd waży więcej niż 3,5 tony, planujcie od razu kurs na pełną kategorię C i doliczcie do budżetu budowy około 5–7 tysięcy złotych razy ilość kierowców, oraz jedno popołudnie co pięć lat na badania. C1 zostawcie jako ciekawostkę.
@@ -129,7 +123,7 @@ Warto wiedzieć: Już dziś na kategorię B (po dwóch latach stażu) wolno w P
 - prawo jazdy kat. B od co najmniej 2 lat;
 - pojazd na paliwa alternatywne (prąd, wodór, także CNG/LNG/LPG wg rozporządzenia do art. 66 ust. 5 PoRD);
 - nadwyżka ponad 3,5 t wynika z napędu (czyli głównie z masy baterii) i jest odnotowana w dowodzie rejestracyjnym — to praktycznie najważniejszy haczyk: bez tej adnotacji przy rejestracji przywilej nie działa.
-Polecam traktować to raczej jako ciekawostkę, ponieważ wynika to wyłącznie z polskiego ustawodawstwa, czyli wcale niekoniecznie działa w całej Unii Europejskiej (na dzień pisania książki). Podstawa: art. 6 ust. 3 pkt 4 ustawy o kierujących pojazdami, dodany nowelizacją ustawy o elektromobilności z 2.12.2021 oraz dyrektywa UE 2025/2205 (przyjęta 22.10.2025). 
+Polecam traktować to raczej jako ciekawostkę, ponieważ wynika to wyłącznie z polskiego ustawodawstwa, czyli wcale niekoniecznie działa w całej Unii Europejskiej (na dzień pisania książki). Podstawa: art. 6 ust. 3 pkt 4 ustawy o kierujących pojazdami (dodany nowelizacją ustawy o elektromobilności z 2.12.2021). 
 
 Dla cierpliwych: przyjęta 22 października 2025 roku i opublikowana 5 listopada 2025 dyrektywa UE 2025/2205 w sprawie praw jazdy wprost wpisuje kampery do kategorii B. Konkretnie: pozwala na kategorię B prowadzić „motor caravan” — czyli pojazd homologowany jako kamper (pojazd specjalnego przeznaczenia kategorii M) — o DMC powyżej 3,5 t do 4,25 t, także z przyczepą, jeśli cały zestaw nie przekracza 5 t. Warunek: ukończenie szkolenia albo zdanie egzaminu z umiejętności (albo jedno i drugie — o tym decyduje każde państwo osobno), a uprawnienie zapisuje się w prawie jazdy osobnym unijnym kodem. To nie jest opcja, którą kraj może pominąć — kampery weszły do wspólnego, obowiązkowego zakresu kategorii B. Terminy są za to odległe: państwa mają czas na uchwalenie swoich przepisów do 26 listopada 2028 roku, a stosować je mają od 26 listopada 2029. Realnie kamper 4,25 tony na kategorię B to więc niewcześniej niż koniec 2029 roku. Żeby nie było złudzeń: nowa kategoria B zmieni to, **czym** możecie jechać — nie podniesie DMC żadnego auta. I nawet kiedy kamper 4,25 tony wejdzie na kategorię B, dla e-TOLL i podobnych systemów prawdopodobnie pozostanie pojazdem powyżej 3,5 t. Tu trzeba śledzić zmiany na bieżąco, ale warto o tym pamiętać, bo przepisy zmieniają się powoli, za to w dobrą stronę :)
 
@@ -153,7 +147,7 @@ Sześć metrów nie zawsze robi różnicę — niektóre linie promowe mają tan
 
 Kolejna znana mi granica długości to dopiero osiem metrów — to droższe o kolejny stopień norweskie promy i granica, którą wpisuje lub egzekwuje podwójnymi szlabanami część kamper parków, głównie za granicą. Po co? By nie dało się na nie wjeżdżać przyczepami kempingowymi, które muszą parkować na droższych kempingach. To nie jest żadna norma, tylko decyzje gmin i operatorów, a polskie kamper parki zwykle nie mają w regulaminie żadnego limitu długości.
 
-Co z tego wynika dla wyboru bazy? Jeśli planujecie mieszkać w aucie, L4 daje Wam 36,5 cm paki więcej za cenę, którą zapłacicie praktycznie wyłącznie na promach — reszta Europy tej różnicy nie widzi. My przez trzy miesiące w Norwegii płaciliśmy za nasz ponad 10-metrowy zestaw (kamper i przyczepka) trzykrotną stawkę osobówki i wzięlibyśmy L4 drugi raz bez wahania: metr paki na co dzień jest wart więcej niż dopłata na promie kilka razy w roku. Jeśli planujecie wakacyjnie i marzy Wam się wyłącznie Skandynawia — policzcie sobie sami: L3 mieści się w tańszym paśmie prawie wszędzie.
+Co z tego wynika dla wyboru bazy? Jeśli planujecie mieszkać w aucie, L4 daje Wam 36,5 cm paki więcej za cenę, którą zapłacicie praktycznie wyłącznie na promach — reszta Europy tej różnicy nie widzi. My przez trzy miesiące w Norwegii płaciliśmy za nasz ponad 10-metrowy zestaw (kamper i przyczepka) trzykrotną stawkę osobówki i wzięlibyśmy L4 drugi raz bez wahania: te dodatkowe centymetry paki na co dzień są warte więcej niż dopłata na promie kilka razy w roku. Jeśli planujecie wakacyjnie i marzy Wam się wyłącznie Skandynawia — policzcie sobie sami: L3 mieści się w tańszym paśmie prawie wszędzie.
 
 ## Grupa modelowa, czyli jakie właściwie auto
 
@@ -231,7 +225,7 @@ Poza Polską fabryczne kampery na Daily istnieją, tylko w innej lidze. Bimobil 
 Wydaje się, że można znaleźć tu pewien sens i logikę, mianowicie Iveco w wersji 4x4 i w klasie 7 t kosztuje tyle, co Sprinter albo więcej, a mimo lepszych parametrów nie kojarzy się ludziom jako marka premium.
 
 Z innych zalet: Daily ma najdłuższą pakę na rynku, ponad 5 m podłogi w najdłuższej wersji, ale między ścianami jest o 7 cm mniej niż w trojaczkach, przy kołach bliźniaczych między nadkolami zostaje ledwie metr, a ściany są mocno zaokrąglone i zwężające się ku górze. Silniki 2.3 i 3.0, więc zawsze pełna akcyza. Napęd na tył w standardzie, masa całkowita od 3,5 do 7,2 t. Cennika Iveco dla Polski nie znajdziecie w internecie, ceny ustala się u dealera, a serwis to sieć ciężarowa, ze wszystkimi tego konsekwencjami dla godzin otwarcia i stawek.
-I najważniejsze, bo to jedyne takie auto w stawce: Daily 4x4 to prawdziwa terenówka, nie dostawczak z dołączanym napędem. Ma skrzynię rozdzielczą z reduktorem, blokady wszystkich trzech mechanizmów różnicowych, prześwit 255–300 mm zależnie od opon i głębokość brodzenia 670 mm. Występuje jako 5,5 t i 7,0 t. Co to znaczy w praktyce, wyjaśniam w sekcji o napędzie.
+I najważniejsze, bo to jedyne takie auto w stawce: Daily 4x4 to prawdziwa terenówka, nie dostawczak z dołączanym napędem. Ma skrzynię rozdzielczą z reduktorem i blokady wszystkich trzech mechanizmów różnicowych. Występuje jako 5,5 t i 7,0 t. Co to znaczy w praktyce, wyjaśniam w sekcji o napędzie.
 
 ### Rekomendacja autora
 
@@ -255,7 +249,7 @@ My oboje mamy około 1,73 m i w naszym H3 zostaje nam ponad 20 cm nad głową. L
 
 Wysoką wersję wzięliśmy z konkretnego powodu: planowaliśmy podwójną podłogę, czyli przestrzeń techniczną pod właściwą podłogą — na instalacje i zbiorniki. Z podwójnej podłogi zrezygnowaliśmy, bo nie da się jej zrobić lekko, a nasz kamper i tak wyszedł za ciężki. Jak mamy Wam czegoś odradzić, to właśnie tego: **nie róbcie podwójnej podłogi przy 3,5 tony — to potworny strzał w kolano**. Przy wyższym DMC proszę bardzo :)
 
-Zostaliśmy więc z H3, którego głównym uzasadnieniem miała być podwójna podłoga, a podłogi nie ma :) Różnica masy między H2 a H3 to w tabelach „tylko” ~70 kg. Tylko że 70 kg to „aż” dwa wielkie akumulatory, dwa przedsionki albo nasze oba psy. Do tego H3 z klimatyzatorem na dachu ma u nas łącznie 3,20 m wysokości całkowitej, a na drogach lokalnych zdarzają się niższe przejazdy. Według przepisów nowe obiekty nad drogami krajowymi muszą mieć 4,60–4,70 m prześwitu, ale stary wiadukt kolejowy w środku miasteczka ma tyle, ile miał, jak go zbudowano, i dostaje tylko znak. Znak B-16 „zakaz wjazdu pojazdów o wysokości ponad…” stawia się przed obiektami niższymi niż 4,5 m i celowo zaniża wartość o pół metra względem rzeczywistego prześwitu w najniższym punkcie, więc pod znakiem „3,3 m” realnie jest około 3,8 m. Zanim się tego dowiedzieliśmy, pod niejeden przejazd podjeżdżaliśmy tak, że ktoś z nas wystawiał głowę z okienka dachowego i sprawdzał, a kierowca jechał powoli :) Przy średnim wzroście jedyny argument za H3 to w mojej opinii wygodnictwo; drugi raz porządnie byśmy się nad nim zastanowili.
+Zostaliśmy więc z H3, którego głównym uzasadnieniem miała być podwójna podłoga, a podłogi nie ma :) Różnica masy między H2 a H3 to „tylko” kilkadziesiąt kilogramów. Tylko że to „aż” dwa wielkie akumulatory, dwa przedsionki albo nasze oba psy. Do tego H3 z klimatyzatorem na dachu ma u nas łącznie 3,20 m wysokości całkowitej, a na drogach lokalnych zdarzają się niższe przejazdy. Według przepisów nowe obiekty nad drogami krajowymi muszą mieć 4,60–4,70 m prześwitu, ale stary wiadukt kolejowy w środku miasteczka ma tyle, ile miał, jak go zbudowano, i dostaje tylko znak. Znak B-16 „zakaz wjazdu pojazdów o wysokości ponad…” stawia się przed obiektami niższymi niż 4,5 m i celowo zaniża wartość o pół metra względem rzeczywistego prześwitu w najniższym punkcie, więc pod znakiem „3,3 m” realnie jest około 3,8 m. Zanim się tego dowiedzieliśmy, pod niejeden przejazd podjeżdżaliśmy tak, że ktoś z nas wystawiał głowę z okienka dachowego i sprawdzał, a kierowca jechał powoli :) Przy średnim wzroście jedyny argument za H3 to w mojej opinii wygodnictwo; drugi raz porządnie byśmy się nad nim zastanowili.
 
 ### Rekomendacja autora
 
@@ -291,9 +285,9 @@ Ogólna reguła, którą z tych rozmów wyniosłem, jest prosta i dotyczy każde
 
 ### Co mówimy my
 
-Jeździmy najmocniejszym 2.0 i przy 3,5 t mocy nie ma się czego bać. Nasz zestaw z przyczepką waży ponad 4,25 tony i silnik ciągnie go bez problemu. Bez przyczepki 140 km/h jest osiągalne. Zazwyczaj jeździmy 100–110 km/h solo ze spalaniem 10 l i około 13 z przyczepką (jadąc 80 km/h). Ograniczeniem nie jest moc, tylko przyczepność, o której już pisaliśmy. Mieliśmy do tej pory problemy z:
+Jeździmy najmocniejszym 2.0 i przy 3,5 t mocy nie ma się czego bać. Nasz zestaw z przyczepką ma 4,25 t DMC i silnik ciągnie go bez problemu. Bez przyczepki 140 km/h jest osiągalne. Zazwyczaj jeździmy 100–110 km/h solo ze spalaniem 10 l i około 13 z przyczepką (jadąc 80 km/h). Ograniczeniem nie jest moc, tylko przyczepność, o której już pisaliśmy. Mieliśmy do tej pory problemy z:
     - spalaniem oleju — stosunkowo niedroga wymiana odmy
-    - zapchaną pompą AdBlue — droga regeneracja — od tej pory działa
+    - skrystalizowanym AdBlue — droga regeneracja pompy — od tej pory działa
     - zapchanym DPF — regeneracja
 
 Szczerze mówiąc, bardzo często różnica w akcyzie, którą powinniśmy policzyć od gotowego pojazdu z zabudową, będzie równie droga, jak potencjalny remont silnika. Oczywiście wszystko zależy od ceny i wysokości, ostatecznej wysokości akcyzy, ale to są porównywalne kwoty. Więc szczerze mówiąc, większe silniki niż 2.0 brałbym tylko w przypadku, gdybym z innych względów koniecznie chciał kupić dany model samochodu z danego rocznika, w którym mniejsze silniki nie występują. 
@@ -356,11 +350,11 @@ Czwarta sprawa to opony, ciśnienie i prześwit, o których laicy zapominają, l
 
 #### Przegląd baz 4x4
 
-Z grubsza stawka dzieli się na cztery grupy.
+Z grubsza stawka dzieli się na trzy grupy.
 
 W ogóle bez fabrycznego 4x4: cała rodzina Ducato, czyli Ducato, Boxer, Jumper, Movano od 2021 i ProAce Max, oraz nowy Master z Interstarem. Dla wieloraczków istnieje francuska przeróbka firmy Dangel — z tego co wiem, to dołączana sprzęgłem tylna oś bez reduktora. Można szukać też przeróbek innych aut bez fabrycznego napędu od firmy Oberaigner.
 
-AWD, czyli druga oś dołączana sprzęgłem, bez reduktora i bez blokad mechanicznych: obecny Sprinter AWD (od 2021), Crafter i MAN TGE 4Motion i Ford Transit AWD. W cennikach są najtańszym wejściem w cztery napędzane koła.
+AWD, czyli druga oś dołączana sprzęgłem, bez reduktora (Crafter i TGE z opcjonalną blokadą tylnego mechanizmu różnicowego): obecny Sprinter AWD (od 2021), Crafter i MAN TGE 4Motion i Ford Transit AWD. W cennikach są najtańszym wejściem w cztery napędzane koła.
 
 Prawdziwy teren: Iveco Daily 4x4 jako jedyny seryjny duży furgon ma z fabryki reduktor i blokady wszystkich trzech mechanizmów różnicowych. 
 
@@ -427,3 +421,5 @@ Po oględzinach:
 ### Rekomendacja autora
 
 Szukajcie auta, które nie woziło cegieł, ma komplet papierów potwierdzających serwisy (większość dostawczaków jeździła w firmach, a firmy trzymają dokumenty częściej niż osoby prywatne) i czystą blachę. Silnik zostawcie do oceny mechanikowi/diagnoście. Wgniecenia i rysy osobiście bym zaakceptował. Koniecznie znalazłbym wagę w okolicy przed zakupem. Serio zastanowiłbym się nad zamówieniem zdalnej ekspertyzy.
+
+Baza numer jeden nie musi być ostatnia — to Wasze MVP z poprzedniego rozdziału.

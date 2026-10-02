@@ -143,7 +143,7 @@ Falownik, zwany też inwerterem, robi rzecz odwrotną: z prądu stałego z akumu
 
 Zamiana w tę stronę jest dużo trudniejsza. Falownik ma do dyspozycji tylko stałe napięcie z akumulatora i tranzystory, czyli bardzo szybkie wyłączniki. Wyłącznik umie tylko włączyć albo wyłączyć. Nie umie płynnie „trochę przepuszczać”, a sinusoida jest przecież gładka.
 
-Najprostsze rozwiązanie to przełączać plus z minusem 50 razy na sekundę. Wychodzi z tego przebieg prostokątny: napięcie skacze od razu z pełnego plusa na pełny minus. Nieco lepsze falowniki dodają między skokami chwilę przerwy na zerze i powstaje przebieg schodkowy. Sprzedaje się go pod ładnie brzmiącą nazwą „sinus modyfikowany”, choć z sinusoidą ma niewiele wspólnego.
+Najprostsze rozwiązanie to przełączać plus z minusem 100 razy na sekundę, czyli 50 pełnych cykli. Wychodzi z tego przebieg prostokątny: napięcie skacze od razu z pełnego plusa na pełny minus. Nieco lepsze falowniki dodają między skokami chwilę przerwy na zerze i powstaje przebieg schodkowy. Sprzedaje się go pod ładnie brzmiącą nazwą „sinus modyfikowany”, choć z sinusoidą ma niewiele wspólnego.
 
 Prawdziwą sinusoidę falownik musi „wyrzeźbić”, a ma do dyspozycji tylko wyłączniki. Stosuje więc sprytną sztuczkę.
 
@@ -262,7 +262,7 @@ Teraz trochę praktyki: ile prądu naprawdę zjadają sprzęty w kamperze. Liczb
 
 ### Nocny wyciek
 
-Jest pozycja, o której zapomina prawie każdy, bo powstaje wtedy, kiedy śpimy. Noc wydaje się czasem, w którym kamper nie zużywa nic. Tymczasem wiatrak kręci się dalej, Starlink i router pracują, lodówka pracuje, a falownik pobiera swoje, nawet jeśli nic nie jest do niego podłączone. U nas składa się to na około 1 kWh, czyli około 10% naszego banku, zanim w ogóle wstaniemy z łóżka :/
+Jest pozycja, o której zapomina prawie każdy, bo powstaje wtedy, kiedy śpimy. Noc wydaje się czasem, w którym kamper nie zużywa nic. Tymczasem wiatrak kręci się dalej, router pracuje, lodówka pracuje, a falownik pobiera swoje, nawet jeśli nic nie jest do niego podłączone. U nas składa się to na około 1 kWh, czyli około 10% naszego banku, zanim w ogóle wstaniemy z łóżka :/
 
 To klasyczni maratończycy: każde z tych urządzeń bierze niewiele, ale osiem godzin to dużo czasu. Najbardziej boli to zimą, kiedy słabe słońce przez cały dzień może nie oddać nawet tego, co uciekło w nocy.
 

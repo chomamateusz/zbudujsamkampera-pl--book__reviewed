@@ -18,8 +18,7 @@ Przeczytajcie go w całości, **zanim kupicie auto bazowe** — i zanim wydacie 
 
 ## Tom 2: Zbuduj
 
-Ten tom trzymajcie pod ręką **w trakcie budowy**. Rozdziały idą dokładnie w kolejności robót: od gołej blachy, przez izolację, okna, elektrykę i hydraulikę, aż po meble i wykończenie. Nie trzeba go czytać od deski do deski — czytacie ten rozdział, który właśnie robicie w aucie.
-Tom zamyka lista najczęstszych błędów budujących — zajrzyjcie do niej, zanim zaczniecie, i wróćcie po budowie, żeby sprawdzić własną robotę.
+Ten tom trzymajcie pod ręką **w trakcie budowy**. Rozdziały idą w kolejności robót: od gołej blachy, przez okna i izolację, elektrykę i hydraulikę, aż po meble i wykończenie. Nie trzeba go czytać od deski do deski — czytacie ten rozdział, który właśnie robicie w aucie.
 
 ## Tom 3: Wyposaż i jedź
 

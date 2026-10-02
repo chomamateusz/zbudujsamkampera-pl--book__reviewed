@@ -11,7 +11,7 @@ Naprawdę nie znam nikogo, kto nie chciał przerabiać swojego kampera po zbudow
 ### Czas przeliczony na pieniądze
 
 To, że budowa pożera mnóstwo czasu, wie prawie każdy po własnej budowie — ale mało kto przelicza ten czas na pieniądze. Jeśli zwalniacie się z pracy, żeby budować — tak jak my — to każdy miesiąc to brak wypłaty, która normalnie wpłynęłaby na konto. Jeśli robicie po godzinach, to prędzej czy później weźmiecie urlop tylko po to, żeby nadgonić robotę, albo żeby zawieźć go do warsztatu, który działa wyłącznie w godzinach Waszej pracy.
-To jest naprawdę gigantyczny koszt niewypłaconych pensji i urlopów zużytych na pracę, a nie wypoczynek, którego najczęściej nie wliczamy do budżetów. Dlatego powtarzam: **budowa kampera to jeszcze nie nie podróżowanie**.
+To jest naprawdę gigantyczny koszt niewypłaconych pensji i urlopów zużytych na pracę, a nie wypoczynek, którego najczęściej nie wliczamy do budżetów. Dlatego powtarzam: **budowa kampera to jeszcze nie podróżowanie**.
 
 Jak to mawiał Król Koviru w Wiedźminie: „Mieć milion, a nie mieć miliona, to razem dwa miliony” :) Więc przeliczcie swój czas dokładnie!
 
@@ -48,7 +48,7 @@ Z perspektywy czasu i tak uważam, że zrobiliśmy to zdecydowanie za późno. J
 
 ### 2. Test przed każdą wydaną złotówką
 
-Nasz test z materacem w sedanie znacie z poprzednich rozdziałów, zostaje z niego jedna zasada: testujcie celowo w warunkach cięższych, niż będzie miał Wasz kamper, bo deal breakery wychodzą wtedy na wierzch szybciej. Nam w listopadzie brak toalety przeszkadzał bardziej niż zimno. Drugi test przegapiliśmy i to był błąd: po kupnie auta nie pojechaliśmy nigdzie pustym blaszakiem, więc sporo o własnym samochodzie dowiedzieliśmy się później, niż powinniśmy.
+Nasz test z materacem w osobówce znacie z rozdziału o filozofii; zostaje z niego jedna zasada: testujcie w warunkach cięższych niż docelowe. Drugi test przegapiliśmy i to był błąd: po kupnie auta nie pojechaliśmy nigdzie pustym blaszakiem, więc sporo o własnym samochodzie dowiedzieliśmy się później, niż powinniśmy.
 
 Zanim przetniecie pierwszą deskę, rozplanujcie wnętrze na sucho. Najwięcej za najmniej daje zwykła taśma malarska albo marker: odrysujcie na podłodze, ścianach i suficie, gdzie co ma być, i przymierzcie się własnym ciałem — usiądźcie, połóżcie się, przejdźcie. Meble z tektury pokazują jeszcze więcej, ale uczciwie: samo ich wycinanie i klejenie to naprawdę dużo roboty, więc traktujcie je jako opcję.
 
@@ -72,7 +72,7 @@ Po pierwszym sezonie usiądźcie i oceńcie każdy element zabudowy od 1 do 10 g
 
 ### 5. Formalności wcześnie, jazda równolegle
 
-Z dzisiejszą wiedzą zaczęlibyśmy od foteli, homologacji i przerejestrowania, bo jeśli wymienicie fotele, a nie dopełnicie formalności to nie powinniście jeździć tym autem, bo jego stan nie zgadza się z tym, który był podczas rejestracji. Zabudowy ta zasada nie dotyczy — dowolnej zmiany w fotelach już tak (dodania obrotnic też).
+Z dzisiejszą wiedzą zaczęlibyśmy od foteli, homologacji i przerejestrowania, bo jeśli wymienicie fotele, a nie dopełnicie formalności to nie powinniście jeździć tym autem, bo jego stan nie zgadza się z tym, który był podczas rejestracji. Fotele to pierwsza rzecz, która zmienia dane w dowodzie, więc od nich zaczynamy; gotowa zabudowa to drugie badanie — kolejność i paragrafy opisuję w rozdziale o formalnościach.
 
 ### 6. Rozbieralność
 

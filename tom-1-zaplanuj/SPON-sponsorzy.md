@@ -8,7 +8,7 @@ Współprace jako takie nam się zdarzają — recenzowaliśmy na przykład Ford
 
 Kamperowanie, Instagram i media społecznościowe nigdy nie były, nie są i najpewniej nie będą naszym głównym źródłem utrzymania. A jeśli kiedyś załatwimy czytelnikom jakieś zniżki albo promocje, nie wpłynie to ani na treść książki, ani na nasze opinie.
 
-Dlaczego robię z tego osobny rozdział? Bo w świecie poradników — nie tylko kamperowych — to nie jest standard, tylko wyjątek. Znaczna większość „darmowej” wiedzy o budowie kamperów w europejskim internecie żyje z poleceń: z kodów rabatowych i linków afiliacyjnych.
+Dlaczego robię z tego osobny rozdział? Bo w świecie poradników — nie tylko kamperowych — to nie jest standard, tylko wyjątek. Duża część „darmowej” wiedzy o budowie kamperów w europejskim internecie żyje z poleceń: z kodów rabatowych i linków afiliacyjnych.
 
 Na potrzeby tej książki przeanalizowałem kilkaset blogów o budowie kamperów — z Polski i z całej Europy. Wyniki? Licząc najostrożniej — tylko to, co automatyczny skrypt twardo wykrył w kodzie stron, czyli otagowane linki partnerskie, jawne kody rabatowe i dopiski o prowizji — afiliacje mają co najmniej cztery blogi na dziesięć. To jest dolna granica, bo tego, co schowane za skracaczami linków albo ukryte w inny sposób, taki skrypt nie zobaczy. 
 

@@ -64,15 +64,11 @@ Ciekawsze od szacunków jest jednak zderzenie planów z rzeczywistością. Z bud
 
 Dla porównania z pozostałymi ścieżkami: gotowiec nowy i używana samoróbka to czas „od ręki”, a odświeżenie starego gotowca znacznie mniej pracy i to rozłożonej na etapy.
 
-Typowa zabudowa dla niedoświadczonej osoby zajmuje około 1 000 roboczogodzin — czyli 63 weekendy po 8 godzin pracy dziennie. To ponad rok życia weekendowego budowniczego, i to bez ani jednego wolnego weekendu! Wykorzystując popołudnia, można zejść poniżej roku.
+Typowa zabudowa dla niedoświadczonej osoby zajmuje około 1 000 roboczogodzin — czyli 63 weekendy po 8 godzin pracy dziennie. To ponad rok życia weekendowego budowniczego, i to bez ani jednego wolnego weekendu! Dokładając popołudnia, przyspieszycie — ale jak widać wyżej, i tak zwykle wychodzi ponad rok.
 
-Drugi niedoszacowany składnik to psychika. Budowa to miesiące życia w rozbabranym projekcie, z autem, które stoi rozgrzebane. Często jedna osoba ma już dość, a druga przeciągnęłaby prace do nocy — kłótnie gwarantowane :) Jeśli ten rytm Was nie przeraża — dobrze. Jeśli myślicie, że u Was będzie inaczej — wróćcie do liczb wyżej. Zmieszczenie zabudowy w roku to poświęcenie całego wolnego czasu na ten projekt — a co będzie jak coś większego Wam wypadnie?
-
-Motto na przetrwanie, które polecam wziąć do serca sobie nad warsztatem, brzmi: **„lepsze zrobione niż perfekcyjne”**. My też wpadliśmy w tę pułapkę, że wszystko musi być zrobione jak najdokładniej, a niektóre rzeczy po prostu można było odpuścić, albo zostawić do doszlifowania na później.
+O tym, jak przy tym nie zwariować, w następnym rozdziale.
 
 To po co w ogóle budować? Zalety opisałem z pierwszej ręki na początku rozdziału — dopasowanie i naprawy własnymi rękami. Usterki zaś zawsze **będą**, to nie jest kwestia „czy”, tylko „kiedy i gdzie” :)
-
-I jeszcze ostrzeżenie: nie zakładajcie sobie sztywnych deadlinów. Pośpiech na budowie to stres i przepłacanie — zamiast zamówić w Internecie taniej kupujecie to, co jest pod ręką w markecie, by tylko „wyrobić się dzisiaj”. Dobrze jest mieć rozpisaną ścieżkę w kalendarzu, żeby móc mierzyć postęp i tempo i dzięki wiedzy z poprzednich etapów móc lepiej estymować czas kolejnych, ale nigdy nie traktujcie niedotrzymania własnych terminów jak porażkę — traktujcie jako bezcenną wiedzę na temat Waszego realnego tempa.
 
 #### Bilans ścieżki 1
 
@@ -249,10 +245,10 @@ Trzecia pułapka to znowu waga, bo stare kampery na 3,5 t potrafią mieć bardzo
 
 Czwarta pułapka to wiek instalacji w szczególności elektrycznej i gazowej.
 
-Używany kamper najczęściej ma instalacje 12 V zasilaną z akumulatora oraz 230 V działającą po podłączeniu się kablem do prądu na kempingu. Jeśli jest 230 V warto sprawdzić, czy jest wyłącznik różnicowoprądowy — jeśli go nie ma warto dołożyć. Więcej w rozdziale o elektryce. Gniazda 230 V wewnątrz nie oznaczają posiadania przez auto przetwornicy — bez niej prąd płynie w nich tylko po podłączeniu do słupka. Po stronie 12 V pracuje akumulator mieszkalny najczęściej będzie to zwykły akumulator ołowiowy o względnie niskiej pojemności do 100 Ah — stare modele zakładały, że wyłącznie oświetlenie, pompa wody i ewentualnie wentylator pracuje na prąd — reszta, w tym lodówka (!) na gaz bez elektronicznego sterowania. Zdarzają się też światła ze zwykłymi żarówkami, które od razu powinniście zamienić na LED-owe, żeby akumulator starczał na dłużej.
+Używany kamper najczęściej ma instalacje 12 V zasilaną z akumulatora oraz 230 V działającą po podłączeniu się kablem do prądu na kempingu. Jeśli jest 230 V warto sprawdzić, czy jest wyłącznik różnicowoprądowy — jeśli go nie ma warto dołożyć. Sprawdźcie różnicówkę i testerem każde gniazdko. Gniazda 230 V wewnątrz nie oznaczają posiadania przez auto przetwornicy — bez niej prąd płynie w nich tylko po podłączeniu do słupka. Po stronie 12 V pracuje akumulator mieszkalny najczęściej będzie to zwykły akumulator ołowiowy o względnie niskiej pojemności do 100 Ah — stare modele zakładały, że wyłącznie oświetlenie, pompa wody i ewentualnie wentylator pracuje na prąd — reszta, w tym lodówka (!) na gaz bez elektronicznego sterowania. Zdarzają się też światła ze zwykłymi żarówkami, które od razu powinniście zamienić na LED-owe, żeby akumulator starczał na dłużej.
 W instalacji elektrycznej starzeje się najbardziej akumulator i połączenia. Wraz z tym, że często instalacje były projektowane wyłącznie pod zasilanie oświetlenia, najprawdopodobniej w ścianie możecie się spodziewać cienkich przewodów, które prawdopodobnie bezpiecznie nie obsłużą urządzeń wysokiej mocy. Dla przykładu nowoczesna ładowarka do laptopa (Power Delivery USB-C) potrafi mieć ponad 120–140 W i wtedy kablem płynie ponad 10 A — to dużo dla cienkiego kabla.
 
-Z gazem jest dość przewrotnie, bo w Polsce nie ma obowiązkowych przeglądów ani przepisów, które mówiłyby, jak ma wyglądać instalacja gazowa w części mieszkalnej pojazdu kempingowego. Co oczywiście nie znaczy, że to jest rozsądne i bezpieczne :)
+Z gazem jest dość przewrotnie, bo stacja kontroli pojazdów nie bada mieszkalnej instalacji gazowej, więc formalnie nikt nie sprawdzi, jak jest zrobiona. Co oczywiście nie znaczy, że to jest rozsądne i bezpieczne :) Wyjątkiem jest stały zbiornik LPG do ogrzewania: podlega Transportowemu Dozorowi Technicznemu i musi przechodzić badanie co rok, a co 6 lat dokładniejsze, z próbą ciśnieniową.
 Najważniejsze części, które się starzeją, to: reduktor, gumowe węże i osobno butle. Na reduktorze i wężu znajdziecie datę produkcji: na wężu jest nadrukowana co kilkadziesiąt centymetrów, na reduktorze powinna być na tabliczce. Guma starzeje się i pęka niezależnie od tego, ile gazu przez nią przeszło, więc po dziesięciu latach, nawet bez użytkowania, producent nie gwarantuje szczelności. W starym kamperze najbezpieczniej wymienić jedno i drugie przed pierwszym wyjazdem. 
 Butle mają własną datę: na kołnierzu wybity jest rok i miesiąc ostatniego badania, ważnego dziesięć lat. Przy zwykłych butlach na wymianę pilnuje tego rozlewnia, więc stare po prostu wymienicie na pełne — tych terminów nie przenoście jednak na węże i reduktor.
 Istnieje europejska norma EN 1949 dla takich instalacji, ale jest dobrowolna, więc polskie serwisy najczęściej badają według zasad niemieckich. Najpopularniejsza jest tzw. karta robocza DVGW G 607, która w oparciu o EN 1949 reguluje wymagania dotyczące elementów i działania instalacji gazowej. Warto je wykonywać najlepiej co roku albo raz na dwa lata, bo tyle według niemieckiej karty roboczej badanie jest ważne. Co prawda w Polsce nikt nie będzie od Was wymagał takich badań, ale niektóre linie promowe i kempingi za granicą potrafią o taki certyfikat zapytać, a na promie i tak każą zakręcić butle na czas rejsu. 
@@ -263,7 +259,7 @@ Zalety:
 
 - papiery i homologacja od lat w porządku;
 - układ sprawdzony przez fabrykę i tysiące użytkowników;
-- stare kampery w niezłym stanie da się kupić już od 40–50 tys. zł;
+- stare kampery w niezłym stanie da się kupić już od 40–50 tys. zł — tyle że w tej cenie będzie to auto mniej więcej 30-letnie, z lat 80., najpóźniej z początku lat 90.;
 - fabryczna dokumentacja — wiecie, jak to zbudowano;
 - modernizacja możecie zostawić na potem, a jechać od razu!
 

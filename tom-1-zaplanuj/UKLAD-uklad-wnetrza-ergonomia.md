@@ -9,7 +9,7 @@ Przy mieszkaniu na stałe, z dużym prawdopodobieństwem, będziecie spędzać w
 W kampervanach zbudowanych na popularnych bazach, czyli autach ze względnie krótkim i wąskim wnętrzem, najbardziej na poczucie przestrzeni wpływa układ wnętrza. Zaryzykuję wręcz stwierdzenie, że układ ma większy wpływ na poczucie przestrzeni niż wybrana wersja długości nadwozia! Planując, najczęściej używamy rzutu z góry i w takiej perspektywie kompletnie nie widać tego, co najbardziej zaburza poczucie przestrzeni w środku, czyli tego, czy zabudowa staje na linii wzroku!
 
 Klasyczny układ — z łazienką na środku — dzieli optycznie auto na pół. W pierwszej wersji mieliśmy mniej więcej w tym miejscu słupek kuchenny z lodówką, piekarnikiem i zmywarką od góry do dołu. Słupek był węższy od przeciętnej kamperowej łazienki, a mimo tego dzielił kampera na „kącik do pracy” i „kącik do spania”.
-W aktualnej wersji słupek wyleciał. Łazienka od zawsze zajmowała cały tył i stoi za ścianą, więc Patrząc, ma się wrażenie, że na tej ścianie kończy się kamper, a wchodząc za jej drzwi, dostajemy kolejne mini pomieszczenie. Dzięki temu, że nie mamy ściany grodziowej, wchodząc do kampera jest przestrzeń zarówno na lewo aż do ściany łazienki, jak i na prawo do szoferki. Jest to przestrzeń na całą szerokość i z dowolnego miejsca części mieszkalnej widać każdy jej zakątek. Oczywiście z wyłączeniem łazienki.
+W aktualnej wersji słupek wyleciał. Łazienka od zawsze zajmowała cały tył i stoi za ścianą, więc Patrząc, ma się wrażenie, że na tej ścianie kończy się kamper, a wchodząc za nią, dostajemy kolejne mini pomieszczenie. Dzięki temu, że nie mamy ściany grodziowej, wchodząc do kampera jest przestrzeń zarówno na lewo aż do ściany łazienki, jak i na prawo do szoferki. Jest to przestrzeń na całą szerokość i z dowolnego miejsca części mieszkalnej widać każdy jej zakątek. Oczywiście z wyłączeniem łazienki.
 
 Trzeba otwarcie przyznać, że ten układ wyszedł nam trochę z przymusu, a nie z chęci, bo właśnie planowaliśmy mieć osobny „kącik do pracy” i „do spania” przedzielony tym słupkiem :) Mimo tego wyszło coś naprawdę fajnego, czego się kompletnie nie spodziewaliśmy, przez co nasz kamper prezentuje się zupełnie inaczej niż większość zabudów.
 
@@ -28,7 +28,7 @@ Cztery decyzje trzeba podjąć wcześniej, bo one skreślają część układów
 
 - **Ściana grodziowa** Ze ścianą szoferka jest osobnym pomieszczeniem. Dodatkowa ściana zaraz po prawej stronie, wchodząc do strefy mieszkalnej przez przesuwane drzwi, daje też możliwości aranżacji w tym miejscu łazienki bądź kuchni. Dzięki temu, patrząc na lewo od wejścia, widzimy więcej otwartej przestrzeni i mamy więcej ścian do postawienia szafek. Największym minusem jest to, że nie możecie używać foteli z szoferki do pracy czy jedzenia. Bez ściany dostajecie przejście, fotele obrotowe jako jadalnię i możliwość montażu drugiego rzędu siedzeń.
 - **Wakacje czy mieszkanie.** W takim trybie najczęściej nie będzie nam przeszkadzać brak przejścia pomiędzy szoferką a strefą mieszkalną, jeśli zdecydujemy się na ścianę grodziową. Tak naprawdę to przeszkadza tylko, kiedy jest bardzo zimno albo kiedy pada i koniecznie trzeba jechać. Jak nie ma miejsca, to w wakacyjnym trybie łóżko może być rozkładane, a prysznic można zrobić za pomocą kotary albo na zewnątrz.
-- **Długość i wysokość bazy.** L2 to wszystko na wcisk i często brak łazienki, L4 powinien pomieścić wszystko nawet dla 4 osób. Szerokość decyduje o łóżku w poprzek: w Ducato da się je wyciągnąć do około 190 cm, Sprinter i Crafter są węższe i zwykle potrzebują poszerzeń. Wysokość powinniśmy dopasować do wzrostu.
+- **Długość i wysokość bazy.** L2 to wszystko na wcisk i często brak łazienki, L4 powinien pomieścić wszystko nawet dla 4 osób. Szerokość decyduje o łóżku w poprzek: w Ducato ma ono realnie około 185 cm, Sprinter i Crafter są węższe i zwykle potrzebują poszerzeń. Wysokość powinniśmy dopasować do wzrostu.
 - **Ile osób jedzie, ile śpi.** Dwie osoby zmieszczą się w każdym układzie. Jeśli chodzi o większą ilość, to nie tylko potrzeba demontować tylny rząd siedzeń, ale zastanowić się, gdzie te osoby będą spały i tu najczęściej robi się już ciasno. Jeśli chcecie jeździć we dwoje, ale wolelibyście mieć tylną kanapę — istnieje pewien kompromis: zrobienie tylko dwóch miejsc do spania. W takim układzie pasażerowie z tylnej kanapy będą musieli zabrać ze sobą namiot na podróż z Wami, ale jeśli zazwyczaj jeździcie bez nich, to nie musicie wozić ze sobą dodatkowego łóżka i poświęcać na niego miejsca.
 
 ### Układy ze ścianą grodziową
@@ -49,7 +49,7 @@ Za przykład do rysunku bierzemy więc: Freedo 541 HT — ma ścianę, kuchnię 
 
 **Plusy:**
 
-- Bez formalności zmiany konstrukcyjnej;
+- bez przeróbek szoferki i foteli (formalności samej zabudowy zostają — patrz rozdział o formalnościach);
 - bez wykańczania szoferki;
 - wysoka zabudowa stoi na samym początku strefy mieszkalnej, więc reszta zostaje jedną otwartą przestrzenią.
 

@@ -36,7 +36,7 @@ Da się budować pod chmurką, sami tak zaczynaliśmy, ale naprawdę polecam zna
 
 Dużo lepiej jest wtedy, kiedy auto też stoi pod dachem albo chociaż tuż przy nim :) Popytajcie w rodzinie i wśród znajomych o garaż albo altankę, przed którą zmieści się kamper.
 
-Zanim jednak zaczniecie szukać, zmierzcie auto. Nasz Boxer w wersji L4H3 ma fabrycznie 2,79 m wysokości, H2 ma 2,52 m. Brama zwykłego garażu ma najczęściej niewiele ponad 2 m, a rzadko więcej niż 2,5 m, więc z dostawczakiem do środka raczej nie wjedziecie i potrzebny Wam będzie raczej plac przed bramą.
+Zanim jednak zaczniecie szukać, zmierzcie auto. Nasz Boxer w wersji L4H3 ma fabrycznie 2,76 m wysokości, H2 ma 2,52 m. Brama zwykłego garażu ma najczęściej niewiele ponad 2 m, a rzadko więcej niż 2,5 m, więc z dostawczakiem do środka raczej nie wjedziecie i potrzebny Wam będzie raczej plac przed bramą.
 
 ## Czym budować?
 
@@ -114,7 +114,7 @@ Całego kampera zrobiliśmy zwykłą ręczną piłą tarczową wpiętą w szynę
 
 Szyna musi być przynajmniej takiej długości jak materiał, który tniecie. Sklejka ma zwykle wymiary 2,5 na 1,25 m. Jeśli zakładacie, że będziecie ciąć z połówek arkusza, to szyna 1,4 m Wam wystarczy, ale jeśli z całych płyt, wzdłuż, to musicie mieć 2,6 albo 2,7 m. Dlatego drugą szynę i łącznik, który składa dwie szyny w jedną, też zaliczam do zestawu minimalnego. Jedną krótką szyną długie cięcie da się zrobić na dwa razy, przekładając ją w połowie, ale przy każdym przełożeniu łatwo o uskok na krawędzi.
 
-Nasza pilarka to przewodowy Bosch GKS 55+ GCE, a szyny to Bosch FSN 1600 i FSN 800 z łącznikiem. Pilarka i szyna należą do pierwszej grupy z mojego podziału, czyli do narzędzi, które trzeba kupić dobre albo wypożyczyć. Podstawa pilarki musi być przystosowana do szyny, więc pilarkę i szyny najlepiej wziąć od tego samego producenta. W tym przypadku istnieją kompatybilne zestawy szyn innych producentów pasujących do pilarek innych producentów, więc jest lepiej niż w przypadku baterii, ale musicie to sprawdzić i zweryfikować na własną rękę. Nie jest też tak, że dowolne elektronarzędzie danego producenta będzie pasowało do szyn danego producenta. Zazwyczaj tylko jakieś konkretne serie pasują pod szynę, a innych w ogóle się nie da używać z szyną, więc sprawdźcie dwa razy, zanim kupicie.
+Nasza pilarka to przewodowy Bosch GKS 55+ GCE, a szyny to Bosch FSN 1600 i FSN 800 z łącznikiem. Razem są krótsze niż arkusz 2,5 m, ale brakujące centymetry dało się nadrobić samym rozmiarem pilarki bądź zagłębiarki. Wygodne to nie było: przy takim kombinowanym cięciu wzdłuż nie było jak zamontować ścisków, więc szynę trzeba było trzymać rękoma w dwie osoby. Nie polecamy, lepiej kupić dłuższe. Chociaż szczerze powiedziawszy, najczęściej i tak nie tniemy niczego tak długiego, żeby wymagało całej płyty, i połówki nam wystarczają. Pilarka i szyna należą do pierwszej grupy z mojego podziału, czyli do narzędzi, które trzeba kupić dobre albo wypożyczyć. Podstawa pilarki musi być przystosowana do szyny, więc pilarkę i szyny najlepiej wziąć od tego samego producenta. W tym przypadku istnieją kompatybilne zestawy szyn innych producentów pasujących do pilarek innych producentów, więc jest lepiej niż w przypadku baterii, ale musicie to sprawdzić i zweryfikować na własną rękę. Nie jest też tak, że dowolne elektronarzędzie danego producenta będzie pasowało do szyn danego producenta. Zazwyczaj tylko jakieś konkretne serie pasują pod szynę, a innych w ogóle się nie da używać z szyną, więc sprawdźcie dwa razy, zanim kupicie.
 
 #### Wyrzynarka
 
