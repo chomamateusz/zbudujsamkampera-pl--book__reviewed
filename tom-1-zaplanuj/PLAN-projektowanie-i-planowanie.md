@@ -6,7 +6,7 @@ Narzędzia do projektowania mieliśmy proste i było ich mało. Najważniejszy b
 
 ### Kartka i Excel to must have
 
-Bez arkusza kalkulacyjnego nie policzycie ani budżetu, ani masy. Kartka jest z kolei w warsztacie po prostu wygodniejsza niż dowolny laptop czy telefon – a w warsztacie na bieżąco powinniście zapisywać każdą masę, która jest wkładana i wyjmowana z samochodu, oczywiście po zważeniu samego samochodu.
+Bez arkusza kalkulacyjnego nie policzycie ani budżetu, ani masy. Kartka jest z kolei w warsztacie po prostu wygodniejsza niż dowolny laptop czy telefon — a w warsztacie na bieżąco powinniście zapisywać każdą masę, która jest wkładana i wyjmowana z samochodu, oczywiście po zważeniu samego samochodu.
 Osobiście bardzo lubię nowe technologie i nie wyobrażam sobie dnia bez laptopa, a mimo to przy ważeniu i mierzeniu wszystko zapisywałem na kartce i dopiero potem przepisywałem do Excela.
 
 ### Programy do planowania kamperów

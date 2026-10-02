@@ -10,7 +10,7 @@ Naprawdę nie znam nikogo, kto nie chciał przerabiać swojego kampera po zbudow
 
 ### Czas przeliczony na pieniądze
 
-To, że budowa pożera mnóstwo czasu, wie prawie każdy po własnej budowie — ale mało kto przelicza ten czas na pieniądze. Jeśli zwalniacie się z pracy, żeby budować — tak jak my — to każdy miesiąc to brak wypłaty, która normalnie wpłynęłaby na konto. Jeśli robicie po godzinach, to prędzej czy później weźmiecie urlop tylko po to, żeby nadgonić robotę, albo żeby zawieźć go do warsztatu, który działa wyłącznie w godzinach Waszej pracy.
+To, że budowa pożera mnóstwo czasu, wie prawie każdy po własnej budowie — ale mało kto przelicza ten czas na pieniądze. Jeśli przerywacie pracę, żeby budować — tak jak my — to każdy miesiąc to brak wypłaty, która normalnie wpłynęłaby na konto. Jeśli robicie po godzinach, to prędzej czy później weźmiecie urlop tylko po to, żeby nadgonić robotę, albo żeby zawieźć go do warsztatu, który działa wyłącznie w godzinach Waszej pracy.
 To jest naprawdę gigantyczny koszt niewypłaconych pensji i urlopów zużytych na pracę, a nie wypoczynek, którego najczęściej nie wliczamy do budżetów. Dlatego powtarzam: **budowa kampera to jeszcze nie podróżowanie**.
 
 Jak to mawiał Król Koviru w Wiedźminie: „Mieć milion, a nie mieć miliona, to razem dwa miliony” :) Więc przeliczcie swój czas dokładnie!

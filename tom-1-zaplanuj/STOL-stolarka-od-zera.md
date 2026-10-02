@@ -120,7 +120,7 @@ Ma niestety trzy cechy, które dyskwalifikują jej użycie w przydomowym warszta
 
 Zdecydowana większość samodzielnie budowanych kamperów, nasz też, jest ze sklejki, i po tym przeglądzie pewnie już sami wiecie dlaczego :)
 
-Płyta wiórowa, MDF i OSB są od niej o połowę cięższe, puchną od wilgoci, której w aucie nie unikniecie, i słabo trzymają wkręt. Płyty warstwowe są trudne do obróbki w domowych warunkach. Sklejka jest lekka i trzyma wkręt między warstwami drewna. Dlatego dalej w tym rozdziale mówię wyłącznie o niej.
+Płyta wiórowa, MDF i OSB są o połowę cięższe od sklejki topolowej, puchną od wilgoci, której w aucie nie unikniecie, i słabo trzymają wkręt. Płyty warstwowe są trudne do obróbki w domowych warunkach. Sklejka jest lekka i trzyma wkręt między warstwami drewna. Dlatego dalej w tym rozdziale mówię wyłącznie o niej.
 
 Oczywiście w kamperze jest miejsce na kilka innych materiałów: tworzywa na mokre miejsca oraz lite drewno lub profile aluminiowe na elementy konstrukcyjne.
 
@@ -270,7 +270,7 @@ Nakrętka wbijana, zwana też **pazurkową**, ma szeroki kołnierz z czterema pa
 
 #### Nitonakrętka
 
-Nitonakrętka to bliska krewna nitu, więc najpierw o nitach :) Klasyczny nit to metalowy trzpień z łbem, który wkłada się w otwór przez dwa łączone elementy i rozklepuje od drugiej strony, żeby powstał drugi łeb. Łączy na stałe i bardzo mocno, ale wymaga dostępu z obu stron i dziś już prawie się go nie spotkacie. Teraz używa się nitu zrywalnego: to cienka tulejka z łbem, przez którą przechodzi stalowy trzpień. Wkładacie ją w otwór, a nitownica, czyli szczypce z dźwignią, chwyta trzpień i ciągnie go do siebie; tulejka za blachą rozszerza się w zgrubienie, a trzpień urywa się i zostaje w szczypcach. Dwa arkusze są spięte na stałe, a Wy staliście cały czas po jednej stronie.
+Nitonakrętka to bliska krewna nitu, więc najpierw o nitach :) Klasyczny nit to metalowy trzpień z łbem, który wkłada się w otwór przez dwa łączone elementy i rozklepuje od drugiej strony, żeby powstał drugi łeb. Łączy na stałe i bardzo mocno, ale wymaga dostępu z obu stron i w przydomowym warsztacie prawie się go nie spotkacie. Teraz używa się nitu zrywalnego: to cienka tulejka z łbem, przez którą przechodzi stalowy trzpień. Wkładacie ją w otwór, a nitownica, czyli szczypce z dźwignią, chwyta trzpień i ciągnie go do siebie; tulejka za blachą rozszerza się w zgrubienie, a trzpień urywa się i zostaje w szczypcach. Dwa arkusze są spięte na stałe, a Wy staliście cały czas po jednej stronie.
 
 Nitonakrętka działa tak samo, tylko zamiast trzpienia ma w środku gwint, a zamiast łączyć na stałe, zostawia w materiale gwintowany otwór. Nitownica do nitonakrętek ma zamiast szczęk gwintowany trzpień: wkręca się nim w nitonakrętkę, ciągnie, tulejka za płytą składa się w zgrubienie i ściska materiał między nim a kołnierzem. Następnie trzpień się wykręca.
 

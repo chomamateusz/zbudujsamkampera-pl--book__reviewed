@@ -1,6 +1,8 @@
-# Dlaczego ta książka
+# Wstęp
 
-Wiedzy o budowaniu kamperów jest w internecie mnóstwo – setki godzin na YouTube, tysiące wątków na forach i grupach, przynajmniej kilka polskich książek i mnóstwo anglojęzycznych.
+## Po co ta książka?
+
+Wiedzy o budowaniu kamperów jest w internecie mnóstwo — setki godzin na YouTube, tysiące wątków na forach i grupach, przynajmniej kilka polskich książek i mnóstwo anglojęzycznych.
 
 Zanim zbudowaliśmy własnego kampera, przekopałem się przez sporą część wyżej wymienionych, a mimo to w trakcie budowy regularnie napotykałem problemy. Bardzo brakowało mi poradnika, gdzie krok po kroku jest wytłumaczone bezwzględnie wszystko, a nie tylko ogólnie zarysowany temat i głównie dlatego postanowiłem napisać tę książkę.
 
@@ -8,7 +10,7 @@ Zanim zbudowaliśmy własnego kampera, przekopałem się przez sporą część w
 
 W większości z poradników elektryka jest opisana bardzo dokładnie — o niej samej są nawet całe osobne książki,  zaraz potem ci sami autorzy nie mówią ani słowa:
 
-- jak przykręcić zabudowę do ścian kampera, żeby się nie obluzowała od jazdy: spoiler alert – wkręty samowiercące są świetne do montażu blachy na dachu nieruchomego domu, ale w zabudowie kempingowej lepiej sprawdzają się nitonakrętki;
+- jak przykręcić zabudowę do ścian kampera, żeby się nie obluzowała od jazdy: spoiler alert — wkręty samowiercące są świetne do montażu blachy na dachu nieruchomego domu, ale w zabudowie kempingowej lepiej sprawdzają się nitonakrętki;
 - z czego wykonać kanalizacje — za to o rurkach do wody bieżącej są całe elaboraty;
 - co zrobić z syfonem — domowego się „wytelepie”, bo jego elementy są łączone na ścisk;
 - że rada „bierz najlżejszą sklejkę” — skądinąd dobra, bo każdy kilogram zabudowy wozicie potem ze sobą — ma haczyk: lekkie gatunki, jak ceiba, trzymają wkręty dużo słabiej.
@@ -17,7 +19,7 @@ A to tylko niektóre z tematów, na których można się kosztownie pomylić lub
 
 Skąd to się bierze? Ja odnoszę wrażenie, że poradniki są pisane pod publikę, a nie po to, by naprawdę omówić temat od A do Z :/ Większość ludzi po prostu boi się elektryki — prąd może porazić i w szkole tego tematu w ogóle nie było — więc materiałów jest o niej zatrzęsienie.
 
-Za to meble? Prawie każdy z góry zakłada, że poradzi sobie sam – w końcu co to jest za problem, przykręcić parę desek? :) A to jest błędne założenie, bo w mojej opinii zabudowa meblowa to zdecydowanie większy temat niż elektryka i jakby tego było mało – istnieje znacznie mniej gotowych rozwiązań tego problemu.
+Za to meble? Prawie każdy z góry zakłada, że poradzi sobie sam — w końcu co to jest za problem, przykręcić parę desek? :) A to jest błędne założenie, bo w mojej opinii zabudowa meblowa to zdecydowanie większy temat niż elektryka i jakby tego było mało — istnieje znacznie mniej gotowych rozwiązań tego problemu.
 
 Takich niedocenianych tematów znacznie więcej i właśnie tej wiedzy — krok po kroku, od pierwszego wkręta blasze do działającego prysznica — nigdy nigdzie nie znalazłem w jednym miejscu.
 
@@ -25,7 +27,7 @@ Takich niedocenianych tematów znacznie więcej i właśnie tej wiedzy — krok 
 
 Żeby nie być gołosłownym, poniżej jeszcze kilka przykładów błędów, które sami popełniliśmy — każdy kosztował nas pieniądze, czas albo nerwy.
 
-Izolacja – wszyscy piszą, jaką wybrać i jak kleić. Nikt nie pisze, że izolacja — z pozoru lekka jak piórko — potrafi ważyć bardzo dużo. Nasza waży plus minus 80 kilo! Popełniliśmy kategoryczny błąd, w ogóle jej nie wliczając do naszego Excela z wagą zabudowy, bo stwierdziliśmy, że „przecież to jest leciutkie". Ważyć trzeba bezwzględnie wszystko, co wchodzi do auta. W szczególności piankę kauczukową — polecaną przez wszystkich, przeze mnie zresztą też — i maty butylowe do wygłuszenia.
+Izolacja — wszyscy piszą, jaką wybrać i jak kleić. Nikt nie pisze, że izolacja — z pozoru lekka jak piórko — potrafi ważyć bardzo dużo. Nasza waży plus minus 80 kilo! Popełniliśmy kategoryczny błąd, w ogóle jej nie wliczając do naszego Excela z wagą zabudowy, bo stwierdziliśmy, że „przecież to jest leciutkie”. Ważyć trzeba bezwzględnie wszystko, co wchodzi do auta. W szczególności piankę kauczukową — polecaną przez wszystkich, przeze mnie zresztą też — i maty butylowe do wygłuszenia.
 
 Skoro już jesteśmy przy ważeniu: wiecie, gdzie w ogóle zważyć auto wielkości kampera? UWAGA: Stacje kontroli pojazdów nie mają wagi — nawet te okręgowe, mimo że trzeba ją wpisać w dowód po jej zmianie (np. podczas rejestracji pojazdu jako specjalny kempingowy). Wszyscy każą „kontrolować wagę”, ale nikt nie mówi, gdzie ta waga stoi. My swoje auto ważyliśmy na skupie zboża i to wcale nie jest partyzantka: waga, na której skup rozlicza się z rolnikami, musi z mocy prawa mieć ważną legalizację.
 
@@ -34,11 +36,11 @@ Zważyć trzeba też puste auto, jeszcze przed budową. Przy pierwszej rejestrac
 Kolejna sprawa: wymiary. To, że auta dostawcze zwężają się ku górze, wie w zasadzie każdy — katalogowa „szerokość” to najszersze miejsce, mniej więcej na poziomie podłogi, a między nadkolami jest jedno z najwęższych. Problem zaczyna się wtedy, gdy do gry wchodzi bryła 3D. Kampera projektuje się najczęściej w rzucie z góry, patrząc na podłogę — a taki rzut milcząco zakłada, że auto jest tak samo szerokie na każdej wysokości :/ Z nadkolami jeszcze pół biedy: one zabierają miejsce już na planie 2D, więc trudno o nich zapomnieć. Zwężające się ściany dużo trudniej sobie wyobrazić.
 My przy projektowaniu prysznica nadkole wzięliśmy pod uwagę — jest na nie elegancki wpust w brodziku i na poziomie podłogi człowiek mieści się bez problemu. Tyle że prysznic stoi tuż przy ścianie, czyli dokładnie tam, gdzie auto się zwęża. Planu w 3D nie mieliśmy, więc nie przyszło nam do głowy, że skoro mieścimy się na poziomie brodzika, to na poziomie głowy może być inaczej — a tam jest już 10-15cm węziej. Efekt: do dziś, podnosząc ręce do mycia włosów, walę łokciami w boczną ściankę :/
 
-Inna prozaiczna sprawa – zlew: standardowy domowy talerz ma ~26 cm średnicy i w małym/wąskim kamperowym zlewie zmieści się tylko pionowo. Jeden talerz zajmuje wtedy prawie cały zlew — a z domu jesteśmy przyzwyczajeni, że talerz kładzie się płasko i tak też się go myje. Drobiazg? Jasne, ale takie drobiazgi zostają z Wami na lata, a często dowiadujecie się o nich dopiero po budowie, kiedy wsiadacie i zaczynacie z kampera korzystać na co dzień.
+Inna prozaiczna sprawa — zlew: standardowy domowy talerz ma ~26 cm średnicy i w małym/wąskim kamperowym zlewie zmieści się tylko pionowo. Jeden talerz zajmuje wtedy prawie cały zlew — a z domu jesteśmy przyzwyczajeni, że talerz kładzie się płasko i tak też się go myje. Drobiazg? Jasne, ale takie drobiazgi zostają z Wami na lata, a często dowiadujecie się o nich dopiero po budowie, kiedy wsiadacie i zaczynacie z kampera korzystać na co dzień.
 
 O pompach przeczytacie sporo, o rurach wody czystej pod ciśnieniem zdecydowanie mniej, a o odpływach prawie nic. U nas odpływ prysznica obsługuje pompa zęzowa — zwyczajna, tania i popularna pompa jachtowa. W mojej opinii to bardzo wygodne rozwiązanie, a praktycznie nikt o nim nie pisze — oglądaliśmy setki kamperów i poza naszym widzieliśmy je dosłownie w jednym.
-Zbiornik szarej wody — czyli brudnej, ale bez fekaliów: tej po prysznicu i po myciu naczyń — najczęściej wisi pod kamperem. Problemy zaczynają się, gdy chcecie mieszkać w kamperze cały czas i auto musi być w pełni zimowe: zbiornik pod podwoziem to pierwsza rzecz, która zamarznie. Są na to sposoby — izolowane zbiorniki, maty grzewcze — ale najprostszy sposób to umieścić zbiornik w środku, w przestrzeni, którą i tak ogrzewamy. Tyle że wtedy zbiornik prawie na pewno wyląduje powyżej najniższego odpływu – tego od brodzika i woda sama do niego nie będzie miała jak spłynąć. Producenci seryjnych kamperów rozwiązują to podwójną podłogą: między podłogą, po której się chodzi, a podłogą samochodu siedzi izolacja i zbiorniki szarej wody. Kosztuje to jednak 15–20 centymetrów wysokości i sporo kilogramów, bo taka konstrukcja musi być na tyle sztywna, żeby dało się na niej swobodnie stać.
-Pompa zęzowa załatwia to samo bez podnoszenia podłogi: zbiornik zostaje w środku, powyżej odpływu, a pompa po prostu tłoczy szarą wodę do góry. Na jachtach to standard, bo nie ma szans na montaż zbiornika pod kadłubem :) Mimo że sam od dziecka żegluję i znam to rozwiązanie właśnie z jachtów to i tak za pierwszym podejściem próbowałem budować podwójną podłogę. Czemu pompy zęzowe są w kamperach tak mało popularne? Obstawiam, że to rozwiązanie jest po prostu za tanie, żeby wersję zimową seryjnych kamperów dało się sprzedać jako „premium” :)
+Zbiornik szarej wody — czyli brudnej, ale bez fekaliów: tej po prysznicu i po myciu naczyń — najczęściej wisi pod kamperem. Problemy zaczynają się, gdy chcecie mieszkać w kamperze cały czas i auto musi być w pełni zimowe: zbiornik pod podwoziem to pierwsza rzecz, która zamarznie. Są na to sposoby — izolowane zbiorniki, maty grzewcze — ale najprostszy sposób to umieścić zbiornik w środku, w przestrzeni, którą i tak ogrzewamy. Tyle że wtedy zbiornik prawie na pewno wyląduje powyżej najniższego odpływu — tego od brodzika i woda sama do niego nie będzie miała jak spłynąć. Producenci seryjnych kamperów rozwiązują to podwójną podłogą: między podłogą, po której się chodzi, a podłogą samochodu siedzi izolacja i zbiorniki szarej wody. Kosztuje to jednak 15–20 centymetrów wysokości i sporo kilogramów, bo taka konstrukcja musi być na tyle sztywna, żeby dało się na niej swobodnie stać.
+Pompa zęzowa załatwia to samo bez podnoszenia podłogi: zbiornik zostaje w środku, powyżej odpływu, a pompa po prostu tłoczy szarą wodę do góry. Na jachtach to standard, bo nie ma szans na montaż zbiornika pod kadłubem :) Mimo że sam od dziecka żegluję i znam to rozwiązanie właśnie z jachtów to i tak za pierwszym podejściem zbudowałem podwójną podłogę. Czemu pompy zęzowe są w kamperach tak mało popularne? Obstawiam, że to rozwiązanie jest po prostu za tanie, żeby wersję zimową seryjnych kamperów dało się sprzedać jako „premium” :)
 
 Ostatnio dużo się mówi o zmianie unijnych przepisów, która pozwoli prowadzić kampery cięższe niż 3,5 tony DMC na zwykłe prawo jazdy kategorii B. Te przepisy rzeczywiście są faktem: nowa unijna dyrektywa o prawach jazdy dopuszcza na kategorii B kampery do 4,25 tony — ale nie automatycznie, tylko po dodatkowym szkoleniu lub egzaminie i z odpowiednim wpisem w prawie jazdy. Na moment pisania tej książki, w pierwszej połowie 2026 roku, to wciąż melodia przyszłości: każdy kraj Unii musi wdrożyć te przepisy u siebie, ma na to czas do końca 2028 roku, a stosowane mają być od końca 2029.
 
@@ -48,9 +50,9 @@ Na koniec rzecz, której nigdzie nie znajdziecie, bo nikomu nie przyszło do gł
 
 Tego mi brakowało, kiedy sam budowałem: jednej osoby, która ma już budowę kampera za sobą i przeprowadzi człowieka przez cały proces, od A do Z nie pomijając żadnego tematu. Bezwzględnie żadnego.
 
-Dokładnie to samo przerabiałem już w swojej branży – w IT. Jeszcze zanim w ogóle przyszło mi do głowy budowanie kampera, stworzyłem CodeRoad (coderoad.pl) — kurs online z programowania frontendowego dla początkujących; do tej pory największy, najdokładniejszy i prawdopodobnie najlepiej oceniany kurs programowania w Polsce. Nie zrobiłem go dlatego, że brakowało materiałów o programowaniu, płatnych czy darmowych — było ich i nadal jest zdecydowanie więcej niż o budowie kamperów. Zrobiłem go, bo w żadnym ze znanych mi materiałów jedna i ta sama osoba nie przeprowadzała kursantów od A do Z, wiążąc wszystko w całość własnym doświadczeniem i własnymi opiniami. Ta książka powstała dokładnie z tego samego powodu.
+Dokładnie to samo przerabiałem już w swojej branży — w IT. Jeszcze zanim w ogóle przyszło mi do głowy budowanie kampera, stworzyłem CodeRoad (coderoad.pl) — kurs online z programowania frontendowego dla początkujących; do tej pory największy, najdokładniejszy i prawdopodobnie najlepiej oceniany kurs programowania w Polsce. Nie zrobiłem go dlatego, że brakowało materiałów o programowaniu, płatnych czy darmowych — było ich i nadal jest zdecydowanie więcej niż o budowie kamperów. Zrobiłem go, bo w żadnym ze znanych mi materiałów jedna i ta sama osoba nie przeprowadzała kursantów od A do Z, wiążąc wszystko w całość własnym doświadczeniem i własnymi opiniami. Ta książka powstała dokładnie z tego samego powodu.
 
-# A kim my w ogóle jesteśmy?
+## A kim my w ogóle jesteśmy?
 
 No dobrze, tylko dlaczego mielibyście wierzyć akurat nam? :)
 
@@ -65,17 +67,17 @@ Mój pomysł na kampera zrodził się dość niespodziewanie, jeszcze zanim pozn
 Początkowo nie szukałem kampera — chciałem kupić przyczepę kempingową. Stwierdziłem, że skoro już mam samochód, to bez sensu jest kupować kampera, który przez to, że jakby nie patrzeć również jest samochodem, to jest dużo, dużo droższy od przyczepy, a przy okazji mniejszy. Podszedłem do tematu na tyle poważnie, że zrobiłem uprawnienia B+E, żeby móc jeździć z ciężką przyczepą.
 Nie miałem wtedy pojęcia, że nie da się dowolnej przyczepy ciągnąć dowolnym samochodem — tym bardziej że miałem już prawo jazdy B+E. Okazało się, że moje auto miało dopuszczalny uciąg 1950 kg, wymarzona przyczepa — Adria Alpina z dwuosobowym łóżkiem w oddzielnej sypialni, z oddzielną kuchnią i oddzielną łazienką — miała dopuszczalną masę całkowitą 2000 kg. Pięćdziesięciu kilo brakowało. Tego się nie da przeskoczyć — trzeba by zmienić albo przyczepę, albo samochód. Na szczęście sprzedawca w jednym z warszawskich salonów, do którego przyjechałem oglądać przyczepy, po poznaniu mojego problemu nie odpuścił i pokazał mi kampervana.
 
-Seryjnie produkowane kampery są w Polsce bardzo drogie (głównie przez akcyzę, o tym potem). Ten kosztował ponad pół miliona. Zdecydowałem się go wynająć na prawie miesiąc, żeby sprawdzić i przekonać się, czy rzeczywiście jestem w stanie wydać takie pieniądze na spełnienie marzenia o wolności. Przyczepa, na którą byłem wcześniej praktycznie zdecydowany, kosztowała prawie trzy razy mniej!
+Seryjnie produkowane kampery są w Polsce bardzo drogie (także przez akcyzę, o tym potem). Ten kosztował ponad pół miliona. Zdecydowałem się go wynająć na prawie miesiąc, żeby sprawdzić i przekonać się, czy rzeczywiście jestem w stanie wydać takie pieniądze na spełnienie marzenia o wolności. Przyczepa, na którą byłem wcześniej praktycznie zdecydowany, kosztowała prawie trzy razy mniej!
 
 Kamper, którego wtedy zobaczyłem i którego ostatecznie wynająłem, to było Affinity. Okazało się, że jest to stosunkowo nowy, polski producent! Firma miała wtedy w ofercie tylko ten jeden model — dlatego dziś nazywa się One: bo był pierwszy :) Do dziś zresztą uważam, że to bardzo udany kamper, niestety dość drogi.
 
-## Życie w trasie – pierwsza próba 
+## Życie w trasie — pierwsza próba 
 
 Z perspektywy czasu ten wynajem był pierwszym z trzech testów, które zrobiłem, zanim wydaliśmy poważne pieniądze na własnego kampera.
-Spędzenie miesiąca w fabrycznym kamperze to bezcenna lekcja przed budową swojego: przekonujecie się na własnej skórze, które rozwiązania są naprawdę przemyślane, a które są głównie po to, żeby dobrze wyglądać w salonie. U mnie test wypadł w marcu, więc było jeszcze zimno — nocami zdarzał się mróz, a dookoła błoto i deszcz — idealne warunki, żeby sprawdzić, czy naprawdę będzie mi się w kamperze dobrze mieszkać, a nie tylko „wakacjować". Cały miesiąc spędziłem w Polsce, pracując zdalnie w każdy dzień roboczy. Mimo niesprzyjających warunków pogodowych nie musiałem brać ani jednego dnia wolnego. 
+Spędzenie miesiąca w fabrycznym kamperze to bezcenna lekcja przed budową swojego: przekonujecie się na własnej skórze, które rozwiązania są naprawdę przemyślane, a które są głównie po to, żeby dobrze wyglądać w salonie. U mnie test wypadł w marcu, więc było jeszcze zimno — nocami zdarzał się mróz, a dookoła błoto i deszcz — idealne warunki, żeby sprawdzić, czy naprawdę będzie mi się w kamperze dobrze mieszkać, a nie tylko „wakacjować”. Cały miesiąc spędziłem w Polsce, pracując zdalnie w każdy dzień roboczy. Mimo niesprzyjających warunków pogodowych nie musiałem brać ani jednego dnia wolnego. 
 Na koniec bardzo nie chciałem oddawać tego kampera :)
  
- ## Życie w trasie – druga próba 
+ ## Życie w trasie — druga próba 
 
 Po wynajmie Affinity mój rodzony brat bardzo usilnie próbował wybić mi z głowy zakup kampera. Mówił, że znacznie prościej i taniej będzie jeździć samochodem, który już mam, a pieniądze wydać na hotele. Sam też chciałem skonfrontować życie w kamperze z życiem w podróży bez kampera. 
 Okazją był wyjazd, organizowany przez firmę, dla której robiłem zlecenia na kontrakcie. Miałem budżet na bilet lotniczy, ale te pieniądze postanowiłem wydać na paliwo i pojechałem tą samą osobówką, do której wcześniej chciałem kupić przyczepę. 
@@ -88,18 +90,18 @@ Restauracja lub kawiarnia? Na pewno od czasu do czasu można znaleźć spokojną
 Kolejną sprawą było to, że noclegi w hotelach wcale nie były tańsze, nawet porównując z wynajmem nowego kampera, który do najtańszych nie należy. W zachodniej Europie doba kosztowała średnio 100 euro — a nie jeździłem w sezonie wakacyjnym i nie mówię o dużych miastach: do Genewy czy Barcelony dojeżdżałem z małego miasteczka obok, bo na miejscu zapłaciłbym 3 razy więcej. A nocleg przy takim stylu podróżowania trzeba mieć codziennie I zazwyczaj nie do końca jest się pewnym, w którym miejscu się będzie. Szukając z dnia na dzień, praktycznie nie ma szans, żeby znaleźć wcześniej jakąś dobrą okazję i pojechać wtedy, kiedy jest tanio.
 Po dwóch miesiącach tej podróży wiedziałem na sto procent: chcę mieć dom, który wożę ze sobą, a nie dom, który co dzień, dwa wynajmuję od nowa, z przeprowadzką co chwilę.
 
- ## Życie w trasie – trzecia próba 
+ ## Życie w trasie — trzecia próba 
 
 Trzeci test zrobiliśmy już razem z Weroniką, jak tylko zaczęliśmy się spotykać. Byłem wtedy na tyle zafascynowany życiem w drodze i pracą zdalną z kampera, że opowiadałem o tym nawet na pierwszych randkach :)
 Weronika wspomina to tak: „Mateusz tak pięknie to opowiedział, że człowiek samą opowieścią się zakochał. Pomyślałam: jeśli nie teraz, to kiedy?” 
-Ruszyliśmy w Polskę naszym Oplem Insignią — z dmuchanym materacem do auta za jakieś 200 zł (są takie specjalne, z wycięciem na nadkola) i grubym śpiworem. Pojechaliśmy w listopadzie, więc w środku w nocy było zaledwie kilka stopni powyżej zera – bez czapki nie dało się spać :) 
+Ruszyliśmy w Polskę naszym Oplem Insignią — z dmuchanym materacem do auta za jakieś 200 zł (są takie specjalne, z wycięciem na nadkola) i grubym śpiworem. Pojechaliśmy w listopadzie, więc w środku w nocy było zaledwie kilka stopni powyżej zera — bez czapki nie dało się spać :) 
 I wiecie, co z tego testu wynieśliśmy? Nie to, że zimno. Zimno jakoś przeżyliśmy. Najbardziej doskwierał brak toalety oraz to, że w deszczowy dzień w ciasnym aucie dało się wyłącznie leżeć. Tak powstały dwa fundamenty naszej przyszłej zabudowy: łazienka z oddzielną toaletą i przestronne wnętrze. Oba wyszły z wyjazdu, który kosztował nas w sumie kilkaset złotych.
 
-Z tego miejsca muszę koniecznie podziękować żonie, Weronice, za zaufanie, jakim mnie obdarzyła, decydując się na budowę kampera wyłącznie po moich opowieściach – uwierzyła mi na słowo! <3
+Z tego miejsca muszę koniecznie podziękować żonie, Weronice, za zaufanie, jakim mnie obdarzyła, decydując się na budowę kampera wyłącznie po moich opowieściach — uwierzyła mi na słowo! <3
 
 Kontynuując już naszą wspólną historię: z Weroniką zeszliśmy się w listopadzie, w tym samym miesiącu odbyła się też powyższa podróż osobówką, zaraz później zdecydowaliśmy się na budowę kampera i już na początku lutego kolejnego roku mieliśmy kupioną bazę naszego przyszłego domu: używanego Boxera w wersji L4H3, czyli najdłuższego i najwyższego z tej grupy pojazdów. O samym wyborze bazy będzie jeszcze osobny rozdział, więc nie będę się teraz tu rozpisywał. 
  
-Sam zakup poprzedził miesiąc researchu, w którym bardzo pomógł mi mój brat — jemu też bardzo dziękuję!  Po pierwszych tygodniach poszukiwań już trochę załamywałem ręce. Chcieliśmy kupić auto nowe, żeby mieć gwarancje albo prawie nowe. Niestety wszystkie świeże roczniki miały silniki większe niż dwa litry. W dalszej części książki wyjaśnię dokładniej, ale w skrócie dwulitrówki są tańsze przy przerejestrowaniu :) Brat na szczęście, dowiedziawszy się o tych parametrach, powiedział: „no przecież w okolicach 2018 roku Peugeoty miały takie silniki". I zaraz znalazł nam trzy sztuki na popularnym serwisie ogłoszeniowym. Po obejrzeniu wszystkich kupiliśmy jedną z nich. Wszystkie były technicznie w dobrym stanie, ale do zabudowy dobrze jest też, jeśli wnętrze nie jest bardzo poobijane, o co ciężko w samochodach dostawczych — ta sztuka akurat była w stanie prawie idealnym. 
+Sam zakup poprzedził miesiąc researchu, w którym bardzo pomógł mi mój brat — jemu też bardzo dziękuję!  Po pierwszych tygodniach poszukiwań już trochę załamywałem ręce. Chcieliśmy kupić auto nowe, żeby mieć gwarancje albo prawie nowe. Niestety wszystkie świeże roczniki miały silniki większe niż dwa litry. W dalszej części książki wyjaśnię dokładniej, ale w skrócie dwulitrówki są tańsze przy przerejestrowaniu :) Brat na szczęście, dowiedziawszy się o tych parametrach, powiedział: „no przecież w okolicach 2018 roku Peugeoty miały takie silniki”. I zaraz znalazł nam trzy sztuki na popularnym serwisie ogłoszeniowym. Po obejrzeniu wszystkich kupiliśmy jedną z nich. Wszystkie były technicznie w dobrym stanie, ale do zabudowy dobrze jest też, jeśli wnętrze nie jest bardzo poobijane, o co ciężko w samochodach dostawczych — ta sztuka akurat była w stanie prawie idealnym. 
 
 Plan mieliśmy ambitny: kamper miał powstać w trzy miesiące. Oboje na ten czas przerwaliśmy pracę zawodową. Wtedy jeszcze zupełnie nie wiedzieliśmy, że to jest zupełnie nierealne: w plus minus dwa miesiące kampery robią profesjonalne firmy, a nie laicy podchodzący do tematu po raz pierwszy :) 
 
@@ -125,7 +127,26 @@ Jeśli całą zabudowę zlecicie firmie albo kupicie kampera w pełni gotowego, 
 
 Jest jeszcze jeden podział, o którym chcę już teraz wspomnieć — i będę o nim przypominał przez całą książkę: kamper na wakacje i kamper do życia na stałe to zazwyczaj dwa różne pojazdy. Choć sami mieszkamy w kamperze na stałe i taki od początku staraliśmy się zbudować, postaram się napisać tę książkę tak, żeby omawiała oba przypadki. Serio, w wielu decyzjach — izolacja, toaleta, woda, prąd — rada dla jednych jest wręcz odwrotna niż dla drugich :) Dlatego w miejscach, gdzie te dwa światy się rozjeżdżają, znajdziecie osobne wskazówki dla jeżdżących wakacyjnie i osobne dla planujących życie full-time :)
 
-Od razu chcę też powiedzieć, że nie obiecam Wam obrazków jak z Instagrama. Kamper nie zmieni Waszego życia o 180 stopni — codzienność zostaje codziennością: praca, zakupy, zmywanie. Zmienia się głównie to, że sami wybieramy, gdzie ona się dzieje – i to jest piękno wolności, o której mówiłem w tym rozdziale!
+Od razu chcę też powiedzieć, że nie obiecam Wam obrazków jak z Instagrama. Kamper nie zmieni Waszego życia o 180 stopni — codzienność zostaje codziennością: praca, zakupy, zmywanie. Zmienia się głównie to, że sami wybieramy, gdzie ona się dzieje — i to jest piękno wolności, o której mówiłem w tym rozdziale!
 Dla nas ta możliwość jest warta wszystkich błędów i wyrzeczeń, ale czy będzie tego warta dla Was — to musicie ocenić sami.
-Ja postaram się, żeby budowa Waszego kampera była dobrze zaplanowana, zorganizowana i nie wymagała od Was rozbierania całej zabudowy — tak jak wymagała od nas :) 
+Ja postaram się, żeby budowa Waszego kampera była dobrze zaplanowana, zorganizowana i nie wymagała od Was rozbierania całej zabudowy — tak jak wymagała od nas :)
 
+## Ta książka nie ma sponsorów
+
+Ta deklaracja musi paść, zanim przeczytacie pierwszą poradę — bo w mojej opinii to od niej zależy, ile te porady są warte :)
+
+Ta książka powstała bez płatnej współpracy z kimkolwiek — i tak pozostanie. Każdy element naszego kampera kupiliśmy sami, za własne pieniądze. Wszystko, co tu testujemy, to nasze zakupy — zero egzemplarzy „do recenzji”.
+
+Współprace jako takie nam się zdarzają — recenzowaliśmy na przykład Forda Rangera, pikapa 4×4 z namiotem dachowym. Nie dostaliśmy żadnych wytycznych, relacje na Instagramie robiliśmy takie, jakie chcieliśmy — i było bardzo fajnie. Takie współprace lubię, bo możemy przetestować coś innego niż własny sprzęt, ale chwalenia czegoś za czyjeś pieniądze kategorycznie nie znoszę — treści dyktowanej przez sponsora nie znajdziecie tu nigdy.
+
+Kamperowanie, Instagram i media społecznościowe nigdy nie były, nie są i najpewniej nie będą naszym głównym źródłem utrzymania. A jeśli kiedyś załatwimy czytelnikom jakieś zniżki albo promocje, nie wpłynie to ani na treść książki, ani na nasze opinie.
+
+Dlaczego piszę o tym osobno? Bo w świecie poradników — nie tylko kamperowych — to nie jest standard, tylko wyjątek. Duża część „darmowej” wiedzy o budowie kamperów w europejskim internecie żyje z poleceń: z kodów rabatowych i linków afiliacyjnych.
+
+Na potrzeby tej książki przeanalizowałem kilkaset blogów o budowie kamperów — z Polski i z całej Europy. Wyniki? Licząc najostrożniej — tylko to, co automatyczny skrypt twardo wykrył w kodzie stron, czyli otagowane linki partnerskie, jawne kody rabatowe i dopiski o prowizji — afiliacje mają co najmniej cztery blogi na dziesięć. To jest dolna granica, bo tego, co schowane za skracaczami linków albo ukryte w inny sposób, taki skrypt nie zobaczy. 
+
+Nie znaczy to, że każdy autor z kodem rabatowym jest z automatu niewiarygodny. Zdarzają się blogi, które z czystym sumieniem polecam, choć i na nich znajdziecie afiliacje — wszystkie spisaliśmy pod adresem zbudujsamkampera.pl/link/zrodla. Jednakże moja osobista opinia — z którą macie pełne prawo się nie zgadzać — jest taka, że tam, gdzie w grę wchodzą prowizje, bardzo często się koloryzuje, a przynajmniej nie porównuje rzetelnie wszystkich opcji :)
+
+Chodzi mi więc o jedno: każde polecenie z kodem albo linkiem MOŻE iść w parze z nie do końca rzetelną treścią — i to od Waszej oceny zależy, czy danemu źródłu zaufacie.
+
+W każdym razie powtórzę raz jeszcze: przy tej książce nie było absolutnie żadnych współprac. Niezależnie więc od tego, co sądzicie o płatnych współpracach, linkach i kodach rabatowych — tu nie macie się czego obawiać. Znajdziecie tu wyłącznie nasze własne zdanie, oparte na naszych własnych doświadczeniach, za które zapłaciliśmy naszymi własnymi pieniędzmi :)

@@ -1,4 +1,4 @@
-# Formalności, pierwszy rok i rekomendacje
+# Formalności życia w trasie
 
 ## Formalności w Polsce, o których mało kto wspomina
 
@@ -34,13 +34,13 @@ Po pierwsze: o tym, że pracujecie z kampera, trzeba uczciwie poinformować drug
 
 Od kwietnia 2023 praca zdalna jest wprost uregulowana w Kodeksie pracy (wcześniej była „telepraca”, a w covidzie osobna specustawa). Sedno jest takie: umowa o pracę musi wskazywać miejsce wykonywania pracy. Przy pracy zdalnej na umowę o pracę to Wy możecie zaproponować miejsce — ale każde musi zaakceptować pracodawca. I może odmówić :/
 Czyli klasyczny etat domyślnie nie pozwala pracować „skądkolwiek” — każde miejsce wymaga zgody. Dobra wiadomość: przepisy dopuszczają uzgodnienie wielu miejsc i procedury ich zmieniania (na przykład „zgłaszam w kalendarzu, skąd pracuję w tym tygodniu”), więc kamperowy tryb da się ułożyć legalnie — tylko trzeba to z firmą ustalić, a nie postawić ją przed faktem dokonanym.
-Mogliście też słyszeć o „okazjonalnej pracy zdalnej” i limicie 24 dni w roku — taki termin istnieje, ale ten limit dotyczy wyłącznie tego jednego, uproszczonego trybu na wniosek pracownika bez umowy określającej zasady pracy zdalnej. Czyli jeśli nie uzgodniliście tego wcześniej z pracodawcą i w waszej umowie o pracę nie ma ani słowa o możliwości ustalenia miejsca pracy, to mimo wszystko na 24 dni w roku możecie napisać taki wniosek i legalnie pojechać na przykład na jeden wyjazd w ramach tego limitu. Niestety, jak to bywa na umowie o pracę, firma ma pełne prawo taki wniosek odrzucić. Regularna praca zdalna — całkowita albo hybrydowa — żadnego limitu dni nie ma. 
+Mogliście też słyszeć o „okazjonalnej pracy zdalnej” i limicie 24 dni w roku — taki termin istnieje, ale ten limit dotyczy wyłącznie tego jednego, uproszczonego trybu na wniosek pracownika bez umowy określającej zasady pracy zdalnej. Czyli jeśli nie uzgodniliście tego wcześniej z pracodawcą i w Waszej umowie o pracę nie ma ani słowa o możliwości ustalenia miejsca pracy, to mimo wszystko na 24 dni w roku możecie napisać taki wniosek i legalnie pojechać na przykład na jeden wyjazd w ramach tego limitu. Niestety, jak to bywa na umowie o pracę, firma ma pełne prawo taki wniosek odrzucić. Regularna praca zdalna — całkowita albo hybrydowa — żadnego limitu dni nie ma. 
 
 #### Prawdziwe problemy zaczynają się na etacie, jeśli chcecie pracować spoza Polski:
 
 Zapisy o pracy zdalnej w umowie niestety nie zamykają tematu pracy zza granicy. Tu ograniczeniami również są raczej przepisy niż zła wola pracodawców. W grę wchodzą składki i podatki.
 W UE zasada jest taka, że ubezpieczenia społeczne płaci się tam, gdzie praca jest fizycznie wykonywana — chyba że działa wyjątek (delegowanie albo praca w kilku państwach), potwierdzony zaświadczeniem A1 z ZUS-u. Popularne „byle poniżej 183 dni i nic nie trzeba” to mit — o rezydencji pisałem wyżej: trzyma się też centrum interesów życiowych, nie tylko liczby dni.
-Dla firmy dochodzą własne ryzyka (rozliczenia za granicą, tak zwany zakład podatkowy) — nieautomatyczne, ale realne na tyle, że korporacje robią z tego oficjalne polityki „workation”: Danone na przykład daje pracownikom 30 dni roboczych w roku z Europy, za zgodą przełożonego. Jeśli Wasza firma takiej polityki nie ma — właśnie o jej ustalenie jest ta uczciwa rozmowa.
+Dla firmy dochodzą własne ryzyka (rozliczenia za granicą, tak zwany zakład podatkowy) — nieautomatyczne, ale realne na tyle, że korporacje robią z tego oficjalne polityki „workation”: Danone na przykład daje pracownikom 30 dni w roku z Europy, za zgodą przełożonego. Jeśli Wasza firma takiej polityki nie ma — właśnie o jej ustalenie jest ta uczciwa rozmowa.
 
 Czy istnieją w takim razie umowy pozwalające pracować naprawdę zewsząd? Istnieją — tylko te same przepisy muszą w takiej umowie być obsłużone zawczasu. W praktyce robi się to na dwa już opisane wyżej sposoby. Pierwszy: firma formalizuje każdy wyjazd jako delegowanie — występuje o A1 i składki zostają w Polsce. Drugi, dla kamperowicza najciekawszy: A1 dla „pracy w kilku państwach” — jeśli mieszkacie w Polsce, regularnie wracacie i wykonujecie z niej istotną część pracy, polskie składki obejmują całą Waszą unijną trasę jednym dokumentem. Krótko mówiąc: da się — tylko że to firma musi chcieć to poprawnie i formalnie obsłużyć w umowie.
 
@@ -143,9 +143,9 @@ Przedostatnia rzecz w tym rozdziale, a w mojej opinii jedna z najważniejszych w
 
 Każdy zna zasadę „uczymy się na cudzych błędach”. Tylko żeby uczyć się na cudzych, trzeba mieć do nich dostęp :) Dziesiątki przerobionych budów, testów i wpadek leżą w społecznościach budujących i czekają, aż je przeczytacie. Jest też druga, mniej oczywista wartość takich społeczności: przynależność do grona podobnych zapaleńców. To nie jest pusty frazes. Jeśli Wasze otoczenie puka się w głowę, jak opowiadacie im o Waszych marzeniach o kamperze — to będzie się pukać dalej, nawet jak je już spełnicie. Warto poznać społeczności gdzie nikt Wam nie każe się tłumaczyć z marzeń :)
 
-Dlatego wbudowaliśmy to wprost w tę książkę: każdy podrozdział ma link do naszej aplikacji, w której można komentować, zadawać pytania i wymieniać się doświadczeniami — z innymi czytelnikami i z nami. Jeżeli po którymś rozdziale zostanie Wam pytanie albo zechcecie skonfrontować swój plan z kimś, kto już to przerobił — właśnie po to jest ta aplikacja.
+Dlatego wbudowaliśmy to wprost w tę książkę: przy każdym rozdziale znajdziecie adres i kod QR do naszej aplikacji, w której można komentować, zadawać pytania i wymieniać się doświadczeniami — z innymi czytelnikami i z nami. Jeżeli po którymś rozdziale zostanie Wam pytanie albo zechcecie skonfrontować swój plan z kimś, kto już to przerobił — właśnie po to jest ta aplikacja.
 
-W żaden sposób też nie chcemy się pozycjonować jako osoby, które zjadły wszystkie rozumy i poznały całą wiedzę z całego świata na temat vanlife, bo to nieprawda. Przypominam, że na końcu książki znajdziecie pełną listę źródeł, z których sami korzystaliśmy podczas budowy — społeczności, do których należymy, fora i kanały — korzystajcie!
+W żaden sposób też nie chcemy się pozycjonować jako osoby, które zjadły wszystkie rozumy i poznały całą wiedzę z całego świata na temat vanlife, bo to nieprawda. Przypominam, że pod adresem zbudujsamkampera.pl/link/zrodla znajdziecie pełną listę źródeł, z których sami korzystaliśmy podczas budowy — społeczności, do których należymy, fora i kanały — korzystajcie!
 
 ## Rekomendacje autora
 

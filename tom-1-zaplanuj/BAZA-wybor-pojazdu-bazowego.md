@@ -1,4 +1,4 @@
-# Wybór pojazdu bazowego
+# Jakie auto wybrać?
 
 Większość z nas zaczyna budowę kampera od przeglądania ogłoszeń z autami. Kompletnie to rozumiem — ogłoszenia przyjemnie się ogląda, ale to prosta droga, żeby podjąć decyzję niezgodną z naszymi granicami akceptacji z poprzedniego rozdziału :/ 
 
@@ -38,7 +38,7 @@ Popularnie na takie auta mówi się auta dostawcze, w odróżnieniu od aut cię�
 
 Formalnościom, rejestracji, homologacji i całej akcyzie poświęcam osobny rozdział. Tu tylko trzy rzeczy, które musicie wiedzieć, zanim kupicie auto.
 
-Po pierwsze, kamper, a dokładnie „pojazd specjalny kempingowy”, jest dla urzędu skarbowego samochodem osobowym i podczas zmiany przeznaczenia z ciężarowego musicie zapłacić akcyzę: 3,1% przy silniku do 2,0 l włącznie, 18,6% powyżej. 
+Po pierwsze, kamper, a dokładnie „pojazd specjalny kempingowy”, jest dla urzędu skarbowego samochodem osobowym i podczas zmiany rodzaju z ciężarowego musicie zapłacić akcyzę: 3,1% przy silniku do 2,0 l włącznie, 18,6% powyżej. 
 
 Po drugie, podstawą nie jest cena bazy, tylko wartość rynkowa gotowego kampera. Kupujecie bazę za 100 tysięcy, dokładacie zabudowę za kolejne 100, to auto jest warte 200 i od tych 200 liczy się podatek. Przy silniku powyżej 2,0 l wychodzi kilkadziesiąt tysięcy, przy mniejszym kilka. Wliczcie to w budżet, zanim zaczniecie oglądać ogłoszenia! Jak to wygląda przy przerejestrowaniu przez osobowy, opisuję w rozdziale o formalnościach.
 
@@ -171,7 +171,7 @@ Przy autach używanych sprzed około 2021 roku jest jedna poważna różnica. St
 
 Rodzina Ducato jest największa, ale reguła „jedno auto, kilka znaczków” obowiązuje w całym segmencie i przy każdym z tych aut warto sprawdzić generację:
 - Volkswagen Crafter i MAN TGE to samo auto od 2017 roku. Crafter z lat 2006–2016 to konstrukcyjnie Mercedes Sprinter, więc części i porady do starego Craftera szukajcie u sprinterowców.
-- Renault Master i Nissan Interstar to bliźniaki od generacji z 2024 roku; wcześniej odpowiednikiem Mastera był Nissan NV400 i Opel Movano sprzed 2021 roku.
+- Renault Master i Nissan Interstar to bliźniaki; wcześniej odpowiednikiem Mastera był Nissan NV400 i Opel Movano sprzed 2021 roku.
 - Mercedes Sprinter, Ford Transit i Iveco Daily nie mają dziś europejskich bliźniaków.
 
 W segmencie małych baz działa ta sama zasada: Citroën Jumpy, Peugeot Expert, Opel Vivaro, Fiat Scudo i Toyota ProAce to jedno auto, a Volkswagen Transporter najnowszej generacji jest bliźniakiem Forda Transita Custom. 

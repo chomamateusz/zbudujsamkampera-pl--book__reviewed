@@ -284,7 +284,7 @@ Arkusz sklejki musi na czymś leżeć, kiedy go tniecie. Da się to robić na zi
 
 Do cięcia całych arkuszy warto położyć pod sklejkę płytę styroduru, czyli twardej pianki izolacyjnej: piła wchodzi wtedy w piankę zamiast w stół, a arkusz jest podparty na całej długości.
 
-Drabina jest potrzebna do wszystkiego, co montuje się na dachu. Nasz Boxer ma prawie 2,8 m wysokości, a na dachu okna, wentylator i klimatyzację. Bez drabiny nie ma szans. Polecamy drabinę teleskopową zamiast zwykłej. Złożona ma niecały metr, więc mieści się w garażu kampera i po budowie może zostać z Wami. A na dach wchodzi się potem częściej, niż się wydaje: zimą zgarnąć śnieg, latem umyć panele, po drodze naprawić uszczelnienie wokół okna.
+Drabina jest potrzebna do wszystkiego, co montuje się na dachu. Nasz Boxer ma prawie 2,8 m wysokości, a na dachu okna, wentylator i klimatyzację. Bez drabiny nie ma szans. Polecamy drabinę teleskopową zamiast zwykłej. Złożona ma niecały metr, więc mieści się w kamperze i po budowie może zostać z Wami. A na dach wchodzi się potem częściej, niż się wydaje: zimą zgarnąć śnieg, latem umyć panele, po drodze naprawić uszczelnienie wokół okna.
 
 #### Odkurzacz warsztatowy
 

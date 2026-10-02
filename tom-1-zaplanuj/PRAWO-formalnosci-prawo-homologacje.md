@@ -1,4 +1,4 @@
-# Formalności, prawo, homologacje
+# Prawo, rejestracja, akcyza
 
 Pięć decyzji formalnych powinno zapaść jeszcze przed rozpoczęciem zabudowy. Jaki rodzaj pojazdu ma stać w dowodzie na końcu, jaki silnik kupujecie, ile miejsc do jazdy naprawdę potrzebujecie, jakie DMC ma baza i co robicie ze ścianą grodziową.
 
@@ -143,7 +143,7 @@ Te przepisy są młode i to tłumaczy, dlaczego znajdziecie relacje ludzi, któr
 
 Od 1 stycznia 2023 „zmianę liczby” zastąpiono „zwiększeniem liczby”, dopisano „zmianę położenia” i doszedł § 9j; to brzmienie cytowałem wyżej i ono obowiązywało, kiedy kupowaliśmy Boxera.
 
-1 lipca 2023, w środku naszej budowy, ustawa homologacyjna przeniosła obowiązek potwierdzania takich zmian do Prawa o ruchu drogowym (art. 66 ust. 4b) i oddała dozorowi wyznaczanie służb technicznych, a 7 lipca dozór opublikował komunikat z opisem procedury, formularzem i cennikiem. Wymagania wobec siedzeń zostały te same, ale diagnosta dostał gotowy adres, pod który może odesłać każdą zmianę w fotelach, żeby nie musieć decydować o tym samemu. W czasach, gdy my próbowaliśmy przerejestrować samochód na własną rękę, większość diagnostów jeszcze w głowie miała brzmienie przepisu sprzed pół roku, w którym „wymieniliśmy fotele” znaczyło „dozór”, bo w poprzedniej wersji przepis odnosił się do każdej „zmiana liczby siedzeń”. Opinia rzeczoznawcy nadal istnieje, ale służy ustaleniu parametrów auta i nie zastępuje badań jednostki tam, gdzie § 9f albo § 9j ich wymaga; rejestracja sprzed zmiany przepisów zachowuje ważność, ale oczywiście nie obejmuje siedzeń dołożonych albo przesuniętych później.
+1 lipca 2023, w środku naszej budowy, ustawa homologacyjna przeniosła obowiązek potwierdzania takich zmian do Prawa o ruchu drogowym (art. 66 ust. 4b) i oddała dozorowi wyznaczanie służb technicznych, a 7 lipca dozór opublikował komunikat z opisem procedury, formularzem i cennikiem. Wymagania wobec siedzeń zostały te same, ale diagnosta dostał gotowy adres, pod który może odesłać każdą zmianę w fotelach, żeby nie musieć decydować o tym samemu. W czasach, gdy my próbowaliśmy przerejestrować samochód na własną rękę, większość diagnostów jeszcze w głowie miała brzmienie przepisu sprzed niecałego roku, w którym „wymieniliśmy fotele” znaczyło „dozór”, bo w poprzedniej wersji przepis odnosił się do każdej „zmiana liczby siedzeń”. Opinia rzeczoznawcy nadal istnieje, ale służy ustaleniu parametrów auta i nie zastępuje badań jednostki tam, gdzie § 9f albo § 9j ich wymaga; rejestracja sprzed zmiany przepisów zachowuje ważność, ale oczywiście nie obejmuje siedzeń dołożonych albo przesuniętych później.
 
 #### Nasza sprawa z dozorem
 
@@ -248,7 +248,7 @@ Kupując używaną samoróbkę, o czym pisałem w rozdziale o tym, czy budować,
 
 Jak widzicie, przepisy są absurdalnie skomplikowane :/ Dlatego mam w tym rozdziale jedną rekomendację: zmiany w fotelach i inne zmiany konstrukcyjne obowiązkowo zlećcie firmie, która robi to zawodowo. Nie angażujcie się w ten papierologiczny miszmasz na własną rękę, naprawdę warto komuś za to zapłacić. Taka firma zna stacje diagnostyczne, które podejmują się kamperów, zna przepisy, bo stosuje je co dzień, i ma fotele, podstawy i obrotnice ze znakami homologacji.
 Od razu po fotelach, jeszcze przed zabudową, przerejestrujcie auto: badanie, nowy dowód, dopiero potem budowa. Niezależnie od tego, czy wyjdzie z tego „osobowy wielozadaniowy”, czy auto na razie zostanie w dowodzie ciężarówką z nową liczbą miejsc, macie pewność, że najtrudniejsza część kolejnego badania jest już za Wami — zanim wydacie pieniądze i miesiące na zabudowę. Przy okazji na pewno zmieścicie się w ustawowych 30 dniach na zgłoszenie takiej zmiany :) 
-Ile to kosztuje? Same fotele pojedyncze to około 5 tysięcy za sztukę, tylna kanapa ponad 10 tysięcy. Montaż z dokumentacją to osobna pozycja, od tysiąca do kilku tysięcy za każdy z foteli. Cena zależy od tego, czy firma tylko przykręca i wystawia papiery, czy bierze na siebie także całą rejestrację i wraca do Was z dowodem.
+Ile to kosztuje? Same fotele pojedyncze to 4–5 tysięcy za sztukę, tylna kanapa ponad 10 tysięcy. Montaż z dokumentacją to osobna pozycja, od tysiąca do kilku tysięcy za każdy z foteli. Cena zależy od tego, czy firma tylko przykręca i wystawia papiery, czy bierze na siebie także całą rejestrację i wraca do Was z dowodem.
 
 ## Akty prawne i dokumenty, na które powołuję się w tym rozdziale
 

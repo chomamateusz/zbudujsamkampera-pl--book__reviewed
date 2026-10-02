@@ -1,4 +1,4 @@
-# Budować, zlecić, kupić używanego czy gotowca?
+# Budować, zlecić czy kupić?
 
 Wydaje nam się, że zdecydowanie zbyt dużo osób, zaczynając budowę, nie zdaje sobie sprawy, jak kosztowna — zarówno finansowo, jak i pod względem czasu, jest to przygoda. Nam wydawało się, że zdajemy sobie z tego sprawę, dość dobrze, a i tak przeliczyliśmy się kilkukrotnie :/
 
@@ -76,7 +76,7 @@ Zalety:
 
 - najtańsze wejście w pełnoprawnego kampera (o ile macie gotówkę, bo ciężej tu o finansowanie jak leasing);
 - dopasowanie zabudowy do Waszego stylu życia;
-- serwisowalność – znacie każdy kabel i zakamarek;
+- serwisowalność — znacie każdy kabel i zakamarek;
 - wiedza i doświadczenie, która zostaje;
 - satysfakcja — nie do kupienia :)
 
@@ -241,7 +241,7 @@ Oczywiście nie ma szans rozbierać ściany przed zakupem. Da się za to zmierz
 
 Druga pułapka to baza: najczęściej trafi się Ducato — X244 z lat mniej więcej 2002–2006 albo X250 z lat 2006–2014 — i w obu przypadkach niski przebieg nie zastępuje serwisu. Kampery najczęściej będą posiadane przez osoby prywatne i bardzo często nie będą miały pełnej dokumentacji serwisowej. Sprinter i Transit wymagają równie dokładnego oglądania pod kątem rdzy. Przejedźcie się też takim autem przed zakupem, bo hałas i hamowanie wychodzą w trasie, nie na zdjęciach.
 
-Trzecia pułapka to znowu waga, bo stare kampery na 3,5 t potrafią mieć bardzo mało ładowności — w szczególności po dołożonych przez właścicieli solarach na dachu oraz dodatkowych akumulatorach. Cztery miejsca do spania z homologacji nie oznaczają, że cztery osoby z bagażem pojadą legalnie. Tak jak przy każdym zakupie: zważcie auto, zanim kupicie :)
+Trzecia pułapka to znowu waga, bo stare kampery na 3,5 t potrafią mieć bardzo mało ładowności — w szczególności po dołożonych przez właścicieli solarach na dachu oraz dodatkowych akumulatorach. Cztery miejsca w dowodzie nie oznaczają, że cztery osoby z bagażem pojadą legalnie. Tak jak przy każdym zakupie: zważcie auto, zanim kupicie :)
 
 Czwarta pułapka to wiek instalacji w szczególności elektrycznej i gazowej.
 

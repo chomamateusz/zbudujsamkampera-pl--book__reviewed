@@ -2,7 +2,7 @@
 
 Z wykształcenia jestem fizykiem i mechatronikiem — nie elektrykiem, ale zrobię co mogę, żeby Wasza wiedza była jak najbardziej ugruntowana, jak tylko się da, zanim zaczniecie budować i planować swoją instalację. Wychodzę z założenia, że im większą będziemy mieli świadomość, jak coś działa od środka, tym więcej też będziemy mieli pokory, planując i montując taką instalację.
 
-Nigdy nie zapominajmy, że zarówno niskie stałe napięcie, jak i 230 V może być niebezpieczne! Pierwsze, mimo bycia bagatelizowanym, z powodu wysokich prądów płynących przez przewody, niesie ze sobą ryzyko przegrzań, a nawet pożarów! Wysokie napięcie przy bezpośrednim kontakcie jest śmiertelne — tego chyba wszyscy jesteśmy świadomi.  
+Nigdy nie zapominajmy, że zarówno niskie stałe napięcie, jak i 230 V może być niebezpieczne! Pierwsze, mimo bycia bagatelizowanym, z powodu wysokich prądów płynących przez przewody, niesie ze sobą ryzyko przegrzań, a nawet pożarów! Drugie przy bezpośrednim kontakcie jest śmiertelne — tego chyba wszyscy jesteśmy świadomi.  
 
 Ten rozdział jest wstępem do tematu. Nie ma na celu przedstawić Wam katalogu sprzętu i konkretnych schematów. Tym zajmiemy się dopiero w kolejnym tomie tej książki. 
 
@@ -30,7 +30,7 @@ Najłatwiej zrozumieć te pojęcia przez porównanie do wody w rurach, którą z
 
 #### Napięcie (U), czyli wolt (V)
 
-To „ciśnienie”, które pcha elektrony. Im wyższe napięcie, tym mocniej są popychane. W polskim gniazdku mamy 230 V, w baterii AA 1,5 V, w USB standardowo 5 V (w USB-C nawet do 20 V). Samo napięcie nic jeszcze nie robi, to tylko gotowość do pchania. Bateria w szufladzie tak jak gniazdko „daje” napięcie cały czas, ale prąd nie płynie, bo nie ma zamkniętego obwodu. Tak samo, jak woda pod ciśnieniem z zamkniętym zaworem. Tryśnie natychmiast, jak go odkręcimy. 
+To „ciśnienie”, które pcha elektrony. Im wyższe napięcie, tym mocniej są popychane. W polskim gniazdku mamy 230 V, w baterii AA 1,5 V, w USB standardowo 5 V (w USB-C nawet do 48 V). Samo napięcie nic jeszcze nie robi, to tylko gotowość do pchania. Bateria w szufladzie tak jak gniazdko „daje” napięcie cały czas, ale prąd nie płynie, bo nie ma zamkniętego obwodu. Tak samo, jak woda pod ciśnieniem z zamkniętym zaworem. Tryśnie natychmiast, jak go odkręcimy. 
 
 #### Natężenie (I), czyli amper (A)
 
@@ -172,7 +172,7 @@ Przypomnijmy sobie, że w instalacji domowej 16 A obciążenia ciągłego to ju�
 
 Jest też drugi, mniej oczywisty kłopot. Każdy przewód zabiera odrobinę napięcia po drodze. Strata pół wolta to przy 12 V aż cztery procent, a przy 48 V tylko jeden procent.
 
-Dlatego w pewnym momencie dokładanie miedzi przestaje mieć sens i producenci po prostu nie oferują dużych mocy na 12 V. 
+Dlatego w pewnym momencie dokładanie miedzi przestaje mieć sens i producenci rzadko oferują duże moce na 12 V. 
 
 W praktyce przyjmuje się prostą zasadę. Do około 2500 W wystarcza instalacja 12 V. Między 2500 a 4000 W warto przejść na 24 V. Powyżej zostaje już tylko 48 V. Na tabliczkach falowników zobaczycie te granice jako 3000 i 5000 VA. Czym jest VA i dlaczego ta liczba jest większa niż waty, wyjaśniam w następnej sekcji. 
 
@@ -311,7 +311,7 @@ Dlatego kampery bardzo często mają akumulator 200 Ah przy 12 V, czyli 2400 Wh.
 - praca dwóch osób: około 1 kWh,
 - lodówka: około 0,6 kWh,
 - router, serwer smart home i kamery: około 0,5 kWh,
-- noc, czyli ogrzewanie, wiatrak, grzanie wody i falownik: około 0,6 kWh.
+- noc, czyli ogrzewanie (razem z jego wiatrakiem i grzaniem wody) i falownik: około 0,6 kWh.
 
 Razem około 2,7 kWh na dobę, zanim jeszcze cokolwiek ugotujemy na prądzie. Z gotowaniem na indukcji i w airfryerze robi się z tego około 3,5 kWh, czyli ponad trzy razy więcej niż w profilu wakacyjnym. Dlatego cudze porady elektryczne tak często nie przystają do Waszej sytuacji. Tamten ma inny profil, a nie inną fizykę.
 

@@ -173,7 +173,7 @@ Każda rura stawia wodzie opór i po drodze „zużywa” część ciśnienia, w
 
 Skąd bierze się ten opór? Woda trze o ściankę rury i o samą siebie. Jak mocno, zależy od trzech rzeczy.
 
-Pierwsza to długość. Każdy metr rury trze tak samo, więc dwa razy dłuższa rura to dwa razy większa strata – tu opór rośnie proporcjonalnie do długości.
+Pierwsza to długość. Każdy metr rury trze tak samo, więc dwa razy dłuższa rura to dwa razy większa strata — tu opór rośnie proporcjonalnie do długości.
 
 Druga to prędkość wody. Tarcie rośnie z kwadratem prędkości, tak samo jak opór powietrza przy jeździe autem: przy dwa razy większej prędkości jest cztery razy większy. Dwa razy większy przepływ przez tę samą rurę oznacza dwa razy szybszą wodę, czyli cztery razy większą stratę.
 
@@ -274,7 +274,7 @@ Zawór, który kapie przy każdym grzaniu, pokazuje po prostu, że woda nie ma g
 
 ### Ile energii kosztuje ciepła woda?
 
-Do tego rachunku potrzebujemy dwóch pojęć, które dokładnie omówię w następnym rozdziale. Moc, podawana w watach (W), mówi, jak szybko urządzenie zużywa energię: żarówka LED to około 10 W, a czajnik około 2000 W. Energia to moc razy czas, więc urządzenie o mocy 500 W pracujące przez godzinę zużywa 500 watogodzin (Wh). To ta sama jednostka co kilowatogodzina z rachunku za prąd, tylko tysiąc razy mniejsza.
+Do tego rachunku potrzebujemy dwóch pojęć, które dokładnie omówię w następnym rozdziale. Moc, podawana w watach (W), mówi, jak szybko urządzenie zużywa energię: żarówka LED to około 10 W, a czajnik około 2300 W. Energia to moc razy czas, więc urządzenie o mocy 500 W pracujące przez godzinę zużywa 500 watogodzin (Wh). To ta sama jednostka co kilowatogodzina z rachunku za prąd, tylko tysiąc razy mniejsza.
 
 Nie ma przy tym żadnego znaczenia, czym grzejemy. Energia to energia, niezależnie od tego, czy pochodzi z baterii, czy ze spalania paliwa, i w obu przypadkach liczymy ją w tych samych watogodzinach. Każde paliwo ma swoją wartość opałową, czyli ilość energii, którą oddaje przy spaleniu. Litr oleju napędowego to około 10 kWh, a kilogram propanu z butli około 13 kWh. Piecyk na paliwo ma też moc w watach, tak samo jak grzałka. Mówi ona, jak szybko ta energia trafia do wody i powietrza. Różnica jest jedna: część ciepła ze spalania ucieka ze spalinami na zewnątrz, więc do wody trafia trochę mniej, niż było w paliwie.
 
@@ -322,7 +322,7 @@ Liczymy tu w litrach razy stopień, a nie w watogodzinach, bo po obu stronach je
 
 Z rachunku widać dwie rzeczy, na które macie wpływ: gorętszy bojler to więcej prysznica z tej samej pojemności, a zimniejsza woda w zbiorniku to mniej prysznica. Gdyby woda w zbiorniku w przykładzie powyżej miała 20 °C zamiast 10 °C, ten sam rachunek dałby 10 l · 40 stopni = V · 20 stopni, czyli 20 l zimnej i razem 30 l. To dwa prysznice zamiast półtora! U nas zimna woda nie jest zimą lodowata dzięki izolacji i ogrzewanemu wnętrzu. Nie można jednak zapominać, że zbiorniki najczęściej stoją tuż przy ściance i nie dochodzi do nich nadmuch ciepłego powietrza, więc przy dużych mrozach woda może być naprawdę chłodna :/
 
-Druga strona tego rachunku: bojler 10 l nagrzany tylko do 40 °C to dokładnie 10 l prysznica, czyli u nas mniej więcej jedna kąpiel.
+Druga strona tego rachunku: bojler 10 l nagrzany tylko do 40 °C to dokładnie 10 l prysznica, czyli u nas niecała kąpiel.
 
 W prawdziwym bojlerze zimna woda wpływa na miejsce gorącej i część ciepła ucieka po drodze, więc wszystkie powyższe liczby to wyniki w warunkach idealnych.
 
