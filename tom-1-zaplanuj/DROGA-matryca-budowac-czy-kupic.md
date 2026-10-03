@@ -1,6 +1,6 @@
 # Budować, zlecić czy kupić?
 
-Wydaje nam się, że zdecydowanie zbyt dużo osób, zaczynając budowę, nie zdaje sobie sprawy, jak kosztowna — zarówno finansowo, jak i pod względem czasu, jest to przygoda. Nam wydawało się, że zdajemy sobie z tego sprawę, dość dobrze, a i tak przeliczyliśmy się kilkukrotnie :/
+Wydaje mi się, że zdecydowanie zbyt dużo osób, zaczynając budowę, nie zdaje sobie sprawy, jak kosztowna — zarówno finansowo, jak i pod względem czasu, jest to przygoda. Nam wydawało się, że zdajemy sobie z tego sprawę, dość dobrze, a i tak przeliczyliśmy się kilkukrotnie :/
 
 Z tego powodu na tę decyzję poświęcam cały rozdział. Zanim kupicie pierwszy arkusz sklejki, zanim w ogóle zaczniecie oglądać auta na OtoMoto, naprawdę polecam mocno zastanowić się: którą drogą dojdziecie do swojego kampera, zamiast w ciemno zdecydować się na „budujemy sami”.
 
@@ -29,7 +29,7 @@ Ryzyka tej ścieżki to głównie: zgnilizna, grzyb i przecieki w zabudowie oraz
 
 ### Zalety i wady budowy z pierwszej ręki
 
-Żeby było jasne — ja wcale nie zniechęcam do budowy — znamy zalety tej ścieżki z pierwszej ręki. Układ macie w 100% pod siebie. Znacie każdy zakamarek, więc naprawiacie sami w trasie — bez szukania serwisu, a często lepiej od serwisu, bo żaden nie zna kampera tak od podszewki, jak ten, kto go zbudował. W kamperze, który kiedyś wynajmowałem, wymiana węża od prysznica wody zajęła serwisowi 2 godziny; w naszym wymieniam pompę wody w 30 minut! Macie pełną kontrolę nad wyposażeniem i, jeśli chcecie, da się to zrobić naprawdę tanio.
+Żeby było jasne — ja wcale nie zniechęcam do budowy — znamy zalety tej ścieżki z pierwszej ręki. Układ macie w 100% pod siebie. Znacie każdy zakamarek, więc naprawiacie sami w trasie — bez szukania serwisu, a często lepiej od serwisu, bo żaden nie zna kampera tak od podszewki, jak ten, kto go zbudował. W kamperze, który kiedyś wynajmowałem, wymiana węża od prysznica wody zajęła serwisowi 2 godziny; w naszym wymieniamy pompę wody w 30 minut! Macie pełną kontrolę nad wyposażeniem i, jeśli chcecie, da się to zrobić naprawdę tanio.
 
 Niestandardowe układy wnętrza mają jednak nieprzewidziane wady — dowiecie się o nich po fakcie, jak już zamieszkacie. Na 99% zrobicie auto cięższe niż fabryka; jeszcze nie widzieliśmy kogoś, kto zrobił lżejsze :) No i potrzebujecie miejsca do budowy: u nas, przy budowie „pod chmurką”, samo rozkładanie i składanie narzędzi trwało czasem dłużej niż robota danego dnia :/ To jest zresztą temat na tyle poważny, że dostał w tej książce własny rozdział — o warsztacie. Oprócz rekomendacji jego wyposażenia — znajdziecie tam też pełną historię naszych miejscówek na budowę.
 
@@ -107,7 +107,7 @@ Nie wiecie, czy elektryka jest zrobiona porządnie, czy „jakoś działa”. Ni
 
 Dotyczy to też mniejszych i nieznanych firm tworzących zabudowy komercyjnie, ale tam przynajmniej dostaniecie umowę i FV (a przynajmniej mam nadzieję, że dostaniecie :)).
 
-Druga pułapka to papiery: czy ten kamper jest w ogóle zarejestrowany jako kamper („specjalny kempingowy”)? Często takie auta formalnie wciąż są ciężarówkami a na umowie kupna-sprzedaży będzie tylko model auta bez słowa o zabudowie. W dowodzie patrzcie też na DMC: bywa mniejsze niż 3,5 t. Do tych kwestii wrócimy jeszcze w rozdziale o formalnościach, a do ubezpieczeń w tomie trzecim.
+Druga pułapka to papiery: czy ten kamper jest w ogóle zarejestrowany jako kamper („specjalny kempingowy”)? Często takie auta formalnie wciąż są ciężarówkami a na umowie kupna-sprzedaży będzie tylko model auta bez słowa o zabudowie. W dowodzie patrzcie też na DMC: bywa mniejsze niż 3,5 t. Do tych kwestii wrócę jeszcze w rozdziale o formalnościach, a do ubezpieczeń w tomie trzecim.
 
 Jeśli kusi Was używany kamper, ale cudza zabudowa budzi właśnie takie obawy, przeczytajcie od razu ścieżkę piątą: tam zabudowę robiła fabryka, więc pierwsza i druga pułapka maleją, za to rośnie wiek auta i sprzętu.
 
@@ -185,13 +185,13 @@ Dla kogo nie:
 
 Co, jeśli chcecie gotowy, ale jednak skrojony pod Was? Istnieją firmy, które robią zabudowy customowe, ale uwaga! Bardzo duża część firm nie pozwala wybrać i zaprojektować całej zabudowy, tylko tworzą zabudowę według jednego z ich gotowych projektów. Nadal możecie wybrać osprzęt, ale nie zmienicie za bardzo układu wnętrza. Jest bardzo mało firm, które są w stanie wykonać wszystko dla Was. Ma to prostą przyczynę. Mało kto z zamawiających chce dopłacać za to, że wykonawca musi stworzyć dla niego cały projekt od podstaw oraz spędzić długie godziny na dogranie wszystkich szczegółów zabudowy.  
 
-Ile to kosztuje? Zależy jaką zabudowę chcemy. Na moje oko, w 2026 roku najtańsze zabudowy zaczynają się od 100–150 tysięcy złotych w zależności od sprzętu a kończą nawet na 500 tysiącach, jeśli chcemy aluminiowe meble przystosowane do wersji terenowej. Oczywiście do tego musimy mieć nadal własne auto — czyli całość ląduje realnie w okolicach ceny najtańszych gotowców poprzedniej ścieżki. Realna opcja na obniżenie ceny to kupno nie nowej, a używanej bazy. 
+Ile to kosztuje? Zależy jaką zabudowę chcecie. Na moje oko, w 2026 roku najtańsze zabudowy zaczynają się od 100–150 tysięcy złotych w zależności od sprzętu a kończą nawet na 500 tysiącach, jeśli chcecie aluminiowe meble przystosowane do wersji terenowej. Oczywiście do tego musicie mieć nadal własne auto — czyli całość ląduje realnie w okolicach ceny najtańszych gotowców poprzedniej ścieżki. Realna opcja na obniżenie ceny to kupno nie nowej, a używanej bazy. 
 
 Teraz kuszący wariant pośredni, który bywa — „sam nie umiem wszystkiego, to pozlecam po kawałku różnym fachowcom: stolarzowi meble, elektrykowi prąd, hydraulikowi wodę” — w praktyce się nie sprawdza. Budujący musi być „wielobranżystą”, bo inaczej koordynacja zabija projekt. W kamperze wszystko przenika się ze wszystkim: kabel czy rura idzie przez szafkę, ogrzewanie musi być rozprowadzone, a każdy fachowiec zna tylko swoją działkę i swoje standardy — z budownictwa domowego, nie kamperowego. Ktoś musi trzymać całość w głowie. Jeśli to nie jesteście Wy albo jedna odpowiedzialna za całość firma — to nikt :/
 
 Nie chcę też, żeby to brzmiało, jakbym w ogóle odradzał zlecanie. Zlecanie jest super pod warunkiem, że Wy to koordynujecie, a w najlepszym wypadku to Wy tworzycie zabudowę. Po prostu nie dajcie się zwieść, że zlecając po kolei kilku różnym fachowcom budowę będziecie mieli spójną całość. Prawdopodobnie w ogóle nie będziecie mieć całości :) 
 
-Możemy to nazwać w ten sposób: chirurgiczny outsourcing. Budujecie sami, ale konkretne, wąskie operacje oddajecie ludziom ze sprzętem i doświadczeniem. Przykład — w całej budowie zlecamy dokładnie trzy rzeczy: zmiany w fotelach pasażerów, montaż ogrzewania postojowego z podłączeniem do zbiornika paliwa u mechanika i na przykład wycięcie frontów meblowych u stolarza (korpusy samemu). 
+Możemy to nazwać w ten sposób: chirurgiczny outsourcing. Budujecie sami, ale konkretne, wąskie operacje oddajecie ludziom ze sprzętem i doświadczeniem. Przykład — w całej budowie zlecacie dokładnie trzy rzeczy: zmiany w fotelach pasażerów, montaż ogrzewania postojowego z podłączeniem do zbiornika paliwa u mechanika i na przykład wycięcie frontów meblowych u stolarza (korpusy samemu). 
 
 Moja własna lista do oddania fachowcom jest krótka i niezmienna: **fotele (obrotnice, homologacja) i przerejestrowanie**. Nawet robiąc kampera w 100% samemu, tę część drugim razem rzeczy bym oddał. Fotele to bezpieczeństwo i papiery jednocześnie, a przerejestrowanie własnej przebudowy robi się w Polsce coraz trudniejsze — i zmienia się to szybciej niż wydania książek, więc bieżący stan sprawdźcie na świeżo, zanim zaczniecie :)
 

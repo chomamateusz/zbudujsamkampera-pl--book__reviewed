@@ -8,13 +8,13 @@ Zaczęliśmy na podwórku u mojego taty, pod chmurką. Stary garaż mieścił ty
 
 Koniec końców nad stanowiskiem stanął spory biały namiot/pawilon, jaki rozstawia się czasem na plenerowe imprezy, mniej więcej 7 na 3 metry. Dzięki niemu nie musieliśmy już chować stołów i narzędzi na noc przed wilgotnymi porankami i deszczem. W namiocie nie było oczywiście idealnie sucho, więc precyzyjne albo po prostu droższe narzędzia i niezamontowane jeszcze materiały i tak chowaliśmy każdego wieczoru. Tak duży namiot za względnie niewielkie pieniądze (ok. 750 zł) okazał się mocno jednorazowy :) Pod koniec na jego poszyciu było więcej dziur załatanych szarą taśmą niż oryginalnego materiału i po robocie powędrował na śmietnik.
 
-Mimo to polecamy załatwić sobie dowolny namiot, pod który wejdziecie ze stołem, piłą i choćby połową arkusza sklejki. Nie przerwiecie pracy, kiedy zacznie padać, a wieczorem łatwo oświetlicie stanowisko, bo światło ładnie odbija się od ścian namiotu.
+Mimo to polecam załatwić sobie dowolny namiot, pod który wejdziecie ze stołem, piłą i choćby połową arkusza sklejki. Nie przerwiecie pracy, kiedy zacznie padać, a wieczorem łatwo oświetlicie stanowisko, bo światło ładnie odbija się od ścian namiotu.
 
 Później, jak już wspominałem w rozdziale o naszym Boxerze, wynajęliśmy halę. Chcieliśmy trochę przyspieszyć, a poza tym lato się kończyło i nieuchronnie nadciągała jesień. Hala miała niecałe 100 m² i kosztowała 2 000 zł netto miesięcznie. Może się to wydawać sporo, ale obiekty przemysłowe są zwykle dużo większe i kosztują jeszcze więcej. Hale wynajmuje się firmom, a standardem jest umowa co najmniej na rok, bardzo często na dwa lata. Tu mieliśmy trochę szczęścia: właściciel budynku też miał kampera i kiedy usłyszał, że budujemy własnego, zgodził się wynająć nam halę na kilka miesięcy bez dłuższej umowy.
 
 W hali było pusto i brudno od oleju, bo wcześniej działał w niej warsztat samochodowy. Było oświetlenie i prąd, nie było wody ani toalety, a za ogrzewanie służyła koza z kominem :) Toaletę zamówiliśmy przenośną, z serwisem, a na podłogę położyliśmy folię, bo brud z butów przenosił się nam na niewykończoną jeszcze podłogę kampera. Hala miała dwie bramy na przestrzał, każda wysoka na cztery metry, i trochę placu przed i za, więc bez kłopotu dało się postawić osobówkę albo podjechać z przyczepką. Kamper stał w środku na stałe, obok mieliśmy duże stanowisko ze stołami do cięcia i skład sklejki pod ścianą, a i tak zostawało miejsce, żeby wjechać tyłem samochodu i rozładować materiały pod dachem, nawet w deszczu.
 
-Mimo warunków dalekich od idealnych pracowało nam się tam najlepiej ze wszystkich miejsc, w których budowaliśmy kampera. Różnicy między pracą pod dachem a pod chmurką po prostu nie da się opisać. Po raz pierwszy nic nie musieliśmy składać: kiedy byliśmy zmęczeni, zostawialiśmy robotę dokładnie tam, gdzie była, i wracaliśmy do domu. To w hali praktycznie dokończyliśmy pierwszą zabudowę, po kilku miesiącach dłubania pod chmurką. Uważamy, że to najlepszy sposób, żeby kupić sobie dobre tempo pracy :) Solidna, duża wiata bez ścian albo bardzo wysoki namiot da Wam mniej więcej to samo, bo chodzi przede wszystkim o dach nad kamperem i stołem warsztatowym.
+Mimo warunków dalekich od idealnych pracowało nam się tam najlepiej ze wszystkich miejsc, w których budowaliśmy kampera. Różnicy między pracą pod dachem a pod chmurką po prostu nie da się opisać. Po raz pierwszy nic nie musieliśmy składać: kiedy byliśmy zmęczeni, zostawialiśmy robotę dokładnie tam, gdzie była, i wracaliśmy do domu. To w hali praktycznie dokończyliśmy pierwszą zabudowę, po kilku miesiącach dłubania pod chmurką. Uważam, że to najlepszy sposób, żeby kupić sobie dobre tempo pracy :) Solidna, duża wiata bez ścian albo bardzo wysoki namiot da Wam mniej więcej to samo, bo chodzi przede wszystkim o dach nad kamperem i stołem warsztatowym.
 
 ### Ciepło i suche miejsce
 
@@ -30,7 +30,7 @@ Na całą resztę przydają się pojemniki, w szczególności zamykane. My sporo
 
 Przy kolejnych przeprowadzkach między warsztatami wyszedł jeszcze jeden problem: nie mieliśmy w czym trzymać i przewozić narzędzi. Koniec końców kupiliśmy dwie szafki warsztatowe Tagred, model TA213. Kosztowały nas około 1 000 zł za sztukę i są naprawdę porządnie wykonane jak na tę cenę. Każda ma sześć niskich szuflad i jedną wysoką, na elektronarzędzia. Ponadto mamy dwie kolumny skrzynek firmy Qbrick. To całkiem ciekawa alternatywa dla ciężkich szafek warsztatowych. Kolumna z serii ONE jest podobnej wielkości co taka szafka, a składa się z segmentów, które można dowolnie dobierać. Jedno i drugie jest na kołach, więc cztery szafki mieszczą wszystkie nasze narzędzia, a całość da się wygodnie wtoczyć na przyczepkę z najazdem i szybko przewieźć w dowolne miejsce.
 
-### Nasza rekomendacja
+### Moja rekomendacja
 
 Da się budować pod chmurką, sami tak zaczynaliśmy, ale naprawdę polecam znaleźć jakąś formę zadaszenia. Skrajne minimum to suche miejsce na narzędzia, a jeśli nie macie nawet garażu, postawcie chociaż namiot na podwórku.
 
@@ -54,9 +54,9 @@ Sztandarowym przykładem z drugiej grupy jest szlifierka. W szlifierce naprawdę
 
 ### Polecane marki
 
-Nie jestem zawodowym stolarzem i nie testowałem wszystkich marek. Mogę Wam polecić te narzędzia, na których sam pracuję najczęściej i co prawda nie mam pełnych zestawów od jednego producenta, ale zazwyczaj skłaniam się ku kilku z nich.
+Nie jestem zawodowym stolarzem i nie testowałem wszystkich marek. Mogę Wam polecić te narzędzia, na których sami pracujemy najczęściej i co prawda nie mamy pełnych zestawów od jednego producenta, ale zazwyczaj skłaniamy się ku kilku z nich.
 
-Bosch sprzedaje elektronarzędzia w dwóch liniach: zielonej do domu i niebieskiej dla fachowców. W mojej opinii niebieski Bosch to właśnie dobre, półprofesjonalne narzędzia, a ich ceny nie są jeszcze tak absurdalnie wysokie jak na przykład u Festoola, niemieckiej renomowanej marki dla zawodowych stolarzy. Mam tej marki między innymi zagłębiarkę akumulatorową, piłę tarczową akumulatorową oraz piłę tarczową przewodową i wszystkie sprawują się świetnie. Za to wszystkie moje szlifierki są z Parkside albo innych budżetowych marek z marketów.
+Bosch sprzedaje elektronarzędzia w dwóch liniach: zielonej do domu i niebieskiej dla fachowców. W mojej opinii niebieski Bosch to właśnie dobre, półprofesjonalne narzędzia, a ich ceny nie są jeszcze tak absurdalnie wysokie jak na przykład u Festoola, niemieckiej renomowanej marki dla zawodowych stolarzy. Mamy tej marki między innymi zagłębiarkę akumulatorową, piłę tarczową akumulatorową oraz piłę tarczową przewodową i wszystkie sprawują się świetnie. Za to wszystkie nasze szlifierki są z Parkside albo innych budżetowych marek z marketów.
 
 Nie oszczędzałbym też na bitach i narzędziach ręcznych. W porównaniu z elektronarzędziami i tak są stosunkowo tanie, a pracuje się nimi na okrągło. Bit to zresztą też narzędzie precyzyjne. Jeśli jest miękki albo niedokładnie wykonany, siedzi w gnieździe wkrętu luźno, wyskakuje z niego i rozbija łeb, a wkręt z rozbitym łbem ciężko potem wykręcić. Moim zdaniem niezaprzeczalnym królem jest tu Wera.
 
@@ -64,11 +64,11 @@ Z tą firmą łączy mnie zresztą dość osobista historia :) Wera to zdrobnien
 
 Jeśli nie chcecie wydawać dużo na narzędzia ręczne, kupcie markowe przynajmniej same bity, najlepiej od razu cały zestaw. Ja bardzo polecam Wera Tool-Check PLUS. To zgrabny zestaw — mieszczący się w kieszeni, w którym są bity do wszystkich popularnych wkrętów, mały klucz z grzechotką, nasadki i rękojeść. Jednym zakupem macie załatwioną większość skręcania przy całej budowie. Jest na tyle mały, że jeździ z nami w szoferce kampera, a jej miniaturowa grzechotka i rękojeść przydały się już tyle razy, przy wymianie pompy i w innych ciasnych miejscach, że nie jestem w stanie tego zliczyć :)
 
-Zupełnie inna sprawa niż z elektronarzędziami jest z elektroniką. Za przykład mogę podać laser krzyżowy, czyli urządzenie, które rzuca na ściany idealnie poziome i pionowe linie. Mam zielony laser płaszczyznowy firmy Deko, raczej małej i stosunkowo taniej marki. Według specyfikacji producenta ma taką samą dokładność jak porównywalny Bosch, a kosztował mnie około 400 zł, kilka razy mniej! Akurat w kamperze laser przydaje się mniej, niż mogłoby się wydawać. Poziomuje się grawitacyjnie, a auto nigdy nie stoi idealnie poziomo i w karoserii nie ma ani jednej prostej ściany, do której można by się odnieść. Nie znaczy to, że jest bezużyteczny. W trybie blokady, w którym laser nie poziomuje się sam, nadal rzuca linie pod kątem prostym do siebie, więc można nim wyznaczać kąty proste.
+Zupełnie inna sprawa niż z elektronarzędziami jest z elektroniką. Za przykład mogę podać laser krzyżowy, czyli urządzenie, które rzuca na ściany idealnie poziome i pionowe linie. Mamy zielony laser płaszczyznowy firmy Deko, raczej małej i stosunkowo taniej marki. Według specyfikacji producenta ma taką samą dokładność jak porównywalny Bosch, a kosztował nas około 400 zł, kilka razy mniej! Akurat w kamperze laser przydaje się mniej, niż mogłoby się wydawać. Poziomuje się grawitacyjnie, a auto nigdy nie stoi idealnie poziomo i w karoserii nie ma ani jednej prostej ściany, do której można by się odnieść. Nie znaczy to, że jest bezużyteczny. W trybie blokady, w którym laser nie poziomuje się sam, nadal rzuca linie pod kątem prostym do siebie, więc można nim wyznaczać kąty proste.
 
 ### Czym zasilać elektronarzędzia?
 
-Większość zabudowy robiliśmy na narzędziach przewodowych 230 V, z prostego powodu: różnicę w cenie pomiędzy narzędziem akumulatorowym a przewodowym wolałem wydać na bardziej markowe narzędzie niż na akumulator. Z drugiej strony ciężko sobie wyobrazić pracę z wkrętarką bez akumulatora — wszędzie gdzieś są granice :)
+Większość zabudowy robiliśmy na narzędziach przewodowych 230 V, z prostego powodu: różnicę w cenie pomiędzy narzędziem akumulatorowym a przewodowym woleliśmy wydać na bardziej markowe narzędzie niż na akumulator. Z drugiej strony ciężko sobie wyobrazić pracę z wkrętarką bez akumulatora — wszędzie gdzieś są granice :)
 
 Wszyscy producenci robią własne, dedykowane akumulatory i prawie nigdy nie są one zamienne. Akumulator i ładowarka kupione do jednego narzędzia pasują więc tylko do narzędzi z tego samego systemu. Ponadto większość narzędzi akumulatorowych sprzedaje się bez akumulatora i ładowarki, więc do ceny trzeba jeszcze doliczyć jedno i drugie. Antyprzykładem na tym polu jest firma Bosch, która ma dwie serie: zieloną dedykowaną domowym majsterkowiczom oraz niebieską — profesjonalną. Obie serie oferują elektronarzędzia akumulatorowe i te dwa systemy nie są ze sobą kompatybilne, chociaż to jeden producent i to samo napięcie!
 
@@ -76,15 +76,15 @@ Nie chcę też, żebyście zrozumieli mnie źle, ponieważ narzędzia akumulator
 
 Mimo to podczas budowy kampera włożyłbym je do kategorii „nice to have”. Nie wszystko da się zasilić z akumulatora, więc i tak będziecie budować gdzieś, gdzie jest prąd. Koniec końców w Waszym kamperze na 99% też będzie prąd :) U nas system zamontowany w kamperze zasilał budowę już od pierwszych miesięcy.
 
-Jeśli zdecydujecie się na zasilanie kampera ze stacji zasilania, czyli dużego przenośnego akumulatora z gniazdkami 230 V (ten pomysł dokładnie omówimy w tomie o budowie), to wystarczy ją kupić przed rozpoczęciem budowy i już macie skrzynkę z prądem w dowolnym miejscu! :) Oczywiście nie jest to tak wygodne jak dedykowane narzędzie bateryjne, ale rozwiązuje problem przedłużaczy i nadal może być tańsze.
+Jeśli zdecydujecie się na zasilanie kampera ze stacji zasilania, czyli dużego przenośnego akumulatora z gniazdkami 230 V (ten pomysł dokładnie omówię w tomie o budowie), to wystarczy ją kupić przed rozpoczęciem budowy i już macie skrzynkę z prądem w dowolnym miejscu! :) Oczywiście nie jest to tak wygodne jak dedykowane narzędzie bateryjne, ale rozwiązuje problem przedłużaczy i nadal może być tańsze.
 
 ### Zestaw minimalny
 
-Jestem pewien, że większość z Was najbardziej chce mieć gotowego kampera, a nie inwestować dużą część budżetu w warsztat. Dlatego podzieliłem całą sekcję o narzędziach na kilka wariantów. Zaczniemy od wariantu minimalnego, czyli takich narzędzi, bez których według mnie nie warto zaczynać. W tym wariancie nie musi być wygodnie, musi być względnie tanio i kupujemy jak najbardziej wielofunkcyjne narzędzia.
+Jestem pewien, że większość z Was najbardziej chce mieć gotowego kampera, a nie inwestować dużą część budżetu w warsztat. Dlatego podzieliłem całą sekcję o narzędziach na kilka wariantów. Zacznę od wariantu minimalnego, czyli takich narzędzi, bez których według mnie nie warto zaczynać. W tym wariancie nie musi być wygodnie, musi być względnie tanio i kupujecie jak najbardziej wielofunkcyjne narzędzia.
 
 #### Miarka, linijka stalowa i kątownik
 
-Nikt nie będzie raczej kwestionował, że potrzebujemy zarówno linijki, jak i miarki, jak i kątownika. Ale z racji, że to są tak oczywiste narzędzia, które prawdopodobnie nawet macie już w domu, bardzo często pomijamy bardzo ważny parametr, jakim jest dokładność, w jakiej zostają wykonane. Dokładność miarki opisuje klasa: jedynka, dwójka albo trójka. Najczęściej w marketach i we własnych domach spotkacie miarki klasy drugiej. Na płycie długości dwóch i pół metra dwójka może zgubić prawie milimetr, jedynka niecałe pół. Jeden milimetr to nie problem, ale trzy takie milimetry z różnych elementów zebrane w jednym rogu szafki widać już gołym okiem. Dlatego polecam mieć przynajmniej jedną miarkę klasy pierwszej i od niej odmierzać wszystkie wymiary na sklejce — wyłącznie od tej jednej. Pozostałe miarki są do wszystkiego, co nie musi się zejść co do milimetra. Jedynki raczej nie znajdziecie, trzeba jej poszukać w internecie po haśle „miara klasa 1”. Zwijana kosztuje kilkadziesiąt złotych. Uwaga! Oznaczenia klasy często nie ma na obudowie. Klasa jest nadrukowana na samej taśmie, w pierwszych kilkunastu centymetrach od zaczepu: rzymska jedynka lub dwójka. Jeśli miarka nie ma w ogóle nadanej klasy, nic właściwie producenta nie zobowiązuje, żeby trzymać się jakichkolwiek wymiarów.
+Nikt nie będzie raczej kwestionował, że potrzebujemy zarówno linijki, jak i miarki, jak i kątownika. Ale z racji, że to są tak oczywiste narzędzia, które prawdopodobnie nawet macie już w domu, bardzo często pomijacie bardzo ważny parametr, jakim jest dokładność, w jakiej zostają wykonane. Dokładność miarki opisuje klasa: jedynka, dwójka albo trójka. Najczęściej w marketach i we własnych domach spotkacie miarki klasy drugiej. Na płycie długości dwóch i pół metra dwójka może zgubić prawie milimetr, jedynka niecałe pół. Jeden milimetr to nie problem, ale trzy takie milimetry z różnych elementów zebrane w jednym rogu szafki widać już gołym okiem. Dlatego polecam mieć przynajmniej jedną miarkę klasy pierwszej i od niej odmierzać wszystkie wymiary na sklejce — wyłącznie od tej jednej. Pozostałe miarki są do wszystkiego, co nie musi się zejść co do milimetra. Jedynki raczej nie znajdziecie, trzeba jej poszukać w internecie po haśle „miara klasa 1”. Zwijana kosztuje kilkadziesiąt złotych. Uwaga! Oznaczenia klasy często nie ma na obudowie. Klasa jest nadrukowana na samej taśmie, w pierwszych kilkunastu centymetrach od zaczepu: rzymska jedynka lub dwójka. Jeśli miarka nie ma w ogóle nadanej klasy, nic właściwie producenta nie zobowiązuje, żeby trzymać się jakichkolwiek wymiarów.
 
 Nawet z klasą obowiązuje jedna zasada: ten sam wymiar zawsze przenoście tą samą miarką. Zmierzone jedną, odrysowane drugą, ucięte według trzeciej to najprostszy sposób na milimetrową szparę, której nikt nie potrafi wyjaśnić :) Żadne narzędzie nie jest bezbłędne, a błędy się sumują! Najlepiej mieć jedną miarkę, która cały dzień wisi przy pasku albo siedzi w kieszeni, i nią mierzyć wszystko. Jeśli kupujecie kilka, to tego samego producenta i ten sam model.
 
@@ -104,17 +104,17 @@ Nożyk tapicerski to trzecie narzędzie, które będziecie mieć w ręku codzien
 
 I tu ważna rada, która dotyczy ołówków, markerów i nożyków w równym stopniu: kupcie od razu przynajmniej dziesięć. Serio, przynajmniej dziesięć, i dziesięć to nadal mało. Uwierzcie mi — zgubicie :) Ołówek zostaje na dachu, marker wpada za ścianę, nożyk ląduje w pudle z izolacją, a Wy w środku roboty spędzacie kwadrans na szukaniu.
 
-Taśmą malarską wyklejałem na suficie i ścianach rzut zabudowy, czyli obrys mebli w skali jeden do jednego. Ten sam obrys dałoby się narysować markerem, ale taśmę można odkleić i przykleić kawałek dalej, kiedy coś nie pasuje. Może być dowolna, najtańsza. W sklepie zobaczycie zwykle trzy kolory. Biała to zwykła papierowa, tania. Niebieska to malarska, lepiej trzyma i po dłuższym czasie schodzi czysto. Pomarańczowa ma mocniejszy klej i jest do chropowatych powierzchni i na zewnątrz.
+Taśmą malarską wyklejaliśmy na suficie i ścianach rzut zabudowy, czyli obrys mebli w skali jeden do jednego. Ten sam obrys dałoby się narysować markerem, ale taśmę można odkleić i przykleić kawałek dalej, kiedy coś nie pasuje. Może być dowolna, najtańsza. W sklepie zobaczycie zwykle trzy kolory. Biała to zwykła papierowa, tania. Niebieska to malarska, lepiej trzyma i po dłuższym czasie schodzi czysto. Pomarańczowa ma mocniejszy klej i jest do chropowatych powierzchni i na zewnątrz.
 
 #### Pilarka tarczowa i szyny
 
 Najpierw dwa słowa o nazwach. Piła to każde narzędzie z zębami do cięcia, także zwykła, ręczna. Pilarka to piła z silnikiem. W sklepach i instrukcjach przeczytacie więc „pilarka tarczowa”, a w warsztacie każdy powie po prostu „piła tarczowa”. Zagłębiarka, ukośnica i piła stołowa, o których piszę dalej, to również rodzaje pilarek tarczowych. Wyrzynarka też jest, technicznie rzecz biorąc, pilarką, choć nikt jej tak w praktyce nie nazywa.
 
-Całego kampera zrobiliśmy zwykłą ręczną piłą tarczową wpiętą w szynę prowadzącą. Szyna to precyzyjnie wykonana aluminiowa listwa, którą przypina się do płyty ściskami. Piła porusza się po niej, więc cięcie jest zawsze precyzyjne. Wyrzynarka nie zastąpi pilarki, bo na długim prostym cięciu brzeszczot prędzej czy później ucieknie w bok. Więcej o technikach, jak ciąć drewno, piszę w rozdziale o podstawach stolarki. Tu skupimy się na narzędziach.
+Całego kampera zrobiliśmy zwykłą ręczną piłą tarczową wpiętą w szynę prowadzącą. Szyna to precyzyjnie wykonana aluminiowa listwa, którą przypina się do płyty ściskami. Piła porusza się po niej, więc cięcie jest zawsze precyzyjne. Wyrzynarka nie zastąpi pilarki, bo na długim prostym cięciu brzeszczot prędzej czy później ucieknie w bok. Więcej o technikach, jak ciąć drewno, piszę w rozdziale o podstawach stolarki. Tu skupię się na narzędziach.
 
 Szyna musi być przynajmniej takiej długości jak materiał, który tniecie. Sklejka ma zwykle wymiary 2,5 na 1,25 m. Jeśli zakładacie, że będziecie ciąć z połówek arkusza, to szyna 1,4 m Wam wystarczy, ale jeśli z całych płyt, wzdłuż, to musicie mieć 2,6 albo 2,7 m. Dlatego drugą szynę i łącznik, który składa dwie szyny w jedną, też zaliczam do zestawu minimalnego. Jedną krótką szyną długie cięcie da się zrobić na dwa razy, przekładając ją w połowie, ale przy każdym przełożeniu łatwo o uskok na krawędzi.
 
-Nasza pilarka to przewodowy Bosch GKS 55+ GCE, a szyny to Bosch FSN 1600 i FSN 800 z łącznikiem. Razem są krótsze niż arkusz 2,5 m, ale brakujące centymetry dało się nadrobić samym rozmiarem pilarki bądź zagłębiarki. Wygodne to nie było: przy takim kombinowanym cięciu wzdłuż nie było jak zamontować ścisków, więc szynę trzeba było trzymać rękoma w dwie osoby. Nie polecamy, lepiej kupić dłuższe. Chociaż szczerze powiedziawszy, najczęściej i tak nie tniemy niczego tak długiego, żeby wymagało całej płyty, i połówki nam wystarczają. Pilarka i szyna należą do pierwszej grupy z mojego podziału, czyli do narzędzi, które trzeba kupić dobre albo wypożyczyć. Podstawa pilarki musi być przystosowana do szyny, więc pilarkę i szyny najlepiej wziąć od tego samego producenta. W tym przypadku istnieją kompatybilne zestawy szyn innych producentów pasujących do pilarek innych producentów, więc jest lepiej niż w przypadku baterii, ale musicie to sprawdzić i zweryfikować na własną rękę. Nie jest też tak, że dowolne elektronarzędzie danego producenta będzie pasowało do szyn danego producenta. Zazwyczaj tylko jakieś konkretne serie pasują pod szynę, a innych w ogóle się nie da używać z szyną, więc sprawdźcie dwa razy, zanim kupicie.
+Nasza pilarka to przewodowy Bosch GKS 55+ GCE, a szyny to Bosch FSN 1600 i FSN 800 z łącznikiem. Razem są krótsze niż arkusz 2,5 m, ale brakujące centymetry dało się nadrobić samym rozmiarem pilarki bądź zagłębiarki. Wygodne to nie było: przy takim kombinowanym cięciu wzdłuż nie było jak zamontować ścisków, więc szynę trzeba było trzymać rękoma w dwie osoby. Nie polecam, lepiej kupić dłuższe. Chociaż szczerze powiedziawszy, najczęściej i tak nie tniemy niczego tak długiego, żeby wymagało całej płyty, i połówki nam wystarczają. Pilarka i szyna należą do pierwszej grupy z mojego podziału, czyli do narzędzi, które trzeba kupić dobre albo wypożyczyć. Podstawa pilarki musi być przystosowana do szyny, więc pilarkę i szyny najlepiej wziąć od tego samego producenta. W tym przypadku istnieją kompatybilne zestawy szyn innych producentów pasujących do pilarek innych producentów, więc jest lepiej niż w przypadku baterii, ale musicie to sprawdzić i zweryfikować na własną rękę. Nie jest też tak, że dowolne elektronarzędzie danego producenta będzie pasowało do szyn danego producenta. Zazwyczaj tylko jakieś konkretne serie pasują pod szynę, a innych w ogóle się nie da używać z szyną, więc sprawdźcie dwa razy, zanim kupicie.
 
 #### Wyrzynarka
 
@@ -200,7 +200,7 @@ Inaczej jest z oknami samochodowymi, wklejanymi bezpośrednio w karoserię. Pod 
 
 My większość kampera zrobiliśmy, używając ręcznego pistoletu. Akumulatorowy kupiliśmy dopiero pod montaż płytek winylowych, pod silikony, żeby spoiny wyglądały ładniej, i pod (przyszłe) okno w drzwiach przesuwnych.
 
-Nasz to Bosch GCG 18V-310, kosztował nas około 1 200 zł bez akumulatora. Sprawdzałem tańsze i każdy miał jakiś problem: ten jest najlepszy, jaki znalazłem, i jestem z niego zadowolony.
+Nasz to Bosch GCG 18V-310, kosztował nas około 1 200 zł bez akumulatora. Sprawdzaliśmy tańsze i każdy miał jakiś problem: ten jest najlepszy, jaki znaleźliśmy, i jestem z niego zadowolony.
 
 #### Młotek
 
@@ -220,9 +220,9 @@ Do elektryki potrzebujecie trzech narzędzi i tylko jednego z nich nie da się n
 
 **Zaciskarka** służy do mocowania tulejki na stałe na odsłoniętej końcówce żyły i tu zamiennika nie ma. Kombinerki tylko spłaszczą tulejkę i przewód da się potem z niej wyciągnąć, więc bez zaciskarki bezpiecznej instalacji elektrycznej w aucie po prostu nie zrobicie.
 
-W zestawie minimalnym wystarczy tania zaciskarka, byle tulejka była dobrana do przekroju przewodu. Ja na początku miałem trzy osobne chińskie narzędzia: obcinak, ściągacz i zaciskarkę.
+W zestawie minimalnym wystarczy tania zaciskarka, byle tulejka była dobrana do przekroju przewodu. My na początku mieliśmy trzy osobne chińskie narzędzia: obcinak, ściągacz i zaciskarkę.
 
-Po jakimś czasie zamieniłem je na jedno porządne narzędzie, które opisuję w zestawie optymalnym.
+Po jakimś czasie zamieniliśmy je na jedno porządne narzędzie, które opisuję w zestawie optymalnym.
 
 #### Tester gniazd
 
@@ -284,7 +284,7 @@ Arkusz sklejki musi na czymś leżeć, kiedy go tniecie. Da się to robić na zi
 
 Do cięcia całych arkuszy warto położyć pod sklejkę płytę styroduru, czyli twardej pianki izolacyjnej: piła wchodzi wtedy w piankę zamiast w stół, a arkusz jest podparty na całej długości.
 
-Drabina jest potrzebna do wszystkiego, co montuje się na dachu. Nasz Boxer ma prawie 2,8 m wysokości, a na dachu okna, wentylator i klimatyzację. Bez drabiny nie ma szans. Polecamy drabinę teleskopową zamiast zwykłej. Złożona ma niecały metr, więc mieści się w kamperze i po budowie może zostać z Wami. A na dach wchodzi się potem częściej, niż się wydaje: zimą zgarnąć śnieg, latem umyć panele, po drodze naprawić uszczelnienie wokół okna.
+Drabina jest potrzebna do wszystkiego, co montuje się na dachu. Nasz Boxer ma prawie 2,8 m wysokości, a na dachu okna, wentylator i klimatyzację. Bez drabiny nie ma szans. Polecam drabinę teleskopową zamiast zwykłej. Złożona ma niecały metr, więc mieści się w kamperze i po budowie może zostać z Wami. A na dach wchodzi się potem częściej, niż się wydaje: zimą zgarnąć śnieg, latem umyć panele, po drodze naprawić uszczelnienie wokół okna.
 
 #### Odkurzacz warsztatowy
 
@@ -340,7 +340,7 @@ My niestety nie sprawdziliśmy dokładności tuż po zakupie :/ Sprawdźcie wię
 
 W kamperze najbardziej ze wszystkich szlifierek przydaje się taśmowa, bo łatwo szlifuje duże powierzchnie, a odwrócona do góry nogami i przymocowana do stołu pozwala wygodnie szlifować małe elementy. O ile w ogóle będziecie jej potrzebować, bo jak kupicie ładną, dobrą sklejkę, to będzie gładziutka :)
 
-Szlifierka taśmowa zdziera materiał pętlą papieru ściernego, która biegnie po dwóch rolkach. Robi to szybko, więc na sklejce trzeba uważać: wierzchnia warstwa jest cienka i łatwo przeszlifować ją na wylot. Nasza to Parkside PBSD 900 A1, z marketu, jak wszystkie moje szlifierki, i w zupełności wystarcza. W zestawie ma nawet dwa ściski do mocowania jej do stołu.
+Szlifierka taśmowa zdziera materiał pętlą papieru ściernego, która biegnie po dwóch rolkach. Robi to szybko, więc na sklejce trzeba uważać: wierzchnia warstwa jest cienka i łatwo przeszlifować ją na wylot. Nasza to Parkside PBSD 900 A1, z marketu, jak wszystkie nasze szlifierki, i w zupełności wystarcza. W zestawie ma nawet dwa ściski do mocowania jej do stołu.
 
 Mamy też małą szlifierkę delta, czyli oscylacyjną z trójkątną stopą, która kształtem przypomina żelazko. Jej stopa nie kręci się, tylko drga, więc zbiera materiał wolno, ale czubkiem wchodzi w narożniki i wycięcia, do których taśmowa nie ma dostępu. Do dużych płaszczyzn się nie nadaje, bo trwałoby to wieki, za to do krawędzi i wnętrza szafki jest w sam raz. Papier do niej mocuje się na rzep.
 
@@ -348,7 +348,7 @@ Są jeszcze szlifierki mimośrodowe i takiej nie mamy. W mimośrodowych okrągł
 
 #### Ściągacz, zaciskarka i obcinak w jednym
 
-W zestawie minimalnym elektrykę robimy zaciskarką i nożykiem. Jak pisałem wyżej, ja zaczynałem właśnie tak, potem dokupiłem automatyczny ściągacz izolacji, a koniec końców zrobiłem upgrade i dziś używam Knipex NexStrip. To jedno narzędzie, które ściąga izolację, zaciska tulejki i tnie przewód. Kosztowało nas ponad 400 zł, ale jeśli robicie całą instalację sami, moim zdaniem naprawdę warto.
+W zestawie minimalnym elektrykę robimy zaciskarką i nożykiem. Jak pisałem wyżej, my zaczynaliśmy właśnie tak, potem dokupiliśmy automatyczny ściągacz izolacji, a koniec końców zrobiliśmy upgrade i dziś używamy Knipex NexStrip. To jedno narzędzie, które ściąga izolację, zaciska tulejki i tnie przewód. Kosztowało nas ponad 400 zł, ale jeśli robicie całą instalację sami, moim zdaniem naprawdę warto.
 
 Żeby było jasne: NexStrip nie robi niczego, czego nie zrobią tanie narzędzia. Automatyczny ściągacz za kilkadziesiąt złotych też sam dopasowuje się do grubości przewodu, a tania zaciskarka też zaciśnie tulejkę. Różnica jest w tym, że macie w ręku jedno narzędzie zamiast trzech. Przy każdej końcówce przewód trzeba uciąć, odizolować i zacisnąć, a końcówek w kamperze jest swobodnie ponad sto, więc często odkładanie jednego narzędzia i szukanie drugiego zajmuje w sumie więcej czasu niż sama robota :)
 
@@ -370,7 +370,7 @@ Multimetr wystarczy podstawowy, byle mierzył napięcie stałe i miał sygnał d
 
 #### Suwmiarka
 
-Nie jest konieczna, ale przydała mi się więcej razy, niż się spodziewałem. Mierzy to, czego linijką zmierzyć się nie da: średnicę wiertła, rury albo otworu, jego głębokość i grubość materiału, z dokładnością do dziesiątych części milimetra. W kamperze najczęściej chodzi o dobranie wiertła do nitonakrętki albo złączki do rury.
+Nie jest konieczna, ale przydała nam się więcej razy, niż się spodziewałem. Mierzy to, czego linijką zmierzyć się nie da: średnicę wiertła, rury albo otworu, jego głębokość i grubość materiału, z dokładnością do dziesiątych części milimetra. W kamperze najczęściej chodzi o dobranie wiertła do nitonakrętki albo złączki do rury.
 
 Wystarczy tania, byle metalowa, o zakresie 150 mm. Cyfrowa jest wygodniejsza, bo wynik czyta się z wyświetlacza.
 
@@ -438,9 +438,9 @@ Wiertarki kolumnowe są ogółem bardzo drogie, zwłaszcza w porównaniu z ręcz
 
 #### Piła stołowa i stół warsztatowy
 
-Piły stołowej nie mam i obie zabudowy powstały bez niej. Jej tarcza wystaje przez szczelinę w stole, a materiał pcha się po blacie przy prowadnicy, więc powtarzalnie tnie się na niej wąskie pasy, na przykład listwy tej samej szerokości. Trochę mi jej brakowało właśnie do tego zadania, ale nie mieliśmy już na nią miejsca :) Na szynie pasy też można uciąć, ale każdy trzeba odmierzać od nowa :/
+Piły stołowej nie mamy i obie zabudowy powstały bez niej. Jej tarcza wystaje przez szczelinę w stole, a materiał pcha się po blacie przy prowadnicy, więc powtarzalnie tnie się na niej wąskie pasy, na przykład listwy tej samej szerokości. Trochę nam jej brakowało właśnie do tego zadania, ale nie mieliśmy już na nią miejsca :) Na szynie pasy też można uciąć, ale każdy trzeba odmierzać od nowa :/
 
-Istnieją też stoły warsztatowe, do których narzędzie przykręca się pod blatem. Zwykła pilarka staje się w nich małą piłą stołową, a frezarka górnowrzecionowa staje się dolnowrzecionową. Taki stół to na przykład Wolfcraft MASTER cut. Sam żadnego nie mam, więc nie będę zachwalał. Na pewno warto wiedzieć o ich istnieniu, bo taki zestaw wychodzi taniej niż dedykowane narzędzia.
+Istnieją też stoły warsztatowe, do których narzędzie przykręca się pod blatem. Zwykła pilarka staje się w nich małą piłą stołową, a frezarka górnowrzecionowa staje się dolnowrzecionową. Taki stół to na przykład Wolfcraft MASTER cut. Sami żadnego nie mamy, więc nie będę zachwalał. Na pewno warto wiedzieć o ich istnieniu, bo taki zestaw wychodzi taniej niż dedykowane narzędzia.
 
 #### Wkrętak dynamometryczny
 
@@ -482,7 +482,7 @@ Górnowrzecionową trzyma się w rękach i prowadzi po elemencie od góry. Potra
 
 Z frezarką trzeba nauczyć się pracować: prowadzona w złą stronę może łatwo wyrwać się z rąk, więc z całego warsztatu to ona wymaga najwięcej wprawy.
 
-Nam przydała się głównie do otworów pod przewody w sklejce. Konkretnie prowadziłem nią przewód do spłuczki w toalecie: od tyłu, w ścianie z osiemnastki, czyli ze sklejki o grubości 18 mm. Dałoby się to zrobić narzędziem wielofunkcyjnym z zestawu minimalnego, tylko wolniej i mniej równo.
+Nam przydała się głównie do otworów pod przewody w sklejce. Konkretnie prowadziliśmy nią przewód do spłuczki w toalecie: od tyłu, w ścianie z osiemnastki, czyli ze sklejki o grubości 18 mm. Dałoby się to zrobić narzędziem wielofunkcyjnym z zestawu minimalnego, tylko wolniej i mniej równo.
 
 Nie zakładajcie też, że kupicie samą frezarkę i na tym koniec. Frezy są znacznie droższe od wierteł i znacznie bardziej wrażliwe na jakość wykonania. My kupiliśmy od razu zestaw trzydziestu frezów Boscha z chwytem 8 mm, czyli trzpieniem tej średnicy, którym mocuje się frez w maszynie. Chwyty są trzy: 6, 8 i 12 mm, a każdy potrzebuje we frezarce własnej tulejki zaciskowej. Nasza ma w komplecie tulejki 6 i 8 mm, a frez z chwytem 12 mm nie wejdzie do niej wcale. Zanim kupicie komplet frezów, sprawdźcie w instrukcji, jakie tulejki ma Wasza frezarka.
 
@@ -492,7 +492,7 @@ Nasza frezarka górnowrzecionowa to Bosch GOF 130.
 
 To frezarka zamontowana pod blatem, z frezem wystającym przez stół, nazywana też dolnowrzecionową. Materiał przesuwa się po stole wzdłuż prowadnicy, a narzędzie stoi w miejscu, więc łatwo powtórzyć ten sam profil krawędzi albo ten sam rowek na wielu elementach.
 
-Używaliśmy jej kilka razy, żeby coś podfrezować, znacznie mniej, niż myślałem. Nasza to Proma SF 40/1500. Kupiłem ją głównie dlatego, że Proma to znana czeska firma, która od lat sprzedaje maszyny do drewna i metalu i ma dobrą opinię. Ten model okazał się jednak dość mocno nietrafiony, a takie frezarki są ogółem drogie. System prowadnic jest w niej naprawdę kiepskiej jakości: plastikowe, niedokładne, mi jako laikowi praktycznie uniemożliwiały pracę :/ Potem sprawdziłem opinie i nie byłem sam. Plastikowa prowadnica to najczęstszy zarzut wobec tego modelu, a chwali się w nim głównie solidny żeliwny stół i to potwierdzam :)
+Używaliśmy jej kilka razy, żeby coś podfrezować, znacznie mniej, niż myślałem. Nasza to Proma SF 40/1500. Kupiliśmy ją głównie dlatego, że Proma to znana czeska firma, która od lat sprzedaje maszyny do drewna i metalu i ma dobrą opinię. Ten model okazał się jednak dość mocno nietrafiony, a takie frezarki są ogółem drogie. System prowadnic jest w niej naprawdę kiepskiej jakości: plastikowe, niedokładne, nam jako laikom praktycznie uniemożliwiały pracę :/ Potem sprawdziłem opinie i nie byliśmy sami. Plastikowa prowadnica to najczęstszy zarzut wobec tego modelu, a chwali się w nim głównie solidny żeliwny stół i to potwierdzam :)
 
 Jeśli mimo wszystko chcecie frezarkę stołową, przed zakupem obejrzyjcie właśnie prowadnicę. Ma być metalowa i sztywna, a po zablokowaniu nie może się ruszać ani odchodzić od ustawionego wymiaru.
 
@@ -524,9 +524,9 @@ Druga sprawa to promieniowanie ultrafioletowe. Rozbija ono długie łańcuchy cz
 
 Tyle teoria, a teraz uczciwie, jak jest u nas. Uchwyt anteny LTE/5G mamy z PLA i się nie rozpłynął, bo jest płaski i nie przenosi dużej siły, więc nie ma się pod czym wyginać. Uchwyty kamer na naszym dachu są z PETG i od zamontowania wytrzymały wszystko oprócz uderzenia w drzewo :) Oprócz nich wydrukowaliśmy sporo innych akcesoriów, w tym mniej obciążone łączniki do naszych profili aluminiowych. Używaliśmy tylko PLA i PETG, więc w praktyce z ich wytrzymałością nie jest tak źle jak w teorii.
 
-Nasza, już dość stara, drukarka to Flashforge Adventurer 3 i jej największą wadą jest pole robocze: zaledwie 15 na 15 na 15 cm, czyli bardzo mało. Uchwyt do Starlinka już się w niej nie zmieścił, nawet w częściach, i musiał mi go wydrukować kolega, który ma większą drukarkę. Za cenę naszej (niecałe 2000 zł) da się swobodnie kupić drukarkę z polem około 25 na 25 cm. Taka wystarcza już do większości rzeczy, a mnóstwo gotowych modeli projektuje się właśnie pod ten rozmiar, bo większość ludzi ma taką.
+Nasza, już dość stara, drukarka to Flashforge Adventurer 3 i jej największą wadą jest pole robocze: zaledwie 15 na 15 na 15 cm, czyli bardzo mało. Uchwyt do Starlinka już się w niej nie zmieścił, nawet w częściach, i musiał nam go wydrukować kolega, który ma większą drukarkę. Za cenę naszej (niecałe 2000 zł) da się swobodnie kupić drukarkę z polem około 25 na 25 cm. Taka wystarcza już do większości rzeczy, a mnóstwo gotowych modeli projektuje się właśnie pod ten rozmiar, bo większość ludzi ma taką.
 
-Swojej nie zmieniałem, chociaż chodzi mi to po głowie. Od znajomych i z internetu wiem, że dobrą opinię zbiera firma Bambu Lab. Jej drukarki są podobno mocno bezobsługowe, więc mało trzeba wiedzieć, żeby zacząć drukować :)
+Swojej nie zmienialiśmy, chociaż chodzi mi to po głowie. Od znajomych i z internetu wiem, że dobrą opinię zbiera firma Bambu Lab. Jej drukarki są podobno mocno bezobsługowe, więc mało trzeba wiedzieć, żeby zacząć drukować :)
 
 Ogółem to sprzęt, który warto mieć w domu, bo przyda się znacznie częściej niż tylko w kamperze. Do samego kampera kupować go nie trzeba, bo druk można swobodnie zamówić.
 
@@ -564,7 +564,7 @@ W kamperze niczego nie będziemy montować na wcisk. W domu przydaje się głów
 
 Nawet jeśli chcecie mieć w kamperze dużo elektroniki i rozwiązań smart, to dziś są to rzeczy tak ustandaryzowane, w dużej części bezprzewodowe i gotowe, że łączy się je ze sobą głównie na poziomie oprogramowania.
 
-Lutownica do elektryki nie przydała mi się ani razu, bo nie robimy tu elektroniki, tylko elektrykę, a przewody łączymy na tulejki i zaciski. Za to, co dość zabawne, używaliśmy jej do wypalania otworów w tapicerce z filcu :) Filc jest elastyczny, więc wkręt wkręcany prosto w niego nawijał materiał na siebie i ściągał go z kilku centymetrów dookoła. Wypalaliśmy więc najpierw końcówką lutownicy małą dziurkę i dopiero w nią wkręcaliśmy wkręt. Wychodziło to bardzo estetycznie. Tak samo wypalaliśmy dziurki pod oczka, czyli mosiężne kółeczka wzmacniające otwór w materiale, bo robiliśmy sporo pasków i uchwytów z takimi oczkami. To jednak dość niestandardowe zastosowanie lutownicy i na dobrą sprawę nada się do tego każdy rozgrzany gwóźdź albo pręt.
+Lutownica do elektryki nie przydała nam się ani razu, bo nie robimy tu elektroniki, tylko elektrykę, a przewody łączymy na tulejki i zaciski. Za to, co dość zabawne, używaliśmy jej do wypalania otworów w tapicerce z filcu :) Filc jest elastyczny, więc wkręt wkręcany prosto w niego nawijał materiał na siebie i ściągał go z kilku centymetrów dookoła. Wypalaliśmy więc najpierw końcówką lutownicy małą dziurkę i dopiero w nią wkręcaliśmy wkręt. Wychodziło to bardzo estetycznie. Tak samo wypalaliśmy dziurki pod oczka, czyli mosiężne kółeczka wzmacniające otwór w materiale, bo robiliśmy sporo pasków i uchwytów z takimi oczkami. To jednak dość niestandardowe zastosowanie lutownicy i na dobrą sprawę nada się do tego każdy rozgrzany gwóźdź albo pręt.
 
 ### Co zrobią za Was firmy
 

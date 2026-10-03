@@ -4,13 +4,13 @@ Woda w kamperze to kilka kłopotów naraz. Trzeba ją wozić, a każdy litr waż
 
 Woda ma też jedną wielką zaletę: widać ją, słychać i czuć na skórze. Prądu nie widać, więc w następnym rozdziale, o elektryce, będę go tłumaczył właśnie na przykładzie wody. Napięcie porównam do ciśnienia w rurze, a natężenie do tego, ile wody faktycznie płynie. Im lepiej zrozumiecie hydraulikę, tym łatwiej pójdzie Wam potem z prądem :)
 
-Ten rozdział jest wstępem do tematu. Nie znajdziecie tu schematu instalacji ani listy części, bo tym zajmiemy się w tomie drugim, o budowie. Tutaj chodzi o to, żebyście rozumieli, co się dzieje w zbiorniku, w rurach i w bojlerze, i umieli policzyć własne litry, kilogramy i energię.
+Ten rozdział jest wstępem do tematu. Nie znajdziecie tu schematu instalacji ani listy części, bo tym zajmę się w tomie drugim, o budowie. Tutaj chodzi o to, żebyście rozumieli, co się dzieje w zbiorniku, w rurach i w bojlerze, i umieli policzyć własne litry, kilogramy i energię.
 
 ## Woda jako ładunek
 
 ### Ile waży woda?
 
-**Litr wody waży kilogram.** Nie jest to przypadek, bo kilogram jako jednostkę zdefiniowano pod koniec XVIII wieku właśnie jako masę jednego litra. Będąc precyzyjnym — zgadza się to w temperaturze 4 °C, w której woda jest najgęstsza. W temperaturze pokojowej litr waży około 0,998 kg, a gorąca woda w bojlerze jest jeszcze lżejsza — 0,98 kg. Różnica jest marginalna, więc do planowania i w dalszej części książki przyjmujemy, że litr wody to kilogram.
+**Litr wody waży kilogram.** Nie jest to przypadek, bo kilogram jako jednostkę zdefiniowano pod koniec XVIII wieku właśnie jako masę jednego litra. Będąc precyzyjnym — zgadza się to w temperaturze 4 °C, w której woda jest najgęstsza. W temperaturze pokojowej litr waży około 0,998 kg, a gorąca woda w bojlerze jest jeszcze lżejsza — 0,98 kg. Różnica jest marginalna, więc do planowania i w dalszej części książki przyjmuję, że litr wody to kilogram.
 
 Przy zamawianiu zbiornika najłatwiej o tym zapomnieć. Zbiornik 60 l to około 60 kg zajętej przez wodę ładowności, 100 l to 100 kg i tak dalej. Oczywiście to masa samej wody — jeszcze przed doliczeniem wagi zbiorników, pompy, rur i bojlera, czyli ogrzewanego zbiornika ciepłej wody. W kamperze, w którym każdy kilogram się liczy, pełny zbiornik wody bywa największym pojedynczym ładunkiem, o którym decydujecie przed każdą trasą: zabrać go czy zatankować dopiero na miejscu.
 
@@ -165,7 +165,7 @@ Zmierzyć tego nie umieliśmy, choć manometr, czyli zegar pokazujący ciśnieni
 
 Moim zdaniem ta technologia jest po prostu jeszcze niedojrzała. Pompa musi zgadywać, ile kranów jest odkręconych, mając do dyspozycji tylko to, co sama widzi po swojej stronie rury. Lekko odkręcony kran bardzo łatwo pomylić z czymś zupełnie innym, na przykład z zaworem, który popuszcza, tak jak nasz przy bojlerze. 
 
-Dziś mamy prostszą pompę z obejściem, 7,5 l na minutę, i wróciliśmy do naczynia wyrównawczego, o którym za chwilę. Wniosek mamy taki sam jak przy każdym nowym sprzęcie: nie kupujcie pompy z serii, która jest na rynku od kilku miesięcy! My popełniliśmy ten błąd nie tylko przy pompie :)
+Dziś mamy prostszą pompę z obejściem, 7,5 l na minutę, i wróciliśmy do naczynia wyrównawczego, o którym za chwilę. Wniosek mam taki sam jak przy każdym nowym sprzęcie: nie kupujcie pompy z serii, która jest na rynku od kilku miesięcy! My popełniliśmy ten błąd nie tylko przy pompie :)
 
 ### Dlaczego cienka rura dławi prysznic?
 
@@ -278,7 +278,7 @@ Do tego rachunku potrzebujemy dwóch pojęć, które dokładnie omówię w nast�
 
 Nie ma przy tym żadnego znaczenia, czym grzejemy. Energia to energia, niezależnie od tego, czy pochodzi z baterii, czy ze spalania paliwa, i w obu przypadkach liczymy ją w tych samych watogodzinach. Każde paliwo ma swoją wartość opałową, czyli ilość energii, którą oddaje przy spaleniu. Litr oleju napędowego to około 10 kWh, a kilogram propanu z butli około 13 kWh. Piecyk na paliwo ma też moc w watach, tak samo jak grzałka. Mówi ona, jak szybko ta energia trafia do wody i powietrza. Różnica jest jedna: część ciepła ze spalania ucieka ze spalinami na zewnątrz, więc do wody trafia trochę mniej, niż było w paliwie.
 
-Ciepło potrzebne do ogrzania wody to masa razy ciepło właściwe razy przyrost temperatury, co zapisujemy wzorem E = m · c · ΔT. Dla wody wygodnie zapamiętać jedną liczbę: **ogrzanie litra wody o jeden stopień kosztuje około 1,16 Wh.** W rachunkach niżej bierzemy dokładniejsze 1,163, żeby zaokrągleń nie mnożyć przez litry i stopnie.
+Ciepło potrzebne do ogrzania wody to masa razy ciepło właściwe razy przyrost temperatury, co zapisujemy wzorem E = m · c · ΔT. Dla wody wygodnie zapamiętać jedną liczbę: **ogrzanie litra wody o jeden stopień kosztuje około 1,16 Wh.** W rachunkach niżej biorę dokładniejsze 1,163, żeby zaokrągleń nie mnożyć przez litry i stopnie.
 
 Policzmy bojler 10 l i wodę ogrzewaną z 10 do 80 °C, czyli o 70 stopni.
 
@@ -305,7 +305,7 @@ Czy 814 Wh to dużo? To zależy, skąd je bierzemy.
 2. Propan: 814 Wh : 13 000 Wh na kilogram ≈ 0,06 kg, czyli około 60 g. Butla 11 kg to ponad 170 bojlerów.
 3. Akumulator: kampery bardzo często mają akumulator 200 Ah przy 12 V, czyli 2400 Wh. Jeden bojler zabiera z niego jedną trzecią całego zapasu!
 
-To rachunki idealne i każde urządzenie zużyje trochę więcej, ale proporcje zostają. W paliwie gorący bojler to drobiazg, a w akumulatorze ogromny wydatek! W następnym rozdziale policzymy, że cały dobowy bilans energii wakacyjnego kampera, z lodówką, światłem i gotowaniem na gazie, zamyka się w około 1 kWh. Jeden bojler zagrzany prądem z baterii to prawie cały taki dzień. Dlatego wodę w kamperach grzeje się zwykle paliwem, a prądem głównie wtedy, gdy jest go w nadmiarze: na kempingu albo przy dużej instalacji słonecznej. Skąd wziąć te watogodziny i jakim kosztem, to już temat na elektrykę. Jakie urządzenia do grzania wody są do wyboru, porównujemy w tomie drugim, w rozdziale o instalacji wodnej.
+To rachunki idealne i każde urządzenie zużyje trochę więcej, ale proporcje zostają. W paliwie gorący bojler to drobiazg, a w akumulatorze ogromny wydatek! W następnym rozdziale policzę, że cały dobowy bilans energii wakacyjnego kampera, z lodówką, światłem i gotowaniem na gazie, zamyka się w około 1 kWh. Jeden bojler zagrzany prądem z baterii to prawie cały taki dzień. Dlatego wodę w kamperach grzeje się zwykle paliwem, a prądem głównie wtedy, gdy jest go w nadmiarze: na kempingu albo przy dużej instalacji słonecznej. Skąd wziąć te watogodziny i jakim kosztem, to już temat na elektrykę. Jakie urządzenia do grzania wody są do wyboru, porównuję w tomie drugim, w rozdziale o instalacji wodnej.
 
 ### Ile pryszniców mieści bojler?
 
@@ -360,7 +360,7 @@ Problem zniknął dopiero po wymianie pompy na model ze sterownikiem, a potem z 
 
 Przestroga z tej historii jest ogólna. **Każda zmiana w instalacji zmienia jej opory i rozkład ciśnień.** Inny bojler, dłuższa rurka, dodatkowy zawór albo inna słuchawka potrafią sprawić, że układ, który działał bez zarzutu, zaczyna sprawiać kłopoty, choć żaden jego element się nie zepsuł. Po każdej przeróbce sprawdzajcie prysznic, zanim zamkniecie zabudowę, bo szukanie przyczyny po fakcie kosztowało nas mnóstwo czasu.
 
-Dlatego bardzo polecamy pompy, które nie robią skoków ciśnienia, czyli pompy z obejściem. To sprawdzona technologia, a nie nowinka, która może się zepsuć tak jak nasza pompa ze sterownikiem. W wielu modelach da się też wyregulować zarówno ciśnienie, przy którym pompa się wyłącza, jak i moment, w którym otwiera się obejście, więc taką pompę można dostroić do własnej instalacji.
+Dlatego bardzo polecam pompy, które nie robią skoków ciśnienia, czyli pompy z obejściem. To sprawdzona technologia, a nie nowinka, która może się zepsuć tak jak nasza pompa ze sterownikiem. W wielu modelach da się też wyregulować zarówno ciśnienie, przy którym pompa się wyłącza, jak i moment, w którym otwiera się obejście, więc taką pompę można dostroić do własnej instalacji.
 
 Na etapie projektu pomagają jeszcze dwie rzeczy. Naczynie wyrównawcze stawiajcie zaraz za pompą, przed rozgałęzieniem na zimną i gorącą wodę, żeby łagodziło skoki po obu stronach jednakowo. Obie gałęzie prowadźcie rurkami o pasujących do siebie przekrojach.
 

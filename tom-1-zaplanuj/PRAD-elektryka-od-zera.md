@@ -4,7 +4,7 @@ Z wykształcenia jestem fizykiem i mechatronikiem — nie elektrykiem, ale zrobi
 
 Nigdy nie zapominajmy, że zarówno niskie stałe napięcie, jak i 230 V może być niebezpieczne! Pierwsze, mimo bycia bagatelizowanym, z powodu wysokich prądów płynących przez przewody, niesie ze sobą ryzyko przegrzań, a nawet pożarów! Drugie przy bezpośrednim kontakcie jest śmiertelne — tego chyba wszyscy jesteśmy świadomi.  
 
-Ten rozdział jest wstępem do tematu. Nie ma na celu przedstawić Wam katalogu sprzętu i konkretnych schematów. Tym zajmiemy się dopiero w kolejnym tomie tej książki. 
+Ten rozdział jest wstępem do tematu. Nie ma na celu przedstawić Wam katalogu sprzętu i konkretnych schematów. Tym zajmę się dopiero w kolejnym tomie tej książki. 
 
 Jeśli nie wiecie, czym się różni prąd od napięcia, do czego służy falownik w kamperze oraz dlaczego amperogodziny bez woltów za dużo nam nie mówią, to koniecznie przeczytajcie ten rozdział od deski do deski. Najlepiej dwa razy :)
 
@@ -16,11 +16,11 @@ Będę starał się opisać zjawiska fizyczne najbardziej obrazowo i najproście
 
 ### Co to jest prąd?
 
-Prąd elektryczny to uporządkowany ruch ładunków elektrycznych, w praktyce najczęściej elektronów. Płynie w przewodnikach, czyli materiałach, w których elektrony mogą się swobodnie przemieszczać. Przewodników jest wiele, ale skupimy się na metalach, bo to z nich zrobione są przewody w instalacjach elektrycznych.
+Prąd elektryczny to uporządkowany ruch ładunków elektrycznych, w praktyce najczęściej elektronów. Płynie w przewodnikach, czyli materiałach, w których elektrony mogą się swobodnie przemieszczać. Przewodników jest wiele, ale skupię się na metalach, bo to z nich zrobione są przewody w instalacjach elektrycznych.
 
 Metale mają szczególną budowę chemiczną. Każdy atom oddaje elektrony ze swojej ostatniej powłoki do wspólnej puli, tworzą one coś w rodzaju „chmury”, która swobodnie porusza się między atomami. Dopóki na elektrony nic nie oddziałuje z zewnątrz, poruszają się one chaotycznie — w losowych kierunkach. Gdy jednak do końców przewodu przyłożymy napięcie, na elektrony zaczyna działać siła i „chmura” dostaje jeden wspólny kierunek. To właśnie jest prąd.
 
-Ciekawostka: same elektrony wcale nie poruszają się z niesamowitymi prędkościami. W domowej instalacji przemieszczają się o ułamki milimetra na sekundę. Jednakże ich wspólny ruch propaguje się przez cały przewód niemal natychmiast. To jak z rurką pełną wody: naciskasz z jednej strony, a z drugiej woda wypływa natychmiast, choć żadna kropla nie przebyła całej rury :) Analogie z wodą są mocnym uproszczeniem, ale skoro hydraulikę macie już za sobą, będę do nich wracał, bo naprawdę dobrze obrazują temat. 
+Ciekawostka: same elektrony wcale nie poruszają się z niesamowitymi prędkościami. W domowej instalacji przemieszczają się o ułamki milimetra na sekundę. Jednakże ich wspólny ruch propaguje się przez cały przewód niemal natychmiast. To jak z rurką pełną wody: naciskacie z jednej strony, a z drugiej woda wypływa natychmiast, choć żadna kropla nie przebyła całej rury :) Analogie z wodą są mocnym uproszczeniem, ale skoro hydraulikę macie już za sobą, będę do nich wracał, bo naprawdę dobrze obrazują temat. 
 
 Druga ciekawostka: umownie przyjmuje się, że prąd płynie od plusa do minusa. Ustalono to, zanim odkryto elektron! Elektrony mają ładunek ujemny, więc naprawdę płyną w przeciwną stronę, od minusa (który je odpycha) do plusa (który je przyciąga).
 
@@ -117,7 +117,7 @@ Pierwszy: taki prąd po prostu wychodzi z elektrowni. Jak pisałem wyżej, prąd
 
 Drugi powód to transformator, czyli urządzenie, które tanio i niemal bez strat zmienia napięcie w górę lub w dół. Działa on tylko na prądzie przemiennym, a zmiana napięcia jest kluczowa przy przesyłaniu energii na duże odległości. Z poprzedniej sekcji wiemy, że ciepło tracone w przewodach rośnie z kwadratem natężenia. Tę samą moc 2300 W można przesłać jako 230 V i 10 A albo jako 23 000 V i 0,1 A. W drugim przypadku prąd jest sto razy mniejszy, więc straty w przewodach są dziesięć tysięcy razy mniejsze.
 
-Dzięki temu liniami wysokiego napięcia płynie prąd pod napięciem setek tysięcy woltów. W Polsce główne linie, te na największych słupach, pracują na 400 000 V i 220 000 V. Bliżej miast napięcie obniża się do 110 000 V, potem do kilkunastu tysięcy woltów, najczęściej 15 000 V, i tak energia dociera na osiedla i do wsi. Dopiero transformator stojący kilkaset metrów od domu obniża je do znanych nam 230 V. Dokładniej: wyprowadza trzy fazy po 230 V każda, a „siła”, czyli 400 V, to napięcie mierzone między dwiema fazami. Prądu trójfazowego w kamperach jednak nie będziemy stosować na pewno, więc nie będziemy go tu dokładniej omawiać :)
+Dzięki temu liniami wysokiego napięcia płynie prąd pod napięciem setek tysięcy woltów. W Polsce główne linie, te na największych słupach, pracują na 400 000 V i 220 000 V. Bliżej miast napięcie obniża się do 110 000 V, potem do kilkunastu tysięcy woltów, najczęściej 15 000 V, i tak energia dociera na osiedla i do wsi. Dopiero transformator stojący kilkaset metrów od domu obniża je do znanych nam 230 V. Dokładniej: wyprowadza trzy fazy po 230 V każda, a „siła”, czyli 400 V, to napięcie mierzone między dwiema fazami. Prądu trójfazowego w kamperach jednak nie będziemy stosować na pewno, więc nie będę go tu dokładniej omawiać :)
 
 #### Zamiana jednego prądu w drugi
 
@@ -135,7 +135,7 @@ Prostowanie jest proste, bo załatwia je jeden tani element: dioda. Dioda to ele
 
 Pojedyncza dioda po prostu odcina ujemną połowę sinusoidy, więc połowa energii się marnuje. Dlatego stosuje się cztery diody połączone w tak zwany „mostek”. Taki układ nie odcina ujemnej połowy, tylko ją odwraca. Na wyjściu prąd płynie już zawsze w jedną stronę, ale pulsuje: 100 razy na sekundę rośnie do szczytu i spada do zera. To właśnie przykład prądu zmiennego, który nie jest przemienny :)
 
-Pulsowanie wygładza kondensator, czyli element, który działa jak małe naczynie wyrównawcze. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócimy do tego niżej, przy napięciu instalacji „12 V”.
+Pulsowanie wygładza kondensator, czyli element, który działa jak małe naczynie wyrównawcze. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócę do tego niżej, przy napięciu instalacji „12 V”.
 
 ##### Falownik
 
@@ -176,7 +176,7 @@ Dlatego w pewnym momencie dokładanie miedzi przestaje mieć sens i producenci r
 
 W praktyce przyjmuje się prostą zasadę. Do około 2500 W wystarcza instalacja 12 V. Między 2500 a 4000 W warto przejść na 24 V. Powyżej zostaje już tylko 48 V. Na tabliczkach falowników zobaczycie te granice jako 3000 i 5000 VA. Czym jest VA i dlaczego ta liczba jest większa niż waty, wyjaśniam w następnej sekcji. 
 
-Wyższe napięcie akumulatora ma swoją cenę, bo lodówki, pompy i oświetlenie w kamperach są budowane na 12 V i trzeba je wtedy zasilać przez dodatkową przetwornicę obniżającą z 24 V czy 48 V do 12 V. Do tego wrócimy w tomie o budowie.
+Wyższe napięcie akumulatora ma swoją cenę, bo lodówki, pompy i oświetlenie w kamperach są budowane na 12 V i trzeba je wtedy zasilać przez dodatkową przetwornicę obniżającą z 24 V czy 48 V do 12 V. Do tego wrócę w tomie o budowie.
 
 ##### Sinus modyfikowany czy pełny sinus?
 
@@ -201,7 +201,7 @@ Stąd biorą się trzy rodzaje mocy:
 - **Moc bierna (Q), w warach (var).** Ta, która krąży tam i z powrotem i nic nie robi.
 - **Moc pozorna (S), w woltoamperach (VA).** To po prostu napięcie razy cały prąd płynący w przewodzie, bez sprawdzania, ile z niego naprawdę pracuje.
 
-Popularne porównanie to kufel piwa: piwo to moc czynna, piana to moc bierna, a pojemność kufla to moc pozorna. Płacisz za piwo, ale kufel musi pomieścić jedno i drugie. Porównanie kuleje w jednym miejscu: te moce nie dodają się wprost, tylko jak boki trójkąta prostokątnego, czyli S² = P² + Q². Przy 4000 W mocy czynnej i 3000 var biernej moc pozorna wynosi 5000 VA, a nie 7000.
+Popularne porównanie to kufel piwa: piwo to moc czynna, piana to moc bierna, a pojemność kufla to moc pozorna. Płacicie za piwo, ale kufel musi pomieścić jedno i drugie. Porównanie kuleje w jednym miejscu: te moce nie dodają się wprost, tylko jak boki trójkąta prostokątnego, czyli S² = P² + Q². Przy 4000 W mocy czynnej i 3000 var biernej moc pozorna wynosi 5000 VA, a nie 7000.
 
 Stosunek mocy czynnej do pozornej to współczynnik mocy, oznaczany cos φ. Czajnik ma 1, czyli waty i woltoampery są równe. Silniki i sprężarki mają zwykle od 0,6 do 0,8.
 
@@ -327,4 +327,4 @@ Przeczytajcie ten rozdział jeszcze raz. Serio :) Było tu sporo technikaliów, 
 
 Zróbcie też swoją kartkę z bilansem, żeby wiedzieć w ogóle, w jakie zapotrzebowanie energetycznie celujecie. 
 
-Konkretnym sprzętem, schematami i montażem zajmiemy się w tomie o budowie!
+Konkretnym sprzętem, schematami i montażem zajmę się w tomie o budowie!

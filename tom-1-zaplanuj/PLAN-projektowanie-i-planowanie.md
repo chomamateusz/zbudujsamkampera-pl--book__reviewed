@@ -2,7 +2,7 @@
 
 ## Czego używaliśmy do projektowania?
 
-Narzędzia do projektowania mieliśmy proste i było ich mało. Najważniejszy był arkusz kalkulacyjny. Policzyliśmy w Excelu wszystko, co miało wejść do środka, żeby zmieścić się w 3,5 t DMC. Układy rysowałem na kartce oraz w 2D w SketchUpie. Pełen rysunek 3D nigdy nie powstał, choć pierwotnie chciałem go wykonać.
+Narzędzia do projektowania mieliśmy proste i było ich mało. Najważniejszy był arkusz kalkulacyjny. Policzyliśmy w Excelu wszystko, co miało wejść do środka, żeby zmieścić się w 3,5 t DMC. Układy rysowaliśmy na kartce oraz w 2D w SketchUpie. Pełen rysunek 3D nigdy nie powstał, choć pierwotnie chcieliśmy go wykonać.
 
 ### Kartka i Excel to must have
 

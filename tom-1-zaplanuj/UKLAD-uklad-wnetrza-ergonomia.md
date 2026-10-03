@@ -4,7 +4,7 @@ Większość z nas, projektując wnętrze kampera, zastanawia się nad jednym: �
 
 Chciałbym Wam zaproponować inne pytanie: „czy w tym wnętrzu będzie czuć przestrzeń”.
 
-Przy mieszkaniu na stałe, z dużym prawdopodobieństwem, będziecie spędzać w środku większość czasu w dni robocze. Zdarzają się też całe tygodnie deszczu, kiedy z kampera praktycznie się nie wychodzi mimo chęci. Dlatego uważam, że warto się zastanowić nad tym, żebyśmy w naszym kamperze nie czuli się jak w klatce otoczeni szafkami ze wszystkich stron bez przestrzeni, żeby się przeciągnąć. Wiem, że kolejna szafka i kolejny sprzęt zazwyczaj wygrywają z poczuciem przestrzeni, i nie każdemu jego brak przeszkadza, ale uważam, że przynajmniej warto to wziąć pod uwagę i być tego świadomym przy projektowaniu.
+Przy mieszkaniu na stałe, z dużym prawdopodobieństwem, będziecie spędzać w środku większość czasu w dni robocze. Zdarzają się też całe tygodnie deszczu, kiedy z kampera praktycznie się nie wychodzi mimo chęci. Dlatego uważam, że warto się zastanowić nad tym, żebyście w Waszym kamperze nie czuli się jak w klatce otoczeni szafkami ze wszystkich stron bez przestrzeni, żeby się przeciągnąć. Wiem, że kolejna szafka i kolejny sprzęt zazwyczaj wygrywają z poczuciem przestrzeni, i nie każdemu jego brak przeszkadza, ale uważam, że przynajmniej warto to wziąć pod uwagę i być tego świadomym przy projektowaniu.
 
 W kampervanach zbudowanych na popularnych bazach, czyli autach ze względnie krótkim i wąskim wnętrzem, najbardziej na poczucie przestrzeni wpływa układ wnętrza. Zaryzykuję wręcz stwierdzenie, że układ ma większy wpływ na poczucie przestrzeni niż wybrana wersja długości nadwozia! Planując, najczęściej używamy rzutu z góry i w takiej perspektywie kompletnie nie widać tego, co najbardziej zaburza poczucie przestrzeni w środku, czyli tego, czy zabudowa staje na linii wzroku!
 
@@ -18,7 +18,7 @@ Trzeba otwarcie przyznać, że ten układ wyszedł nam trochę z przymusu, a nie
 Zebrałem tu układy, które powtarzają się w większości zabudów fabrycznych i często też samodzielnych. Przy każdym z tych układów postarałem się zebrać jego plusy i minusy, ale oczywiście są to tylko i wyłącznie moje opinie.
 
 Warto pójść w sprawdzony standardowy układ, jeśli zależy Wam na minimalizacji ilości potencjalnych błędów.
-Taką poradę znajdziecie w większości książek i poradników dotyczących budowy własnego kampervana i ja z tą opinią się zgadzam. Z drugiej strony chcę Was trochę zachęcić do eksperymentowania :) To przecież właśnie po to budujemy własnymi rękoma, żeby móc zrobić taki układ, jak pasuje nam. W takich układach na pewno popełnimy błędy. Prawie na pewno po wybudowaniu tego układu będziecie chcieli go poprawić albo, co gorsza, rozebrać i zbudować od nowa, ale uważam, że w tym tkwi piękno własnych konstrukcji. Nie bójcie się eksperymentować! Jednak zróbcie to z głową, żebyście nie musieli rozbierać Waszego układu jeszcze przed pierwszymi podróżami tak jak my.
+Taką poradę znajdziecie w większości książek i poradników dotyczących budowy własnego kampervana i ja z tą opinią się zgadzam. Z drugiej strony chcę Was trochę zachęcić do eksperymentowania :) To przecież właśnie po to budujecie własnymi rękoma, żeby móc zrobić taki układ, jak pasuje Wam. W takich układach na pewno popełnicie błędy. Prawie na pewno po wybudowaniu tego układu będziecie chcieli go poprawić albo, co gorsza, rozebrać i zbudować od nowa, ale uważam, że w tym tkwi piękno własnych konstrukcji. Nie bójcie się eksperymentować! Jednak zróbcie to z głową, żebyście nie musieli rozbierać Waszego układu jeszcze przed pierwszymi podróżami tak jak my.
 
 Warto też zaznaczyć, że mniej standardowe układy będzie prawdopodobnie też trudniej odsprzedać, jeśli kiedykolwiek mielibyście myśleć o sprzedaży Waszego kampera. Samoróbki same z siebie bardzo tracą na wartości, a niestandardowy układ jeszcze bardziej utrudni sprzedaż za rozsądne pieniądze :/
 
@@ -26,9 +26,9 @@ Warto też zaznaczyć, że mniej standardowe układy będzie prawdopodobnie też
 
 Cztery decyzje trzeba podjąć wcześniej, bo one skreślają część układów, zanim zaczniecie je porównywać.
 
-- **Ściana grodziowa** Ze ścianą szoferka jest osobnym pomieszczeniem. Dodatkowa ściana zaraz po prawej stronie, wchodząc do strefy mieszkalnej przez przesuwane drzwi, daje też możliwości aranżacji w tym miejscu łazienki bądź kuchni. Dzięki temu, patrząc na lewo od wejścia, widzimy więcej otwartej przestrzeni i mamy więcej ścian do postawienia szafek. Największym minusem jest to, że nie możecie używać foteli z szoferki do pracy czy jedzenia. Bez ściany dostajecie przejście, fotele obrotowe jako jadalnię i możliwość montażu drugiego rzędu siedzeń.
-- **Wakacje czy mieszkanie.** W takim trybie najczęściej nie będzie nam przeszkadzać brak przejścia pomiędzy szoferką a strefą mieszkalną, jeśli zdecydujemy się na ścianę grodziową. Tak naprawdę to przeszkadza tylko, kiedy jest bardzo zimno albo kiedy pada i koniecznie trzeba jechać. Jak nie ma miejsca, to w wakacyjnym trybie łóżko może być rozkładane, a prysznic można zrobić za pomocą kotary albo na zewnątrz.
-- **Długość i wysokość bazy.** L2 to wszystko na wcisk i często brak łazienki, L4 powinien pomieścić wszystko nawet dla 4 osób. Szerokość decyduje o łóżku w poprzek: w Ducato ma ono realnie około 185 cm, Sprinter i Crafter są węższe i zwykle potrzebują poszerzeń. Wysokość powinniśmy dopasować do wzrostu.
+- **Ściana grodziowa** Ze ścianą szoferka jest osobnym pomieszczeniem. Dodatkowa ściana zaraz po prawej stronie, wchodząc do strefy mieszkalnej przez przesuwane drzwi, daje też możliwości aranżacji w tym miejscu łazienki bądź kuchni. Dzięki temu, patrząc na lewo od wejścia, widzicie więcej otwartej przestrzeni i macie więcej ścian do postawienia szafek. Największym minusem jest to, że nie możecie używać foteli z szoferki do pracy czy jedzenia. Bez ściany dostajecie przejście, fotele obrotowe jako jadalnię i możliwość montażu drugiego rzędu siedzeń.
+- **Wakacje czy mieszkanie.** W takim trybie najczęściej nie będzie Wam przeszkadzać brak przejścia pomiędzy szoferką a strefą mieszkalną, jeśli zdecydujecie się na ścianę grodziową. Tak naprawdę to przeszkadza tylko, kiedy jest bardzo zimno albo kiedy pada i koniecznie trzeba jechać. Jak nie ma miejsca, to w wakacyjnym trybie łóżko może być rozkładane, a prysznic można zrobić za pomocą kotary albo na zewnątrz.
+- **Długość i wysokość bazy.** L2 to wszystko na wcisk i często brak łazienki, L4 powinien pomieścić wszystko nawet dla 4 osób. Szerokość decyduje o łóżku w poprzek: w Ducato ma ono realnie około 185 cm, Sprinter i Crafter są węższe i zwykle potrzebują poszerzeń. Wysokość powinniście dopasować do wzrostu.
 - **Ile osób jedzie, ile śpi.** Dwie osoby zmieszczą się w każdym układzie. Jeśli chodzi o większą ilość, to nie tylko potrzeba demontować tylny rząd siedzeń, ale zastanowić się, gdzie te osoby będą spały i tu najczęściej robi się już ciasno. Jeśli chcecie jeździć we dwoje, ale wolelibyście mieć tylną kanapę — istnieje pewien kompromis: zrobienie tylko dwóch miejsc do spania. W takim układzie pasażerowie z tylnej kanapy będą musieli zabrać ze sobą namiot na podróż z Wami, ale jeśli zazwyczaj jeździcie bez nich, to nie musicie wozić ze sobą dodatkowego łóżka i poświęcać na niego miejsca.
 
 ### Układy ze ścianą grodziową
@@ -40,7 +40,7 @@ Różnice między układami sprowadzają się do tego, co stoi przy tej ścianie
 
 Seryjnie prawie nikt tak nie buduje, to układ samoróbek i małych zabudowców. Wyjątkiem jest Freedo, marka córka polskiego producenta Affinity, pod którą powstają tańsze kampery, układem przypominające właśnie samoróbki.
 
-Za przykład do rysunku bierzemy więc: Freedo 541 HT — ma ścianę, kuchnię w poprzek tuż przy niej, łazienkę obok, z tyłu stałe łóżko, pod którym jest garaż.
+Za przykład do rysunku biorę więc: Freedo 541 HT — ma ścianę, kuchnię w poprzek tuż przy niej, łazienkę obok, z tyłu stałe łóżko, pod którym jest garaż.
 
 **Dla kogo:**
 
@@ -69,7 +69,7 @@ Bez ściany fotele z szoferki obracają się do środka i pracują jako jadalnia
 
 To najpopularniejszy układ fabrycznych kampervanów. Otwarta szoferka z fotelami obrotowymi, za nimi stolik i drugi rząd, czyli kanapa do jazdy, która na noc rozkłada się w dodatkowe spanie. Dalej, na środku długości auta, przy lewej ścianie stoi kabina z prysznicem i toaletą, a naprzeciwko kuchnia. Z tyłu łóżko zamontowane jest w poprzek, a pod nim garaż z dostępem tylnymi drzwiami oraz od wewnątrz.
 
-Za przykład do rysunku bierzemy Sunlight Cliff 600 na Boxerze o długości 599 cm: łazienka na środku po lewej stronie, kuchnia z lodówką po drugiej, łóżko poprzeczne nad garażem, cztery miejsca do jazdy i dwa do spania plus jedno rozkładane. To ten sam Cliff, który w wersji 4x4 na Transicie wspominałem przy wyborze bazy :)
+Za przykład do rysunku biorę Sunlight Cliff 600 na Boxerze o długości 599 cm: łazienka na środku po lewej stronie, kuchnia z lodówką po drugiej, łóżko poprzeczne nad garażem, cztery miejsca do jazdy i dwa do spania plus jedno rozkładane. To ten sam Cliff, który w wersji 4x4 na Transicie wspominałem przy wyborze bazy :)
 
 **Dla kogo:**
 
@@ -94,7 +94,7 @@ Za przykład do rysunku bierzemy Sunlight Cliff 600 na Boxerze o długości 599 
 
 Otwarta szoferka z fotelami obrotowymi i stolik, za nimi zwykle drugi rząd, a kuchnia stoi tam, gdzie zostaje miejsce: z boku albo w poprzek, tuż za tylną ławą, jak w Affinity One. Wysokie szafy i łazienka stoją na samym końcu auta. Łóżko francuskie, czyli nie na całą szerokość auta, leży wzdłuż przy jednej ścianie, a w wąskim aucie bywa wyginane i poszerzane. Łazienka zajmuje róg tyłu, tylko część szerokości, a reszta tyłu pracuje jako bagażnik z dostępem od tylnych drzwi.
 
-Za przykład do rysunku bierzemy Affinity One, cztery miejsca do jazdy i również cztery do spania. Mieszkałem w nim prawie miesiąc, więc ten układ znam od środka. Zbliżonym do tego układu seryjnym kamperem jest również Globe-Traveller Explorer XS.
+Za przykład do rysunku biorę Affinity One, cztery miejsca do jazdy i również cztery do spania. Mieszkałem w nim prawie miesiąc, więc ten układ znam od środka. Zbliżonym do tego układu seryjnym kamperem jest również Globe-Traveller Explorer XS.
 
 **Dla kogo:**
 
@@ -124,7 +124,7 @@ Niektórzy producenci rozwiązują ten problem podnoszonym dachem. Fragment dach
 
 W takim układzie obniżamy tylne poprzeczne łóżko kosztem przestrzeni bagażowej poniżej i tworzymy nad nim kolejny poziom, tworząc łóżko piętrowe.
 
-Za przykład do rysunku bierzemy Dethleffs Globetrail Active 600 KS, kampervan z największą liczbą miejsc do spania, jaką w życiu widziałem. W standardzie ma z tyłu dwa poprzeczne łóżka jedno nad drugim, razem cztery miejsca do spania. Do tego można dobrać dwie opcje: podnoszony dach (+2 osoby) i łóżko rozkładane z przedniej kanapy (+1 osoba). Można więc policzyć, że ten kampervan jest teoretycznie w stanie przenocować aż siedem osób naraz, mimo że jechać nim mogą „tylko” cztery :)
+Za przykład do rysunku biorę Dethleffs Globetrail Active 600 KS, kampervan z największą liczbą miejsc do spania, jaką w życiu widziałem. W standardzie ma z tyłu dwa poprzeczne łóżka jedno nad drugim, razem cztery miejsca do spania. Do tego można dobrać dwie opcje: podnoszony dach (+2 osoby) i łóżko rozkładane z przedniej kanapy (+1 osoba). Można więc policzyć, że ten kampervan jest teoretycznie w stanie przenocować aż siedem osób naraz, mimo że jechać nim mogą „tylko” cztery :)
 
 **Dla kogo:**
 
@@ -147,7 +147,7 @@ Za przykład do rysunku bierzemy Dethleffs Globetrail Active 600 KS, kampervan z
 
 Przód taki sam jak w dwóch poprzednich, łazienka na środku, a z tyłu łóżko leżące wzdłuż auta. Będąc bardziej precyzyjnym, to są najczęściej dwa łóżka, ustawione wzdłuż obok siebie, tworzące jedno większe. Cały sens tego układu jest jednak w tym, że każde z łóżek osobno da się podnieść do pionu wzdłuż dłuższej krawędzi, tak że stoi wzdłuż swojej ściany. Wtedy od tylnych drzwi w głąb auta otwiera się przejście na całą wysokość, a do środka wjeżdżają rowery, deski, narty albo cokolwiek, co nie zmieści się pod łóżkiem.
 
-Za przykład do rysunku bierzemy Carado CV640: łóżko wzdłuż, łazienka na środku i cztery miejsca do jazdy.
+Za przykład do rysunku biorę Carado CV640: łóżko wzdłuż, łazienka na środku i cztery miejsca do jazdy.
 
 **Dla kogo:**
 
@@ -170,7 +170,7 @@ Za przykład do rysunku bierzemy Carado CV640: łóżko wzdłuż, łazienka na �
 
 Nad strefą dzienną albo nad tyłem wisi łóżko podnoszone pod sufit. W dzień pod nim jest normalna przestrzeń, salon albo garaż, a na noc łóżko opada i opiera się na zabudowie. Mechanizm to gotowy system albo własna konstrukcja na silniku rurowym, takim jak do rolet, i moim zdaniem to bardzo trudna rzecz do zrobienia samemu.
 
-Za przykład do rysunku bierzemy Bürstner Eliseo C 644: salon w kształcie U z tyłu, nad nim opuszczane łóżko i cztery miejsca do jazdy.
+Za przykład do rysunku biorę Bürstner Eliseo C 644: salon w kształcie U z tyłu, nad nim opuszczane łóżko i cztery miejsca do jazdy.
 
 **Dla kogo:**
 
@@ -204,7 +204,7 @@ Do łazienki wchodzi się przejściem od strony sypialni, a od tylnych drzwi jes
 
 Łóżko wcale nie musi być szersze niż w innych układach, bo dzieli szerokość auta z przejściem do łazienki i z szafkami albo kuchnią wzdłuż ściany. Za to na noc może się rozsunąć i zająć przestrzeń, która w dzień służy za korytarz, więc w dzień macie przejście, a w nocy szerokie łóżko.
 
-Za przykład do rysunku bierzemy Affinity Duo, łóżko wzdłuż przed łazienką, rozsuwane na noc, osobny prysznic i dwa miejsca do jazdy.
+Za przykład do rysunku biorę Affinity Duo, łóżko wzdłuż przed łazienką, rozsuwane na noc, osobny prysznic i dwa miejsca do jazdy.
 
 **Dla kogo:**
 
