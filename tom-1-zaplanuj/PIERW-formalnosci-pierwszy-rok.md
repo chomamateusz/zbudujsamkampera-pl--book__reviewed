@@ -81,6 +81,8 @@ Często się mówi, że jeśli chodzi o przewóz psów, kotów lub innych zwierz
 
 Czyli obowiązku „psich pasów” w polskim prawie nie znajdziecie — i mandatu „za psa bez pasów” też nie ma. Są za to podstawy ogólne: 200 zł za używanie pojazdu w sposób zagrażający, 50–250 zł za brak ostrożności przy trzymaniu zwierzęcia (500 zł, gdy zwierzę zagraża zdrowiu), a przy realnym spowodowaniu zagrożenia na drodze taryfikator potrafi dołożyć 1000 zł. Tyle teoria — w praktyce, z naszego doświadczenia, kontroli tego tematu po prostu nie ma. U nas psy jeżdżą w szelkach. Mamy też krótkie smycze samochodowe przypięte do podstawy fotela. Myślę, że też musimy szczerze przyznać, że czasami psiaki tak się wiercą i plączą, że trzeba je odpiąć, ale staramy się robić co się da, żeby przewozić je bezpiecznie i komfortowo :) 
 
+O podróżach z psem za granicę — dokumentach, szczepieniach i pułapkach niektórych krajów — piszemy osobno w tomie trzecim.
+
 ### Dzieci
 
 Tu musimy najpierw rozbroić mit, bo pół internetu go powtarza: prawo wymaga, żeby dziecko do 150 cm wzrostu jechało w homologowanym foteliku albo innym urządzeniu przytrzymującym, to prawda, ale **nie ma ani słowa o tym, że musi to być ISOFIX** :)
