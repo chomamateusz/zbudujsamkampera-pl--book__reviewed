@@ -44,7 +44,7 @@ Opisuję tu narzędzia ręczne, które przesuwa się po nieruchomym materiale. P
 
 Materiał ma leżeć stabilnie i być przytrzymany ściskiem, który dociska element do stołu. Małego elementu nie przytrzymujcie dłonią tuż obok frezu albo tarczy. Jeśli ścisk się nie mieści, bo element jest za mały albo szczęka zasłaniałaby linię cięcia, przenieście siłę przez kolejną deseczkę: połóżcie na elemencie kawałek odpadu i ten kawałek przypnijcie ściskiem do stołu. Ścisk dociska deseczkę, deseczka element. Drobny element można też zakleszczyć między dwoma większymi odpadami przypiętymi do stołu i ciąć razem z nimi. Ręce trzymajcie zawsze poza linią cięcia — pamiętając, że narzędzie zawsze może nagle szarpnąć.
 
-Podparcia potrzebują obie części ciętego arkusza. Odcinany kawałek, który opada pod własnym ciężarem, wyrywa ostatnie włókna, zanim piła je przetnie. Arkusz położony na podporach (kobyłkach) ma jeszcze gorzej: między podporami nic go nie trzyma, więc nacisk piły go wygina, szczelina cięcia zamyka się i klinuje tarczę, a zakleszczona tarcza potrafi odrzucić piłę w stronę tego, kto ją trzyma.
+Podparcia potrzebują obie części ciętego arkusza. Odcinany kawałek, który opada pod własnym ciężarem, wyrywa ostatnie włókna, zanim piła je przetnie. Arkusz położony na podporach (kozłach) ma jeszcze gorzej: między podporami nic go nie trzyma, więc nacisk piły go wygina, szczelina cięcia zamyka się i klinuje tarczę, a zakleszczona tarcza potrafi odrzucić piłę w stronę tego, kto ją trzyma.
 
 Dlatego arkusz najlepiej położyć płasko na czymś, co ma kilka centymetrów grubości i czego nie szkoda naciąć: na kawałku styroduru, styropianu, starej płycie, czymkolwiek, co podeprze sklejkę na całej powierzchni. Wtedy możecie swobodnie naciskać piłą na materiał, szczelina nie ma jak się zamknąć, a obie części leżą po cięciu nieruchomo. Ponadto, kładąc arkusz płasko na stole z taką płytą podkładową pomiędzy, bardzo łatwo ścisnąć i unieruchomić arkusz za pomocą ścisków. Głębokość cięcia ustawcie według instrukcji piły, tak żeby tarcza wystawała spod sklejki tylko o kilka milimetrów i nacinała podkład zamiast stołu.
 
@@ -98,7 +98,7 @@ OSB, od angielskiego oriented strand board, to płyta z dużych, płaskich wiór
 
 ### Tworzywa: spienione PCV i laminat HPL
 
-Spienione PCV to płyta z tworzywa z pęcherzykami powietrza w środku, dlatego przy grubości 3–10 mm jest lekka, ok. 500–700 kg/m³, i sztywna na tyle, żeby stać jako ścianka. Nie chłonie wody w ogóle, nie gnije i nie puchnie, więc trafia do łazienek, pod prysznic i na szyldy. Cienką przetniecie nożem, grubszą zwykłą piłą. Ma za to trzy wady, które w aucie wychodzą szybko. Wkręt trzyma się w niej słabo, bo gwint siedzi w piance z tworzywa, więc każde mocowanie idzie przez otwór przelotowy i śrubę z podkładką. Rozszerza się od ciepła kilka razy bardziej niż drewno, więc długa płyta przykręcona sztywno wybrzusza się w upał. I mięknie w słońcu: nagrzana szyba i ciemna płyta pod nią to wygięty panel po jednym lecie.
+Spienione PCV to płyta z tworzywa z pęcherzykami powietrza w środku, dlatego przy grubości 3–10 mm jest lżejsza od litego tworzywa, ok. 500–700 kg/m³, czyli mniej więcej tyle co sklejka, i sztywna na tyle, żeby stać jako ścianka. Nie chłonie wody w ogóle, nie gnije i nie puchnie, więc trafia do łazienek, pod prysznic i na szyldy. Cienką przetniecie nożem, grubszą zwykłą piłą. Ma za to trzy wady, które w aucie wychodzą szybko. Wkręt trzyma się w niej słabo, bo gwint siedzi w piance z tworzywa, więc każde mocowanie idzie przez otwór przelotowy i śrubę z podkładką. Rozszerza się od ciepła kilka razy bardziej niż drewno, więc długa płyta przykręcona sztywno wybrzusza się w upał. I mięknie w słońcu: nagrzana szyba i ciemna płyta pod nią to wygięty panel po jednym lecie.
 
 Laminat HPL, od angielskiego high pressure laminate, to warstwy papieru nasączone żywicą i sprasowane pod wysokim ciśnieniem i w wysokiej temperaturze w jednolitą, twardą płytę. Występuje w dwóch postaciach. Cienki, poniżej milimetra, to okładzina, którą klei się na sklejkę albo płytę wiórową, żeby powierzchnia zniosła garnki, noże i mokre buty. Gruby, od ok. 6 do 13 mm, nazywany płytą kompaktową, jest samonośny: robi się z niego całe blaty, ścianki kabin prysznicowych i toalet publicznych, elewacje. Jest niemal niezniszczalny, nie chłonie wody i nie boi się szorowania.
 
@@ -118,7 +118,7 @@ Ma niestety trzy cechy, które dyskwalifikują jej użycie w przydomowym warszta
 
 ### Dlaczego samoróbki są ze sklejki
 
-Zdecydowana większość samodzielnie budowanych kamperów, nasz też, jest ze sklejki, i po tym przeglądzie pewnie już sami wiecie dlaczego :)
+Zdecydowana większość samodzielnie budowanych kamperów, nasz też, jest ze sklejki, i po tym przeglądzie pewnie już sami wiecie dlaczego :) U nas sklejka wypełnia szkielet z profili aluminiowych.
 
 Płyta wiórowa, MDF i OSB są o połowę cięższe od sklejki topolowej, puchną od wilgoci, której w aucie nie unikniecie, i słabo trzymają wkręt. Płyty warstwowe są trudne do obróbki w domowych warunkach. Sklejka jest lekka i trzyma wkręt między warstwami drewna. Dlatego dalej w tym rozdziale mówię wyłącznie o niej.
 
@@ -146,7 +146,7 @@ Sztywność płyty przy zginaniu rośnie z trzecią potęgą grubości. Porówna
 1. Stosunek grubości to 15 : 4 = 3,75.
 2. Trzecia potęga: 3,75 · 3,75 · 3,75 ≈ 53.
 
-Płyta 4 mm ugnie się więc około pięćdziesięciu razy bardziej niż płyta 15 mm! Ta liczba mówi o ugięciu, a nie o tym, kiedy płyta pęknie, i z niej wynika, na co która grubość. Czwórka jest świetna na boczki szafek, blendy i wszystko, co nie niesie obciążenia, bo nic się nie stanie, jeśli delikatnie ugnie się pod naciskiem dłoni. Nada się też na blat, pod warunkiem że będzie gęsto podparta: nasz stół to pojedyncza warstwa czwórki na podporach mniej więcej co 30 cm i jest zupełnie sztywny, a nasza podłoga to ta sama czwórka położona na pełnym podparciu z twardej pianki. Sklejka 15 czy 18 mm jest potrzebna dopiero tam, gdzie płyta ma sama, bez podparcia, unieść całego człowieka.
+Płyta 4 mm ugnie się więc około pięćdziesięciu razy bardziej niż płyta 15 mm! Ta liczba mówi o ugięciu, a nie o tym, kiedy płyta pęknie, i z niej wynika, która grubość na co. Czwórka jest świetna na boczki szafek, blendy i wszystko, co nie niesie obciążenia, bo nic się nie stanie, jeśli delikatnie ugnie się pod naciskiem dłoni. Nada się też na blat, pod warunkiem że będzie gęsto podparta: nasz stół to pojedyncza warstwa czwórki na podporach mniej więcej co 30 cm i jest zupełnie sztywny, a nasza podłoga to ta sama czwórka położona na pełnym podparciu z twardej pianki. Sklejka 15 czy 18 mm jest potrzebna dopiero tam, gdzie płyta ma sama, bez podparcia, unieść całego człowieka.
 
 ## Cięcie
 
@@ -178,7 +178,7 @@ Zanim zaczniecie ciąć, ustalcie, która strona każdej formatki będzie widocz
 
 Technikaliami tarcz nie ma się co przejmować, wystarczą dwie zasady. Po pierwsze, zęby mają być drobne, czyli przy tarczy 165 mm co najmniej ok. 40, a nie 12 czy 24 jak w tarczach z zestawu: drobny ząb bierze mały kęs i zostawia gładką krawędź, gruby wyrywa spory wiór i tnie szybko, ale brzydko. Po drugie, tarcza ma być dobrana do materiału, który tniecie. My tniemy prawie wyłącznie sklejkę i od czasu do czasu aluminium, więc naszą podstawową tarczą jest drobnozębna tarcza do sklejki i laminatów, i taką jedną, dobrą, kupilibyśmy, gdybyśmy mieli kupić tylko jedną. Aluminium tnijcie nią tylko wtedy, gdy producent to dopuszcza, bo do metali kolorowych robi się osobne tarcze o innym kształcie zębów.
 
-Jeśli macie zagłębiarkę i ukośnicę, jednej tarczy do obu i tak nie kupicie, bo najczęściej mają różne średnice: 165 mm w zagłębiarce, 216 albo 250 mm w ukośnicy. Większa tarcza ma dłuższy obwód, więc przy tej samej wielkości zęba mieści ich więcej. Liczbę zębów porównujcie więc tylko między tarczami tej samej średnicy.
+Jeśli macie zagłębiarkę i ukośnicę, jednej tarczy do obu i tak nie kupicie, bo najczęściej mają różne średnice, o których pisałem przy rzazie (nasza zagłębiarka ma nawet nietypowe 140 mm). Większa tarcza ma dłuższy obwód, więc przy tej samej wielkości zęba mieści ich więcej. Liczbę zębów porównujcie więc tylko między tarczami tej samej średnicy.
 
 ### Wyrzynarka
 
@@ -208,7 +208,7 @@ Głębokości otworu pilnuje ogranicznik, czyli pierścień zaciskany na wiertle
 
 ### Wkręt czy śruba
 
-Wkręt sam wycina sobie gwint w materiale, w który wchodzi: ma ostry koniec, gwint o dużym skoku i trzyma się drewna, płyty albo blachy. Śruba niczego nie wycina: ma tępy koniec i drobny, znormalizowany gwint (najczęściej „metryczny”). Taki gwint opisuje jedna liczba w milimetrach, na przykład M6 to śruba o średnicy 6 mm, i każda śruba M6 pasuje do każdej nakrętki M6, niezależnie od producenta. Śruba trzyma się więc tylko nakrętki albo otworu z takim samym gwintem. Potocznie jedno i drugie nazywa się „śrubką”, ale to dwa różne sposoby łączenia: wkręt łączy z materiałem, śruba ściska elementy między łbem a nakrętką.
+Wkręt sam wycina sobie gwint w materiale, w który wchodzi: ma ostry koniec, gwint o dużym skoku i trzyma się drewna, płyty albo blachy. Śruba niczego nie wycina: ma tępy koniec i drobny, znormalizowany gwint (najczęściej „metryczny”). Taki gwint opisuje jedna liczba w milimetrach, na przykład M6 to śruba o średnicy 6 mm. Każda śruba M6 o standardowym skoku gwintu pasuje do każdej nakrętki M6 o takim samym skoku, niezależnie od producenta. Skok to odległość między sąsiednimi zwojami gwintu: zwykła M6 ma skok 1 mm, a rzadziej spotykana M6 z drobnym gwintem, opisana jako M6×0,75, ma 0,75 mm i do zwykłej nakrętki nie wejdzie. Śruba trzyma się więc tylko nakrętki albo otworu z takim samym gwintem. Potocznie jedno i drugie nazywa się „śrubką”, ale to dwa różne sposoby łączenia: wkręt łączy z materiałem, śruba ściska elementy między łbem a nakrętką.
 
 ### Anatomia wkrętu
 
@@ -309,7 +309,7 @@ Drugi mechanizm to ruchy poprzeczne. Gwint jest równią pochyłą nawiniętą n
 
 Czy w takim wypadku wystarczy dokręcić mocniej? W metalu pomaga to tylko do pewnej granicy, a w drewnie zgniata podłoże jeszcze bardziej albo zrywa gwint, tak jak przy wkręcie dokręconym za mocno. W blasze grubości około milimetra gwint blachowkręta łapie na długości jednego zwoju albo krótszej, bo skok jego gwintu jest większy niż milimetr. Taki gwint łatwo zerwać przy dokręcaniu, a każde ponowne dokręcenie zużywa go bardziej.
 
-My niestety, zanim poznaliśmy nitonakrętki, których dziś użyłbym bezwzględnie przy każdym łączeniu mebli z karoserią, używaliśmy blachowkrętów. Całe meble nigdy się nam nie odkręciły, luzowały się za to drobniejsze elementy, zwłaszcza te często będące w ruchu. Arkusze sklejki przykręcone na drzwiach tylnych i bocznych odkręciły się po dwa razy każdy z nich. Odkręciła się też roleta drzwi bocznych :/ Naprawa była za każdym razem taka sama: otwór po blachowkręcie rozwierciliśmy do średnicy nitonakrętki, osadziliśmy ją i przykręciliśmy element z powrotem śrubą. Dobrze się składa, bo nitonakrętka potrzebuje otworu większego niż sama śruba, o grubość swojej tulejki. Stary otwór po wkręcie o średnicy późniejszej śruby jest więc w sam raz do rozwiercenia i naprawa trafia dokładnie w to samo miejsce :)
+Tam, gdzie nie daliśmy nitonakrętek, których dziś użyłbym przy każdym łączeniu mebli z karoserią, szły blachowkręty. Całe meble nigdy się nam nie odkręciły, luzowały się za to drobniejsze elementy, zwłaszcza te często będące w ruchu. Arkusze sklejki przykręcone na drzwiach tylnych i bocznych odkręciły się po dwa razy każdy z nich. Odkręciła się też roleta drzwi bocznych :/ Naprawa była za każdym razem taka sama: otwór po blachowkręcie rozwierciliśmy do średnicy nitonakrętki, osadziliśmy ją i przykręciliśmy element z powrotem śrubą. Dobrze się składa, bo nitonakrętka potrzebuje otworu większego niż sama śruba, o grubość swojej tulejki. Stary otwór po wkręcie o średnicy późniejszej śruby jest więc w sam raz do rozwiercenia i naprawa trafia dokładnie w to samo miejsce :)
 
 ## Rekomendacja autora
 
@@ -318,6 +318,6 @@ Gdybym zaczynał jeszcze raz, kupiłbym na start o jeden arkusz sklejki więcej,
 - przycięcie gumowej listwy na szynie i pierwsze proste cięcie z ustawioną głębokością, na podkładzie ze styroduru;
 - po której stronie moja piła zostawia wyrwania i jak wygląda krawędź odpadu obok szyny;
 - rzaz mojej tarczy, zmierzony na pasku odpadu, zapisany markerem na tarczy;
-- wiercenie z podłożonym podkładem i bez, żeby zobaczyć różnicę na własne oczy;
+- wiercenie z podłożonym podkładem i bez — żeby zobaczyć różnicę na własne oczy;
 - wkręt w lico, w krawędź i za blisko brzegu, z otworem pilotującym i bez, aż płyta pęknie;
 - łeb stożkowy bez pogłębienia i jedną nitonakrętkę z podkładką od spodu, dokręconą, rozkręconą i dokręconą znowu.

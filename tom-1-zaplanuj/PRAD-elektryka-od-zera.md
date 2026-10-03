@@ -135,7 +135,7 @@ Prostowanie jest proste, bo załatwia je jeden tani element: dioda. Dioda to ele
 
 Pojedyncza dioda po prostu odcina ujemną połowę sinusoidy, więc połowa energii się marnuje. Dlatego stosuje się cztery diody połączone w tak zwany „mostek”. Taki układ nie odcina ujemnej połowy, tylko ją odwraca. Na wyjściu prąd płynie już zawsze w jedną stronę, ale pulsuje: 100 razy na sekundę rośnie do szczytu i spada do zera. To właśnie przykład prądu zmiennego, który nie jest przemienny :)
 
-Pulsowanie wygładza kondensator, czyli element, który działa jak małe naczynie wyrównawcze. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócimy do tego przy akumulatorach.
+Pulsowanie wygładza kondensator, czyli element, który działa jak małe naczynie wyrównawcze. Napełnia się w szczytach i oddaje ładunek w dołkach. Za nim napięcie jest już prawie równe. Na koniec elektronika obniża je do wartości, której potrzebuje urządzenie, na przykład 5 V dla telefonu albo około 14 V dla akumulatora. Tak, 14 V dla akumulatora nazywanego dwunastowoltowym, to nie pomyłka :) Żeby „wtłoczyć” prąd do akumulatora, ładowarka musi dać napięcie wyższe niż jego własne. Wrócimy do tego niżej, przy napięciu instalacji „12 V”.
 
 ##### Falownik
 
@@ -176,7 +176,7 @@ Dlatego w pewnym momencie dokładanie miedzi przestaje mieć sens i producenci r
 
 W praktyce przyjmuje się prostą zasadę. Do około 2500 W wystarcza instalacja 12 V. Między 2500 a 4000 W warto przejść na 24 V. Powyżej zostaje już tylko 48 V. Na tabliczkach falowników zobaczycie te granice jako 3000 i 5000 VA. Czym jest VA i dlaczego ta liczba jest większa niż waty, wyjaśniam w następnej sekcji. 
 
-Wyższe napięcie akumulatora ma swoją cenę, bo lodówki, pompy i oświetlenie w kamperach są budowane na 12 V i trzeba je wtedy zasilać przez dodatkową przetwornicę obniżającą z 24 V czy 48 V do 12 V. Do tego wrócimy przy planowaniu instalacji.
+Wyższe napięcie akumulatora ma swoją cenę, bo lodówki, pompy i oświetlenie w kamperach są budowane na 12 V i trzeba je wtedy zasilać przez dodatkową przetwornicę obniżającą z 24 V czy 48 V do 12 V. Do tego wrócimy w tomie o budowie.
 
 ##### Sinus modyfikowany czy pełny sinus?
 
@@ -205,13 +205,13 @@ Popularne porównanie to kufel piwa: piwo to moc czynna, piana to moc bierna, a 
 
 Stosunek mocy czynnej do pozornej to współczynnik mocy, oznaczany cos φ. Czajnik ma 1, czyli waty i woltoampery są równe. Silniki i sprężarki mają zwykle od 0,6 do 0,8.
 
-Dlaczego falownik w ogóle opisuje się w VA? Bo prąd bierny, choć nie pracuje, naprawdę płynie. Grzeje przewody i elektronikę inwertera dokładnie tak samo, jak prąd czynny, zgodnie z tym, co pisałem w sekcji o grzaniu przewodów. Granicą inwertera jest więc prąd, jaki potrafi przenieść, a to właśnie mówi liczba w VA. Przykład: sprężarka o mocy 1000 W i cos φ = 0,7 zajmuje w falowniku 1000 / 0,7, czyli około 1430 VA. 
+Dlaczego falownik w ogóle opisuje się w VA? Bo prąd bierny, choć nie pracuje, naprawdę płynie. Grzeje przewody i elektronikę falownika dokładnie tak samo, jak prąd czynny, zgodnie z tym, co pisałem w sekcji o grzaniu przewodów. Granicą falownika jest więc prąd, jaki potrafi przenieść, a to właśnie mówi liczba w VA. Przykład: sprężarka o mocy 1000 W i cos φ = 0,7 zajmuje w falowniku 1000 / 0,7, czyli około 1430 VA. 
 
-W praktyce oznacza to dwie osobne rachuby. Wielkość inwertera dobieramy w VA, bo musi udźwignąć cały prąd. Zużycie energii z akumulatora liczymy w watach, bo tylko moc czynna go opróżnia.
+W praktyce oznacza to dwie osobne rachuby. Wielkość falownika dobieramy w VA, bo musi udźwignąć cały prąd. Zużycie energii z akumulatora liczymy w watach, bo tylko moc czynna go opróżnia.
 
 Falownik opisany jako 5000 VA daje realnie około 4000 W mocy czynnej. Samych jednostek nie mam o co winić, ale strasznie nie lubię tego, jak producenci eksponują je na pudełku — tam zawsze ląduje większa liczba, a waty trzeba wyszukać w tabelce drobnym drukiem.
 
-Druga pułapka z tej samej rodziny to moc szczytowa. Silnik w chwili rozruchu pobiera przez ułamek sekundy nawet kilka razy więcej prądu niż w czasie normalnej pracy, więc inwerter musi umieć na moment oddać dużo więcej, niż wynosi jego moc ciągła. To ważny i potrzebny parametr. Część tańszych producentów podaje jednak moc szczytową, dostępną przez ułamek sekundy, tak jakby była mocą znamionową, dostępną godzinami. Papier przyjmie wszystko, więc sprawdzajcie obie liczby.
+Druga pułapka z tej samej rodziny to moc szczytowa. Silnik w chwili rozruchu pobiera przez ułamek sekundy nawet kilka razy więcej prądu niż w czasie normalnej pracy, więc falownik musi umieć na moment oddać dużo więcej, niż wynosi jego moc ciągła. To ważny i potrzebny parametr. Część tańszych producentów podaje jednak moc szczytową, dostępną przez ułamek sekundy, tak jakby była mocą znamionową, dostępną godzinami. Papier przyjmie wszystko, więc sprawdzajcie obie liczby.
 
 ### Watogodziny na co dzień
 
@@ -247,11 +247,11 @@ I tu zaczyna się kłopot w kamperze. Przy mieszkaniu na stałe, zimą albo przy
 
 Teraz trochę praktyki: ile prądu naprawdę zjadają sprzęty w kamperze. Liczby pochodzą z naszych pomiarów, a nie z kart katalogowych. Muszę Was jednak uprzedzić, że jesteśmy dość prądożerni. Mieszkamy i pracujemy w kamperze na stałe, więc nasze zużycie jest wyraźnie wyższe niż w przeciętnym kamperze wakacyjnym. Przy każdej pozycji piszę, co jest u nas niestandardowe.
 
-- **Praca zdalna dwóch osób**, czyli trzy laptopy i dwa duże monitory: około 1 kWh na 8 godzin pracy. To jest ta liczba, przed którą ostrzegał rozdział o filozofii, mówiąc, że monitory są bardzo prądożerne. Niestandardowe są tu właśnie monitory i 3 laptopy (ja pracuję na 2 naraz). Sam jeden laptop ładowany raz dziennie to zwykle około 100 Wh.
+- **Praca zdalna dwóch osób**, czyli trzy laptopy i dwa duże monitory: około 1 kWh na 8 godzin pracy. To jest ta liczba, przed którą ostrzegał rozdział o tym, czy to życie jest dla Was, mówiąc, że monitory są bardzo prądożerne. Niestandardowe są tu właśnie monitory i 3 laptopy (ja pracuję na 2 naraz). Sam jeden laptop ładowany raz dziennie to zwykle około 100 Wh.
 - **Lodówka:** około 600 Wh na dobę. Mamy dużą jak na kampera lodówkę domową, zasilaną z 230 V. Typowa kamperowa lodówka kompresorowa na 12 V zużywa mniej więcej połowę tego.
 - **Mały serwer smart home**, czyli niewielki komputer w trybie oszczędzania: ledwie około 8 W, ale przez dobę robi z tego około 200 Wh. Jedna trzecia lodówki!
 - **Starlink Mini:** teoretycznie do 40 W, realnie około 20 W. Nie włączamy go na 24h, bo najczęściej mamy zasięg sieci komórkowej.
-- **Router i kamery:** po kilka watów każde, ale również przez całą dobę.
+- **Router i kamery:** router kilkanaście watów, kamery po kilka, ale również przez całą dobę.
 - **Wentylator dachowy:** od kilku watów na najniższym biegu do kilkudziesięciu na najwyższym.
 - **Oświetlenie LED:** kilkanaście do kilkudziesięciu watów, gdy świeci się wszystko naraz. To akurat pozycja, którą ma każdy kamper.
 - **Płyta indukcyjna:** łącznie ponad 3 kW. Większość kamperów gotuje na gazie i tej pozycji nie ma wcale.
@@ -264,7 +264,7 @@ Teraz trochę praktyki: ile prądu naprawdę zjadają sprzęty w kamperze. Liczb
 
 Jest pozycja, o której zapomina prawie każdy, bo powstaje wtedy, kiedy śpimy. Noc wydaje się czasem, w którym kamper nie zużywa nic. Tymczasem wiatrak kręci się dalej, router pracuje, lodówka pracuje, a falownik pobiera swoje, nawet jeśli nic nie jest do niego podłączone. U nas składa się to na około 1 kWh, czyli około 10% naszego banku, zanim w ogóle wstaniemy z łóżka :/
 
-To klasyczni maratończycy: każde z tych urządzeń bierze niewiele, ale osiem godzin to dużo czasu. Najbardziej boli to zimą, kiedy słabe słońce przez cały dzień może nie oddać nawet tego, co uciekło w nocy.
+Każde z tych urządzeń bierze niewiele, ale osiem godzin to dużo czasu. Najbardziej boli to zimą, kiedy słabe słońce przez cały dzień może nie oddać nawet tego, co uciekło w nocy.
 
 Swój nocny wyciek zmierzycie bardzo prosto. Zapiszcie wskazanie licznika wieczorem, przed snem, i rano, zaraz po przebudzeniu. Różnica to energia, która uciekła, kiedy nikt niczego nie używał.
 
@@ -292,7 +292,7 @@ Dla Polski wygląda to mniej więcej tak:
 
 | Dzień | Godziny pełnego słońca | Z paneli 400 W |
 | --- | --- | --- |
-| Bardzo słoneczny, lato | około 5 | około 2 kWh |
+| Bardzo słoneczny, lato | około 5–6 | 2–2,4 kWh |
 | Przeciętny letni | 3–4 | 1,2–1,6 kWh |
 | Wiosna i jesień | około 2 | około 0,8 kWh |
 | Zima | poniżej 1 | 0,2–0,4 kWh |

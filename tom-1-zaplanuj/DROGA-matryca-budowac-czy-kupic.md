@@ -64,7 +64,7 @@ Ciekawsze od szacunków jest jednak zderzenie planów z rzeczywistością. Z bud
 
 Dla porównania z pozostałymi ścieżkami: gotowiec nowy i używana samoróbka to czas „od ręki”, a odświeżenie starego gotowca znacznie mniej pracy i to rozłożonej na etapy.
 
-Typowa zabudowa dla niedoświadczonej osoby zajmuje około 1 000 roboczogodzin — czyli 63 weekendy po 8 godzin pracy dziennie. To ponad rok życia weekendowego budowniczego, i to bez ani jednego wolnego weekendu! Dokładając popołudnia, przyspieszycie — ale jak widać wyżej, i tak zwykle wychodzi ponad rok.
+Szacuję, że typowa zabudowa dla niedoświadczonej osoby zajmuje około 1 000 roboczogodzin — czyli 63 weekendy po 8 godzin pracy dziennie. To ponad rok życia weekendowego budowniczego, i to bez ani jednego wolnego weekendu! Dokładając popołudnia, przyspieszycie — ale jak widać wyżej, i tak zwykle wychodzi ponad rok.
 
 O tym, jak przy tym nie zwariować, w następnym rozdziale.
 
@@ -74,7 +74,7 @@ To po co w ogóle budować? Zalety opisałem z pierwszej ręki na początku rozd
 
 Zalety:
 
-- najtańsze wejście w pełnoprawnego kampera (o ile macie gotówkę, bo ciężej tu o finansowanie jak leasing);
+- najtańsza droga do kampera skrojonego pod siebie (o ile macie gotówkę, bo ciężej tu o finansowanie jak leasing);
 - dopasowanie zabudowy do Waszego stylu życia;
 - serwisowalność — znacie każdy kabel i zakamarek;
 - wiedza i doświadczenie, która zostaje;
@@ -107,7 +107,7 @@ Nie wiecie, czy elektryka jest zrobiona porządnie, czy „jakoś działa”. Ni
 
 Dotyczy to też mniejszych i nieznanych firm tworzących zabudowy komercyjnie, ale tam przynajmniej dostaniecie umowę i FV (a przynajmniej mam nadzieję, że dostaniecie :)).
 
-Druga pułapka to papiery: czy ten kamper jest w ogóle zarejestrowany jako kamper („specjalny kempingowy”)? Często takie auta formalnie wciąż są ciężarówkami a na umowie kupna-sprzedaży będzie tylko model auta bez słowa o zabudowie. Do tych kwestii wrócimy jeszcze w rozdziale o formalnościach, a do ubezpieczeń w tomie trzecim.
+Druga pułapka to papiery: czy ten kamper jest w ogóle zarejestrowany jako kamper („specjalny kempingowy”)? Często takie auta formalnie wciąż są ciężarówkami a na umowie kupna-sprzedaży będzie tylko model auta bez słowa o zabudowie. W dowodzie patrzcie też na DMC: bywa mniejsze niż 3,5 t. Do tych kwestii wrócimy jeszcze w rozdziale o formalnościach, a do ubezpieczeń w tomie trzecim.
 
 Jeśli kusi Was używany kamper, ale cudza zabudowa budzi właśnie takie obawy, przeczytajcie od razu ścieżkę piątą: tam zabudowę robiła fabryka, więc pierwsza i druga pułapka maleją, za to rośnie wiek auta i sprzętu.
 
@@ -137,7 +137,7 @@ Dla kogo nie:
 
 ### Ścieżka 3: kupujecie nowego gotowca z fabryki
 
-Najpierw liczby, żebyśmy wiedzieli, o jakich kwotach rozmawiamy. Do każdej grupy cenowej przypisałem jeden model, który według mnie jest najciekawszy w grupie.
+Najpierw liczby (ceny katalogowe, 2026), żebyśmy wiedzieli, o jakich kwotach rozmawiamy. Do każdej grupy cenowej przypisałem jeden model, który według mnie jest najciekawszy w grupie.
 
 Małe bazy:
 - **Karmann-Mobil Duncan 535** na Fordzie Transicie — nowy za około 300 tysięcy złotych;
@@ -185,7 +185,7 @@ Dla kogo nie:
 
 Co, jeśli chcecie gotowy, ale jednak skrojony pod Was? Istnieją firmy, które robią zabudowy customowe, ale uwaga! Bardzo duża część firm nie pozwala wybrać i zaprojektować całej zabudowy, tylko tworzą zabudowę według jednego z ich gotowych projektów. Nadal możecie wybrać osprzęt, ale nie zmienicie za bardzo układu wnętrza. Jest bardzo mało firm, które są w stanie wykonać wszystko dla Was. Ma to prostą przyczynę. Mało kto z zamawiających chce dopłacać za to, że wykonawca musi stworzyć dla niego cały projekt od podstaw oraz spędzić długie godziny na dogranie wszystkich szczegółów zabudowy.  
 
-Ile to kosztuje? Zależy jaką zabudowę chcemy. Najtańsze zabudowy zaczynają się od 100–150 tysięcy złotych w zależności od sprzętu a kończą nawet na 500 tysiącach, jeśli chcemy aluminiowe meble przystosowane do wersji terenowej. Oczywiście do tego musimy mieć nadal własne auto — czyli całość ląduje realnie w okolicach ceny najtańszych gotowców poprzedniej ścieżki. Realna opcja na obniżenie ceny to kupno nie nowej, a używanej bazy. 
+Ile to kosztuje? Zależy jaką zabudowę chcemy. Na moje oko, w 2026 roku najtańsze zabudowy zaczynają się od 100–150 tysięcy złotych w zależności od sprzętu a kończą nawet na 500 tysiącach, jeśli chcemy aluminiowe meble przystosowane do wersji terenowej. Oczywiście do tego musimy mieć nadal własne auto — czyli całość ląduje realnie w okolicach ceny najtańszych gotowców poprzedniej ścieżki. Realna opcja na obniżenie ceny to kupno nie nowej, a używanej bazy. 
 
 Teraz kuszący wariant pośredni, który bywa — „sam nie umiem wszystkiego, to pozlecam po kawałku różnym fachowcom: stolarzowi meble, elektrykowi prąd, hydraulikowi wodę” — w praktyce się nie sprawdza. Budujący musi być „wielobranżystą”, bo inaczej koordynacja zabija projekt. W kamperze wszystko przenika się ze wszystkim: kabel czy rura idzie przez szafkę, ogrzewanie musi być rozprowadzone, a każdy fachowiec zna tylko swoją działkę i swoje standardy — z budownictwa domowego, nie kamperowego. Ktoś musi trzymać całość w głowie. Jeśli to nie jesteście Wy albo jedna odpowiedzialna za całość firma — to nikt :/
 
@@ -241,17 +241,17 @@ Oczywiście nie ma szans rozbierać ściany przed zakupem. Da się za to zmierz
 
 Druga pułapka to baza: najczęściej trafi się Ducato — X244 z lat mniej więcej 2002–2006 albo X250 z lat 2006–2014 — i w obu przypadkach niski przebieg nie zastępuje serwisu. Kampery najczęściej będą posiadane przez osoby prywatne i bardzo często nie będą miały pełnej dokumentacji serwisowej. Sprinter i Transit wymagają równie dokładnego oglądania pod kątem rdzy. Przejedźcie się też takim autem przed zakupem, bo hałas i hamowanie wychodzą w trasie, nie na zdjęciach.
 
-Trzecia pułapka to znowu waga, bo stare kampery na 3,5 t potrafią mieć bardzo mało ładowności — w szczególności po dołożonych przez właścicieli solarach na dachu oraz dodatkowych akumulatorach. Cztery miejsca w dowodzie nie oznaczają, że cztery osoby z bagażem pojadą legalnie. Tak jak przy każdym zakupie: zważcie auto, zanim kupicie :)
+Trzecia pułapka to znowu waga, bo stare kampery na 3,5 t potrafią mieć bardzo mało ładowności — w szczególności po dołożonych przez właścicieli solarach na dachu oraz dodatkowych akumulatorach. Cztery miejsca w dowodzie nie oznaczają, że cztery osoby z bagażem pojadą legalnie. Stare gotowce bywają też zarejestrowane z DMC poniżej 3,5 t. Sprawdźcie to w dowodzie. Tak jak przy każdym zakupie: zważcie auto, zanim kupicie :)
 
 Czwarta pułapka to wiek instalacji w szczególności elektrycznej i gazowej.
 
-Używany kamper najczęściej ma instalacje 12 V zasilaną z akumulatora oraz 230 V działającą po podłączeniu się kablem do prądu na kempingu. Jeśli jest 230 V warto sprawdzić, czy jest wyłącznik różnicowoprądowy — jeśli go nie ma warto dołożyć. Sprawdźcie różnicówkę i testerem każde gniazdko. Gniazda 230 V wewnątrz nie oznaczają posiadania przez auto przetwornicy — bez niej prąd płynie w nich tylko po podłączeniu do słupka. Po stronie 12 V pracuje akumulator mieszkalny najczęściej będzie to zwykły akumulator ołowiowy o względnie niskiej pojemności do 100 Ah — stare modele zakładały, że wyłącznie oświetlenie, pompa wody i ewentualnie wentylator pracuje na prąd — reszta, w tym lodówka (!) na gaz bez elektronicznego sterowania. Zdarzają się też światła ze zwykłymi żarówkami, które od razu powinniście zamienić na LED-owe, żeby akumulator starczał na dłużej.
+Używany kamper najczęściej ma instalacje 12 V zasilaną z akumulatora oraz 230 V działającą po podłączeniu się kablem do prądu na kempingu. Jeśli jest 230 V warto sprawdzić, czy jest wyłącznik różnicowoprądowy — jeśli go nie ma warto dołożyć. Sprawdźcie różnicówkę i testerem każde gniazdko. Gniazda 230 V wewnątrz nie oznaczają, że auto ma falownik — bez niego prąd płynie w nich tylko po podłączeniu do słupka. Po stronie 12 V pracuje akumulator mieszkalny najczęściej będzie to zwykły akumulator ołowiowy o względnie niskiej pojemności do 100 Ah — stare modele zakładały, że wyłącznie oświetlenie, pompa wody i ewentualnie wentylator pracuje na prąd — reszta, w tym lodówka (!) na gaz bez elektronicznego sterowania. Zdarzają się też światła ze zwykłymi żarówkami, które od razu powinniście zamienić na LED-owe, żeby akumulator starczał na dłużej.
 W instalacji elektrycznej starzeje się najbardziej akumulator i połączenia. Wraz z tym, że często instalacje były projektowane wyłącznie pod zasilanie oświetlenia, najprawdopodobniej w ścianie możecie się spodziewać cienkich przewodów, które prawdopodobnie bezpiecznie nie obsłużą urządzeń wysokiej mocy. Dla przykładu nowoczesna ładowarka do laptopa (Power Delivery USB-C) potrafi mieć ponad 120–140 W i wtedy kablem płynie ponad 10 A — to dużo dla cienkiego kabla.
 
 Z gazem jest dość przewrotnie, bo stacja kontroli pojazdów nie bada mieszkalnej instalacji gazowej, więc formalnie nikt nie sprawdzi, jak jest zrobiona. Co oczywiście nie znaczy, że to jest rozsądne i bezpieczne :) Wyjątkiem jest stały zbiornik LPG do ogrzewania: podlega Transportowemu Dozorowi Technicznemu i musi przechodzić badanie co rok, a co 6 lat dokładniejsze, z próbą ciśnieniową.
 Najważniejsze części, które się starzeją, to: reduktor, gumowe węże i osobno butle. Na reduktorze i wężu znajdziecie datę produkcji: na wężu jest nadrukowana co kilkadziesiąt centymetrów, na reduktorze powinna być na tabliczce. Guma starzeje się i pęka niezależnie od tego, ile gazu przez nią przeszło, więc po dziesięciu latach, nawet bez użytkowania, producent nie gwarantuje szczelności. W starym kamperze najbezpieczniej wymienić jedno i drugie przed pierwszym wyjazdem. 
 Butle mają własną datę: na kołnierzu wybity jest rok i miesiąc ostatniego badania, ważnego dziesięć lat. Przy zwykłych butlach na wymianę pilnuje tego rozlewnia, więc stare po prostu wymienicie na pełne — tych terminów nie przenoście jednak na węże i reduktor.
-Istnieje europejska norma EN 1949 dla takich instalacji, ale jest dobrowolna, więc polskie serwisy najczęściej badają według zasad niemieckich. Najpopularniejsza jest tzw. karta robocza DVGW G 607, która w oparciu o EN 1949 reguluje wymagania dotyczące elementów i działania instalacji gazowej. Warto je wykonywać najlepiej co roku albo raz na dwa lata, bo tyle według niemieckiej karty roboczej badanie jest ważne. Co prawda w Polsce nikt nie będzie od Was wymagał takich badań, ale niektóre linie promowe i kempingi za granicą potrafią o taki certyfikat zapytać, a na promie i tak każą zakręcić butle na czas rejsu. 
+Istnieje europejska norma EN 1949 dla takich instalacji, ale jest dobrowolna, więc polskie serwisy najczęściej badają według zasad niemieckich. Najpopularniejsza jest tzw. karta robocza DVGW G 607, która na podstawie EN 1949 reguluje wymagania dotyczące elementów i działania instalacji gazowej. Warto je wykonywać najlepiej co roku albo raz na dwa lata, bo tyle według niemieckiej karty roboczej badanie jest ważne. Co prawda w Polsce nikt nie będzie od Was wymagał takich badań, ale niektóre linie promowe i kempingi za granicą potrafią o taki certyfikat zapytać, a na promie i tak każą zakręcić butle na czas rejsu. 
 
 #### Bilans ścieżki 5
 
@@ -279,4 +279,4 @@ Dla kogo nie:
 - potrzebujecie przewidywalnego wydatku;
 - chcecie zamieszkać na stałe od pierwszego dnia bez niespodzianek;
 - lubicie nowoczesne rozwiązania, asystentów kierowcy, światła LED itp;
-- chcecie wjeżdżać do miast — stare auto nie wjedzie do stref ekologicznych.
+- chcecie wjeżdżać do miast — stare auto może nie wjechać do stref czystego transportu (sprawdźcie zasady miasta).

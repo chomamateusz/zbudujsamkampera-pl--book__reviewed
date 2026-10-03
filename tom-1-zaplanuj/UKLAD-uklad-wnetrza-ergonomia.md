@@ -162,7 +162,7 @@ Za przykład do rysunku bierzemy Carado CV640: łóżko wzdłuż, łazienka na �
 
 **Minusy:**
 
-- stałe łóżko wzdłuż zjada 190–200 cm długości auta, a w poprzek tylko około 120 cm, dlatego ten układ potrzebuje długiej bazy i zostawia mało miejsca poza łóżkiem.
+- stałe łóżko wzdłuż zjada 190–200 cm długości auta, a w poprzek tylko 120–160 cm (zależnie od tego, jak szerokie chcecie mieć łóżko), dlatego ten układ potrzebuje długiej bazy i zostawia mało miejsca poza łóżkiem.
 
 #### Łóżko opuszczane z sufitu
 
@@ -190,7 +190,7 @@ Za przykład do rysunku bierzemy Bürstner Eliseo C 644: salon w kształcie U z 
 
 #### Otwarty przód bez przeróbki szoferki
 
-W praktycznie każdym z powyższych układów można też zostawić fabryczne fotele: kierowca plus ława pasażera albo ława zamieniona na pojedynczy fotel. Ściana grodziowa nadal wylatuje, więc do środka wchodzi więcej światła, przestrzeń jest otwarta. Przejście z szoferki do części mieszkalnej jest możliwe, choć mniej wygodne. Inwestycja w szoferkę jest mała albo zerowa, bo nie kupujecie obrotnic ani nowych foteli z homologacją.
+W praktycznie każdym z powyższych układów można też zostawić fabryczne fotele: kierowca plus ława pasażera albo ława zamieniona na pojedynczy fotel. Zmiana ławy na fotel to już potencjalne formalności. Ściana grodziowa nadal wylatuje, więc do środka wchodzi więcej światła, przestrzeń jest otwarta. Przejście z szoferki do części mieszkalnej jest możliwe, choć mniej wygodne. Inwestycja w szoferkę jest mała albo zerowa, bo nie kupujecie obrotnic ani nowych foteli z homologacją.
 
 Minus jest jeden: fotele bez obrotnic nie będą miejscem siedzącym przy stole ani miejscem do pracy, więc trzeba pomyśleć o dodatkowej ławie/siedzeniach z tyłu. Na szczęście, jeśli taka ława nie służy do jazdy, możecie ją wykonać w dowolny sposób i nie potrzebujecie żadnych elementów z homologacją.
 
@@ -214,7 +214,7 @@ Za przykład do rysunku bierzemy Affinity Duo, łóżko wzdłuż przed łazienk�
 **Plusy:**
 
 - łazienka z prysznicem, toaletą i umywalką osobno;
-- szersze łóżko;
+- łóżko, które na noc rozsuwa się na całą szerokość przejścia;
 - wnętrze zostaje otwarte, bez szafy na środku.
 
 **Minusy:**
@@ -246,4 +246,4 @@ Nie zakładam, że po przeczytaniu katalogu wiecie już, czy chcecie ścianę gr
 
 Jeszcze lepszy sposób to wynająć kamper w układzie, który Was kusi, na tydzień: po kilku nocach wiecie, ile razy dziennie coś przestawiacie i czy Was to wkurza.
 
-Cztery pytania z początku rozdziału znajdą po takich testach odpowiedzi same :)
+Cztery decyzje z początku rozdziału po takich testach podejmą się same :)

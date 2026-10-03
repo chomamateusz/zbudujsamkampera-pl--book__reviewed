@@ -2,28 +2,28 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 261 167 słów ≈ 653 stron (zatwierdzone: 86 042 słów ≈ 215 stron, 32.9%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 261 202 słów ≈ 653 stron (zatwierdzone: 86 077 słów ≈ 215 stron, 33.0%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 368 z 85 368 słów (100%) — 32.7% książki
+## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 403 z 85 403 słów (100%) — 32.7% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
 | JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 337 | 1 | 0.4% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
 | ONAS | 1 | [Wstęp](tom-1-zaplanuj/ONAS-o-nas.md) | 4678 | 12 | 5.5% | 1.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
-| BOXER | 2 | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3239 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
-| FILO | 3 | [Czy to życie jest dla Was?](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6904 | 17 | 8.1% | 2.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
-| PIERW | 4 | [Formalności życia w trasie](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 11 | 5.2% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
-| DROGA | 5 | [Budować, zlecić czy kupić?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4067 | 10 | 4.8% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
-| MANIF | 6 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2418 | 6 | 2.8% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
-| BAZA | 7 | [Jakie auto wybrać?](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 276 | 26 | 12.0% | 3.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
-| PRAWO | 8 | [Prawo, rejestracja, akcyza](tom-1-zaplanuj/PRAWO-formalnosci-prawo-homologacje.md) | 8771 | 22 | 10.3% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | ✓ | – |
+| BOXER | 2 | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3218 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
+| FILO | 3 | [Czy to życie jest dla Was?](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6867 | 17 | 8.0% | 2.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
+| PIERW | 4 | [Formalności życia w trasie](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4474 | 11 | 5.2% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
+| DROGA | 5 | [Budować, zlecić czy kupić?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4109 | 10 | 4.8% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
+| MANIF | 6 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2429 | 6 | 2.8% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
+| BAZA | 7 | [Jakie auto wybrać?](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 331 | 26 | 12.1% | 4.0% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
+| PRAWO | 8 | [Prawo, rejestracja, akcyza](tom-1-zaplanuj/PRAWO-formalnosci-prawo-homologacje.md) | 8648 | 22 | 10.1% | 3.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | ✓ | – |
 | PLAN | 9 | [Projektowanie i planowanie](tom-1-zaplanuj/PLAN-projektowanie-i-planowanie.md) | 1387 | 3 | 1.6% | 0.5% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PLAN) | ✓ | – |
-| UKLAD | 10 | [Układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 3257 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |
-| WARSZ | 11 | [Warsztat do budowy](tom-1-zaplanuj/WARSZ-warsztat-do-budowy.md) | 13 300 | 33 | 15.6% | 5.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | ✓ | – |
-| STOL | 12 | [Stolarka od zera](tom-1-zaplanuj/STOL-stolarka-od-zera.md) | 7283 | 18 | 8.5% | 2.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | ✓ | – |
-| HYDRO | 13 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8839 | 22 | 10.4% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
-| PRAD | 14 | [Elektryka od zera](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6135 | 15 | 7.2% | 2.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
+| UKLAD | 10 | [Układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 3280 | 8 | 3.8% | 1.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |
+| WARSZ | 11 | [Warsztat do budowy](tom-1-zaplanuj/WARSZ-warsztat-do-budowy.md) | 13 305 | 33 | 15.6% | 5.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | ✓ | – |
+| STOL | 12 | [Stolarka od zera](tom-1-zaplanuj/STOL-stolarka-od-zera.md) | 7341 | 18 | 8.6% | 2.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | ✓ | – |
+| HYDRO | 13 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8855 | 22 | 10.4% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
+| PRAD | 14 | [Elektryka od zera](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6144 | 15 | 7.2% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/17 rozdziałów, 337 z 104 008 słów (0%) — 39.8% książki
 

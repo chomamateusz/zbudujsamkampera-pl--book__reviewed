@@ -53,7 +53,7 @@ Ten sam rachunek dla trzech pomp, które mieliśmy:
 | 11 l na minutę | około 22 l | około 52 l | nieco ponad 2 dni |
 | 7,5 l na minutę | około 15 l | około 38 l | 3 dni |
 
-Powyższe obliczenia zgadzają się z tym, czego doświadczyliśmy w podróżach. Przy pompie 11 l czasem udało się zrobić 6 pryszniców i wody wystarczało na trzy dni. Z najsłabszą pompą praktycznie zawsze mamy zasób na 6 pryszniców :)
+Powyższe obliczenia zgadzają się z tym, czego doświadczyliśmy w podróżach. Przy pompie 11 l, gdy oszczędzaliśmy, czasem udało się zrobić 6 pryszniców i wody wystarczało na trzy dni. Z najsłabszą pompą praktycznie zawsze mamy zasób na 6 pryszniców :)
 
 Na początek wybrałbym wolniejszą pompę, w okolicach 8 l na minutę. Z nią zbiornik starcza na dłużej, a do słabszego strumienia przyzwyczaicie się w kilka dni. Jeśli po pierwszych wyjazdach okaże się, że wody zostaje Wam za dużo, pompę zawsze można wymienić na mocniejszą. 
 
@@ -71,7 +71,7 @@ Z tego samego powodu zbiornik niski i szeroki jest lepszy od wysokiego i wąskie
 
 Jest jeszcze jedna rzecz, której nie widać przy projektowaniu: woda w zbiorniku się rusza. W zbiorniku napełnionym częściowo woda przelewa się na zakręcie na bok, a przy hamowaniu do przodu, i za każdym razem uderza w ściankę. Dla auta to niewielki kłopot, dla zbiornika i jego mocowania duży. Kilkadziesiąt kilogramów wody rozpędzonej przy hamowaniu szarpie uchwytami dużo mocniej niż ta sama woda stojąca w miejscu. Mocowanie liczcie więc dla pełnego zbiornika i z zapasem, a nie „na styk”.
 
-Pomagają przegrody w środku zbiornika, czyli falochrony, które dzielą go na komory i nie pozwalają wodzie się rozpędzić. Nasz jachtowy zbiornik je ma i bardzo je sobie chwalimy :)
+Pomagają przegrody w środku zbiornika, czyli falochrony, które dzielą go na komory i nie pozwalają wodzie się rozpędzić. Nasz jachtowy zbiornik szarej wody je ma i bardzo je sobie chwalimy :)
 
 ## Ciśnienie i przepływ
 
@@ -104,7 +104,7 @@ Skoro wysokość daje ciśnienie, nasuwa się pomysł: postawić zbiornik na dac
 1. Dno zbiornika na dachu jest około 2,7 m nad ziemią, a podłoga zabudowy około 0,6 m, więc zbiornik stoi jakieś 2,1 m nad podłogą.
 2. Kran w kuchni jest na wysokości blatu, około 0,9 m nad podłogą. Różnica poziomów to 2,1 − 0,9 = 1,2 m, czyli 1,2 · 0,098 ≈ 0,12 bar.
 3. Słuchawka prysznica wisi na wysokości głowy, około 1,9 m nad podłogą. Zostaje 2,1 − 1,9 = 0,2 m, czyli 0,02 bar.
-4. Dla porównania pompa ciśnieniowa pracuje przykładowo między 1,4 a 2,8 bar, a domowy kran ma 2–4 bar.
+4. Dla porównania pompy ciśnieniowe wyłączają się zwykle przy 1,4–2,8 bar, a domowy kran ma 2–4 bar.
 
 Z kranu w kuchni woda więc popłynie, tyle że leniwym strumieniem, jak z turystycznego worka zawieszonego na drzewie. Pod prysznicem będzie ledwie kapać, bo słuchawka wisi prawie na wysokości zbiornika. I to zanim odliczycie straty w rurach, o których za chwilę. Żeby grawitacja dała tyle, co pompa, zbiornik musiałby wisieć czternaście metrów nad kranem!
 
@@ -124,7 +124,7 @@ Wynika z tego zasada, o której warto pamiętać przy każdej pompie. Żeby wtł
 
 Na pudełku pompy stoją zwykle dwie liczby: maksymalny przepływ i maksymalne ciśnienie. Pułapka polega na tym, że nigdy nie występują razem.
 
-Nasza obecna pompa ma w nazwie 7,5 l na minutę i 1,4 bar. Pierwszą liczbę osiąga przy swobodnym wypływie, gdy woda leci prosto z rurki i nic jej nie hamuje. Druga to ciśnienie, przy którym pompa sama się wyłącza, czyli chwila, w której nie płynie już nic. Prawdziwa instalacja pracuje gdzieś pomiędzy. Im większy opór stawiają rury, bateria i słuchawka, tym wyższe ciśnienie musi wytworzyć pompa i tym mniej wody przepycha. Pod prysznicem nie dostajemy więc 7,5 l na minutę, tylko mniej.
+Nasza obecna pompa (stan na 2026 rok) ma w nazwie 7,5 l na minutę i 1,4 bar. Pierwszą liczbę osiąga przy swobodnym wypływie, gdy woda leci prosto z rurki i nic jej nie hamuje. Druga to ciśnienie, przy którym pompa sama się wyłącza, czyli chwila, w której nie płynie już nic. Prawdziwa instalacja pracuje gdzieś pomiędzy. Im większy opór stawiają rury, bateria i słuchawka, tym wyższe ciśnienie musi wytworzyć pompa i tym mniej wody przepycha. Pod prysznicem nie dostajemy więc 7,5 l na minutę, tylko mniej.
 
 Prawdziwy przepływ w gotowej instalacji zmierzycie kanistrem i stoperem. Odkręćcie prysznic na maksimum, napełnijcie kanister 10 l i zmierzcie czas. Jeśli wyjdzie 100 sekund, macie 10 : 100 · 60 = 6 l na minutę.
 
@@ -145,7 +145,7 @@ Pompą steruje presostat, czyli wyłącznik ciśnieniowy. Wyłącza pompę, gdy 
 
 W zamian dostajecie wygodę jak w domu: normalne baterie i normalny domowy prysznic. Ceną jest to, że instalacja jest stale pod ciśnieniem, więc każda nieszczelność od razu cieknie. Wyciek potrafi uruchamiać pompę pod Waszą nieobecność — co przewrotnie jest też najlepszym sposobem na wykrycie nawet niewielkiego wycieku. Jeśli Wasza pompa się uruchamia, kiedy krany nie są otwarte, to prawie na pewno gdzieś macie wyciek. 
 
-Drugi kłopot pojawia się przy lekko odkręconym kranie. Wody ubywa powoli, więc pompa co chwilę dobija do progu, wyłącza się i zaraz włącza znowu. Widzimy to jako pulsowanie wody — przez chwilę leci jej więcej, przez chwilę mniej. Producenci radzą sobie z tym na trzy sposoby. Pierwszy to naczynie wyrównawcze, o którym za chwilę. Drugi to obejście wewnątrz pompy, po angielsku bypass: przy małym poborze zawór w pompie puszcza część wody z powrotem na stronę ssawną, więc pompa pracuje dalej równo, zamiast się wyłączać. Tak działa nasza obecna pompa. Trzeci to elektronika, która zmienia obroty silnika. Najprostsze pompy w ogóle tego nie mają, droższe mają bypass, a najdroższe regulują obroty.
+Drugi kłopot pojawia się przy lekko odkręconym kranie. Wody ubywa powoli, więc pompa co chwilę dobija do progu, wyłącza się i zaraz włącza znowu. Widzimy to jako pulsowanie wody — przez chwilę leci jej więcej, przez chwilę mniej. Producenci radzą sobie z tym na trzy sposoby. Pierwszy to naczynie wyrównawcze (w sklepach: przeponowe albo wzbiorcze), o którym za chwilę. Drugi to obejście wewnątrz pompy, po angielsku bypass: przy małym poborze zawór w pompie puszcza część wody z powrotem na stronę ssawną, więc pompa pracuje dalej równo, zamiast się wyłączać. Tak działa nasza obecna pompa. Trzeci to elektronika, która zmienia obroty silnika. Najprostsze pompy w ogóle tego nie mają, droższe mają bypass, a najdroższe regulują obroty.
 
 #### Instalacja bezciśnieniowa
 
@@ -336,7 +336,7 @@ Mieszacz termostatyczny siedzi za bojlerem, na drodze do kranów, i pilnuje temp
 
 Potocznie na mieszacz termostatyczny bardzo często mówi się po prostu „termostat”, a na baterię prysznicową z takim mieszaczem „bateria z termostatem”. Gdy więc ktoś radzi Wam „załóżcie termostat”, prawie na pewno ma na myśli mieszacz, a nie część bojlera :)
 
-Po co w ogóle trzymać w bojlerze wodę gorętszą, niż da się używać? Po pierwsze dla pojemności, którą policzyliśmy wyżej, po drugie dla higieny. Ciepła, ale nie gorąca woda to ulubione środowisko bakterii. Dlatego Światowa Organizacja Zdrowia zaleca, żeby ciepłą wodę trzymać w bojlerze w co najmniej 60 °C, a zimną poniżej 20 °C. 
+Po co w ogóle trzymać w bojlerze wodę gorętszą, niż da się używać? Po pierwsze dla pojemności, którą policzyliśmy wyżej, po drugie dla higieny. Ciepła, ale nie gorąca woda to ulubione środowisko bakterii. Dlatego Światowa Organizacja Zdrowia zaleca, żeby ciepłą wodę trzymać w bojlerze w co najmniej 60 °C, a zimną poniżej 25 °C, najlepiej poniżej 20 °C. 
 
 Tyle że woda o temperaturze 60 °C parzy. Dla porównania: przy 55 °C do poważnego oparzenia skóry u dorosłego wystarcza około 30 sekund, a przy 60 °C około 5 sekund! W domu rozwiązuje to właśnie mieszacz termostatyczny: bojler jest gorący, a z kranu leci bezpieczne 40 °C.
 

@@ -6,7 +6,7 @@
 
 Zaczęliśmy na podwórku u mojego taty, pod chmurką. Stary garaż mieścił tylko materiały, więc arkusze sklejki zawsze leżały pod dachem, ale Boxer i stanowiska pracy stały na dworze! Stoły robocze zbiliśmy z europalet, a blaty zrobiliśmy z płyty OSB. Na początku planowaliśmy po prostu pracować na zewnątrz i każdego dnia chować narzędzia, materiały i stoły z powrotem do garażu. Mieściły się tam wszystkie, ale pracować w środku już się nie dało. To podejście zupełnie się nie sprawdziło. Jeśli nie mieliśmy na robotę całego dnia, a na przykład tylko popołudnie, zdarzało się, że samo rozkładanie i składanie trwało dłużej niż praca :/
 
-Koniec końców nad stanowiskiem stanął spory biały namiot/pawilon, jaki rozstawia się czasem na plenerowe imprezy, mniej więcej 7 na 3 metry. Dzięki niemu nie musieliśmy już chować stołów i narzędzi na noc przed wilgotnymi porankami i deszczem. W namiocie nie było oczywiście idealnie sucho, więc precyzyjne albo po prostu droższe narzędzia i niezamontowane jeszcze materiały i tak chowaliśmy każdego wieczoru. Tak duży namiot za względnie niewielkie pieniądze (ok. 700 zł) okazał się mocno jednorazowy :) Pod koniec na jego poszyciu było więcej dziur załatanych szarą taśmą niż oryginalnego materiału i po robocie powędrował na śmietnik.
+Koniec końców nad stanowiskiem stanął spory biały namiot/pawilon, jaki rozstawia się czasem na plenerowe imprezy, mniej więcej 7 na 3 metry. Dzięki niemu nie musieliśmy już chować stołów i narzędzi na noc przed wilgotnymi porankami i deszczem. W namiocie nie było oczywiście idealnie sucho, więc precyzyjne albo po prostu droższe narzędzia i niezamontowane jeszcze materiały i tak chowaliśmy każdego wieczoru. Tak duży namiot za względnie niewielkie pieniądze (ok. 750 zł) okazał się mocno jednorazowy :) Pod koniec na jego poszyciu było więcej dziur załatanych szarą taśmą niż oryginalnego materiału i po robocie powędrował na śmietnik.
 
 Mimo to polecamy załatwić sobie dowolny namiot, pod który wejdziecie ze stołem, piłą i choćby połową arkusza sklejki. Nie przerwiecie pracy, kiedy zacznie padać, a wieczorem łatwo oświetlicie stanowisko, bo światło ładnie odbija się od ścian namiotu.
 
@@ -18,7 +18,7 @@ Mimo warunków dalekich od idealnych pracowało nam się tam najlepiej ze wszyst
 
 ### Ciepło i suche miejsce
 
-Pod chmurką, a później na działce grzaliśmy się nagrzewnicą na butlę gazową, taką jak w ogródkach przy barach. W hali oprócz kozy mieliśmy jeszcze grzejnik elektryczny. Nagrzewnicę na butlę kupiłbym drugi raz, bo grzała nas przez dwa sezony.
+Pod chmurką, a później na działce grzaliśmy się nagrzewnicą na butlę gazową, taką jak w ogródkach przy barach. W hali oprócz nagrzewnicy mieliśmy jeszcze kozę i grzejnik elektryczny. Nagrzewnicę na butlę kupiłbym drugi raz, bo grzała nas przez dwa sezony.
 
 W sklepach taka nagrzewnica nazywa się parasolem gazowym i jest urządzeniem do użytku na zewnątrz. W zamkniętym pomieszczeniu nie powinno się jej odpalać, bo zużywa tlen i wytwarza czad. My używaliśmy jej także w hali, ale przy naprawdę dobrej wentylacji i z czujnikiem czadu.
 
@@ -28,7 +28,7 @@ Izolacja przychodzi w wielkich rolkach i też potrzebuje suchego miejsca. Mokrej
 
 Na całą resztę przydają się pojemniki, w szczególności zamykane. My sporo trzymaliśmy w dużych kastrach budowlanych, czyli plastikowych wannach do mieszania zaprawy. Nie mają jednak pokrywy, więc pod chmurką lepsze są zamykane skrzynki.
 
-Przy kolejnych przeprowadzkach między warsztatami wyszedł jeszcze jeden problem: nie mieliśmy w czym trzymać i przewozić narzędzi. Koniec końców kupiliśmy dwie szafki warsztatowe Tagred, model TA213. Kosztują około 1 000 zł za sztukę i są naprawdę porządnie wykonane jak na tę cenę. Każda ma sześć niskich szuflad i jedną wysoką, na elektronarzędzia. Ponadto mamy dwie kolumny skrzynek firmy Qbrick. To całkiem ciekawa alternatywa dla ciężkich szafek warsztatowych. Kolumna z serii ONE jest podobnej wielkości co taka szafka, a składa się z segmentów, które można dowolnie dobierać. Jedno i drugie jest na kołach, więc cztery szafki mieszczą wszystkie nasze narzędzia, a całość da się wygodnie wtoczyć na przyczepkę z najazdem i szybko przewieźć w dowolne miejsce.
+Przy kolejnych przeprowadzkach między warsztatami wyszedł jeszcze jeden problem: nie mieliśmy w czym trzymać i przewozić narzędzi. Koniec końców kupiliśmy dwie szafki warsztatowe Tagred, model TA213. Kosztowały nas około 1 000 zł za sztukę i są naprawdę porządnie wykonane jak na tę cenę. Każda ma sześć niskich szuflad i jedną wysoką, na elektronarzędzia. Ponadto mamy dwie kolumny skrzynek firmy Qbrick. To całkiem ciekawa alternatywa dla ciężkich szafek warsztatowych. Kolumna z serii ONE jest podobnej wielkości co taka szafka, a składa się z segmentów, które można dowolnie dobierać. Jedno i drugie jest na kołach, więc cztery szafki mieszczą wszystkie nasze narzędzia, a całość da się wygodnie wtoczyć na przyczepkę z najazdem i szybko przewieźć w dowolne miejsce.
 
 ### Nasza rekomendacja
 
@@ -40,7 +40,7 @@ Zanim jednak zaczniecie szukać, zmierzcie auto. Nasz Boxer w wersji L4H3 ma fab
 
 ## Czym budować?
 
-Zestaw minimalny to narzędzia, bez których nie da się ruszyć. Optymalny to półka wyżej, czyli to, co gwarantuje sprawną pracę. W zestawie nice to have jest w dużej mierze to, co sami mieliśmy. Do mnie zdecydowanie pasuje zasada „więcej sprzętu niż talentu”, więc proszę o wyrozumiałość :) Czwarty zestaw to półprofesjonalne maszyny, których prawdopodobnie nigdy mieć nie będziemy ani my, ani Wy, ale warto rzucić okiem, jak robią to zawodowcy.
+Zestaw minimalny to narzędzia, bez których nie da się ruszyć. Optymalny to półka wyżej, czyli to, co gwarantuje sprawną pracę. W zestawie nice to have jest w dużej mierze to, co sami mieliśmy. Do mnie zdecydowanie pasuje zasada „więcej sprzętu niż talentu”, więc proszę o wyrozumiałość :) Na koniec piszę, czego raczej nie kupować i co zlecić firmom z maszynami, których nie będziemy mieć ani my, ani Wy.
 
 ### Na czym oszczędzać, a na czym nie
 
@@ -64,7 +64,7 @@ Z tą firmą łączy mnie zresztą dość osobista historia :) Wera to zdrobnien
 
 Jeśli nie chcecie wydawać dużo na narzędzia ręczne, kupcie markowe przynajmniej same bity, najlepiej od razu cały zestaw. Ja bardzo polecam Wera Tool-Check PLUS. To zgrabny zestaw — mieszczący się w kieszeni, w którym są bity do wszystkich popularnych wkrętów, mały klucz z grzechotką, nasadki i rękojeść. Jednym zakupem macie załatwioną większość skręcania przy całej budowie. Jest na tyle mały, że jeździ z nami w szoferce kampera, a jej miniaturowa grzechotka i rękojeść przydały się już tyle razy, przy wymianie pompy i w innych ciasnych miejscach, że nie jestem w stanie tego zliczyć :)
 
-Zupełnie inna sprawa niż z elektronarzędziami jest z elektroniką. Za przykład mogę podać laser krzyżowy, czyli urządzenie, które rzuca na ściany idealnie poziome i pionowe linie. Mam zielony laser płaszczyznowy firmy Deko, raczej małej i stosunkowo taniej marki. Według specyfikacji producenta ma taką samą dokładność jak porównywalny Bosch, a kosztował około 400 zł, podczas gdy za Boscha zapłaciłbym około 2,5 tysiąca! Akurat w kamperze laser przydaje się mniej, niż mogłoby się wydawać. Poziomuje się grawitacyjnie, a auto nigdy nie stoi idealnie poziomo i w karoserii nie ma ani jednej prostej ściany, do której można by się odnieść. Nie znaczy to, że jest bezużyteczny. W trybie blokady, w którym laser nie poziomuje się sam, nadal rzuca linie pod kątem prostym do siebie, więc można nim wyznaczać kąty proste.
+Zupełnie inna sprawa niż z elektronarzędziami jest z elektroniką. Za przykład mogę podać laser krzyżowy, czyli urządzenie, które rzuca na ściany idealnie poziome i pionowe linie. Mam zielony laser płaszczyznowy firmy Deko, raczej małej i stosunkowo taniej marki. Według specyfikacji producenta ma taką samą dokładność jak porównywalny Bosch, a kosztował mnie około 400 zł, kilka razy mniej! Akurat w kamperze laser przydaje się mniej, niż mogłoby się wydawać. Poziomuje się grawitacyjnie, a auto nigdy nie stoi idealnie poziomo i w karoserii nie ma ani jednej prostej ściany, do której można by się odnieść. Nie znaczy to, że jest bezużyteczny. W trybie blokady, w którym laser nie poziomuje się sam, nadal rzuca linie pod kątem prostym do siebie, więc można nim wyznaczać kąty proste.
 
 ### Czym zasilać elektronarzędzia?
 
@@ -72,7 +72,7 @@ Większość zabudowy robiliśmy na narzędziach przewodowych 230 V, z prostego 
 
 Wszyscy producenci robią własne, dedykowane akumulatory i prawie nigdy nie są one zamienne. Akumulator i ładowarka kupione do jednego narzędzia pasują więc tylko do narzędzi z tego samego systemu. Ponadto większość narzędzi akumulatorowych sprzedaje się bez akumulatora i ładowarki, więc do ceny trzeba jeszcze doliczyć jedno i drugie. Antyprzykładem na tym polu jest firma Bosch, która ma dwie serie: zieloną dedykowaną domowym majsterkowiczom oraz niebieską — profesjonalną. Obie serie oferują elektronarzędzia akumulatorowe i te dwa systemy nie są ze sobą kompatybilne, chociaż to jeden producent i to samo napięcie!
 
-Nie chcę też, żebyście zrozumieli mnie źle, ponieważ narzędzia akumulatorowe są świetne, w dzisiejszych czasach pracują równie wydajnie jak narzędzia na 230 V i nie ma z nimi większego problemu — prócz ceny i kompatybilności baterii. Z racji, że nasza zabudowa trwała bardzo długo i w międzyczasie też dokupywaliśmy różne narzędzia, w tym momencie przewrotnie większość mamy na różny akumulator.
+Nie chcę też, żebyście zrozumieli mnie źle, ponieważ narzędzia akumulatorowe są świetne, w dzisiejszych czasach pracują równie wydajnie jak narzędzia na 230 V i nie ma z nimi większego problemu — prócz ceny i kompatybilności baterii. Z racji, że nasza zabudowa trwała bardzo długo i w międzyczasie też dokupywaliśmy różne narzędzia, dziś przewrotnie większość mamy na różne akumulatory.
 
 Mimo to podczas budowy kampera włożyłbym je do kategorii „nice to have”. Nie wszystko da się zasilić z akumulatora, więc i tak będziecie budować gdzieś, gdzie jest prąd. Koniec końców w Waszym kamperze na 99% też będzie prąd :) U nas system zamontowany w kamperze zasilał budowę już od pierwszych miesięcy.
 
@@ -200,7 +200,7 @@ Inaczej jest z oknami samochodowymi, wklejanymi bezpośrednio w karoserię. Pod 
 
 My większość kampera zrobiliśmy, używając ręcznego pistoletu. Akumulatorowy kupiliśmy dopiero pod montaż płytek winylowych, pod silikony, żeby spoiny wyglądały ładniej, i pod (przyszłe) okno w drzwiach przesuwnych.
 
-Nasz to Bosch GCG 18V-310, około 1 200 zł bez akumulatora. Sprawdzałem tańsze i każdy miał jakiś problem: ten jest najlepszy, jaki znalazłem, i jestem z niego zadowolony.
+Nasz to Bosch GCG 18V-310, kosztował nas około 1 200 zł bez akumulatora. Sprawdzałem tańsze i każdy miał jakiś problem: ten jest najlepszy, jaki znalazłem, i jestem z niego zadowolony.
 
 #### Młotek
 
@@ -226,13 +226,13 @@ Po jakimś czasie zamieniłem je na jedno porządne narzędzie, które opisuję 
 
 #### Tester gniazd
 
-Jeśli macie mieć w kamperze 230 V, choćby tylko z zewnątrz, z gniazdka na kempingu, to instalacja musi mieć różnicówkę, czyli wyłącznik różnicowoprądowy. To urządzenie, które odcina zasilanie, kiedy prąd ucieka z obwodu inną drogą niż powinien — na przykład przez ciało człowieka! Więcej o niej w tomie o budowie, w rozdziale o elektryce. Tu chcę zwrócić uwagę na coś innego: sama różnicówka w rozdzielnicy to jeszcze nie ochrona. Ochrona jest dopiero wtedy, gdy działa w każdym gniazdku, a to trzeba sprawdzić.
+Jeśli macie mieć w kamperze 230 V, choćby tylko z zewnątrz, z gniazdka na kempingu, to instalacja musi mieć różnicówkę, czyli wyłącznik różnicowoprądowy. To urządzenie, które odcina zasilanie, kiedy prąd ucieka z obwodu inną drogą niż powinien — na przykład przez ciało człowieka! Więcej o niej w tomie o budowie, w rozdziale o instalacji 230 V. Tu chcę zwrócić uwagę na coś innego: sama różnicówka w rozdzielnicy to jeszcze nie ochrona. Ochrona jest dopiero wtedy, gdy działa w każdym gniazdku, a to trzeba sprawdzić.
 
 Do tego jest tester gniazd. Chodzi o najprostszy, wkładany do gniazdka. Jego lampki pokazują, czy gniazdko jest podłączone poprawnie, czyli czy faza, zero i uziemienie siedzą na właściwych stykach, a przycisk wywołuje kontrolowany upływ prądu, na który różnicówka powinna natychmiast zareagować i odciąć zasilanie. Przycisk „test” na samej różnicówce sprawdza tylko ją, a nie to, czy ochrona dochodzi do konkretnego gniazdka. Źle podłączony przewód ochronny w jednym gniazdku wystarczy, żeby różnicówka w rozdzielnicy nie zadziałała.
 
 Dlatego tester jest w mojej opinii obowiązkiem, bo to kwestia bezpieczeństwa. Pominąć ten test to tak, jakby przy piecu nie zamontować czujnika tlenku węgla (tak, w kamperze też!). Zasada jest prosta: test przed pierwszym użyciem instalacji, po każdej jej modyfikacji, w każdym gniazdku.
 
-Istnieją też testery droższe, które nie tylko wyzwalają różnicówkę, ale mierzą, po ilu milisekundach zadziałała. Norma daje jej na to najwyżej 300 milisekund, bo tyle człowiek jeszcze wytrzymuje bez trwałych skutków. Takie testery kosztują już bardzo dużo i korzystają z nich raczej elektrycy; do kampera wystarczy prosty z przyciskiem. Nasz to UNI-T UT07B.
+Istnieją też testery droższe, które nie tylko wyzwalają różnicówkę, ale mierzą, po ilu milisekundach zadziałała. Norma daje jej na to najwyżej 300 milisekund przy prądzie znamionowym. Takie testery kosztują już bardzo dużo i korzystają z nich raczej elektrycy; do kampera wystarczy prosty z przyciskiem. Nasz to UNI-T UT07B.
 
 Na słupku kempingowym różnicówka jest obowiązkowa: każde gniazdo ma mieć własną, o czułości do 30 mA, i to w całej Europie. Starsze kempingi budowano według starszych przepisów i tam jedna różnicówka bywa montowana na cały słupek, więc ochrona też jest. Problem w tym, że słupek jest używany przez setki ludzi w sezonie, stoi na deszczu i nikt go regularnie nie sprawdza, więc coś może się obluzować albo być źle podłączone od początku. Nie polegajcie wyłącznie na cudzej odpowiedzialności. Dlatego polecam zamontować własną różnicówkę także na wejściu zasilania do kampera, zaraz za gniazdem przyłączeniowym. Wtedy niezależnie od stanu słupka ochrona jest też po Waszej stronie.
 
@@ -348,7 +348,7 @@ Są jeszcze szlifierki mimośrodowe i takiej nie mamy. W mimośrodowych okrągł
 
 #### Ściągacz, zaciskarka i obcinak w jednym
 
-W zestawie minimalnym elektrykę robimy zaciskarką i nożykiem. Jak pisałem wyżej, ja zaczynałem właśnie tak, potem dokupiłem automatyczny ściągacz izolacji, a koniec końców zrobiłem upgrade i dziś używam Knipex NexStrip. To jedno narzędzie, które ściąga izolację, zaciska tulejki i tnie przewód. Kosztuje ponad 400 zł, ale jeśli robicie całą instalację sami, moim zdaniem naprawdę warto.
+W zestawie minimalnym elektrykę robimy zaciskarką i nożykiem. Jak pisałem wyżej, ja zaczynałem właśnie tak, potem dokupiłem automatyczny ściągacz izolacji, a koniec końców zrobiłem upgrade i dziś używam Knipex NexStrip. To jedno narzędzie, które ściąga izolację, zaciska tulejki i tnie przewód. Kosztowało nas ponad 400 zł, ale jeśli robicie całą instalację sami, moim zdaniem naprawdę warto.
 
 Żeby było jasne: NexStrip nie robi niczego, czego nie zrobią tanie narzędzia. Automatyczny ściągacz za kilkadziesiąt złotych też sam dopasowuje się do grubości przewodu, a tania zaciskarka też zaciśnie tulejkę. Różnica jest w tym, że macie w ręku jedno narzędzie zamiast trzech. Przy każdej końcówce przewód trzeba uciąć, odizolować i zacisnąć, a końcówek w kamperze jest swobodnie ponad sto, więc często odkładanie jednego narzędzia i szukanie drugiego zajmuje w sumie więcej czasu niż sama robota :)
 
@@ -450,7 +450,7 @@ To narzędzie, którego dużo osób nie docenia, a tak naprawdę wszystkie poł�
 
 My kupiliśmy go właśnie dlatego: wymagała tego instrukcja naszej stosunkowo drogiej klimatyzacji dachowej. Jest zamontowana na ścisk — na „kanapkę” — bez kleju i śrub. Żeby nie odleciała z dachu, a jednocześnie nie przenosiła na blachę zbyt wielu drgań kompresora, musiała być dokręcona bardzo dokładnie: na 2,5 niutonometra, z tolerancją 0,3. Kupiliśmy do tego Werę 7441 Kraftform, o zakresie od 1,2 do 3 niutonometrów, i moim zdaniem to bardzo dobry wkrętak: wygodny w użyciu i z bardzo dokładną podziałką.
 
-Warto zastanowić się, jakiej firmy wkrętak kupujecie, bo to narzędzie precyzyjne. Wera podaje dla swojego dokładność ±6%, a w profesjonalnych warsztatach wręcz kalibruje się od czasu do czasu. Zakres do 3 Nm wystarcza na śruby M4, bo M4 dokręca się momentem niecałych 2 Nm. M5 potrzebuje już prawie 4, a M6 ponad 6, więc do większych śrub nasz wkrętak to za mało.
+Warto zastanowić się, jakiej firmy wkrętak kupujecie, bo to narzędzie precyzyjne. Wera podaje dla swojego dokładność ±6%, a w profesjonalnych warsztatach wręcz kalibruje się od czasu do czasu. Zakres do 3 Nm wystarcza na śruby M4, bo przy typowych śrubach nierdzewnych M4 dokręca się momentem około 2 Nm. M5 potrzebuje już około 4, a M6 ponad 6, więc do większych śrub nasz wkrętak to za mało.
 
 #### Zestaw kluczy i nasadki z grzechotką
 
@@ -500,7 +500,7 @@ Jeśli mimo wszystko chcecie frezarkę stołową, przed zakupem obejrzyjcie wła
 
 CNC, od angielskiego computer numerical control, to każda frezarka, w której frez prowadzi komputer według pliku z projektem. Są wśród nich wielkie maszyny na cały arkusz płyty, jak i małe „domowe”.
 
-My mamy właśnie taki — stosunkowo mały model: Two Trees TTC-450, z polem roboczym 46 na 46 cm. Kupiliśmy go na koniec zabudowy — bo był na promocji :) Osobiście byłem zaskoczony, że taką maszynę da się już kupić za około 500 dolarów, czyli mniej niż 2 000 zł. Wykonaliśmy nią dosłownie dwie czy trzy części, bo kupiliśmy ją za późno :/
+My mamy właśnie taki — stosunkowo mały model: Two Trees TTC-450, z polem roboczym 46 na 46 cm. Kupiliśmy go na koniec zabudowy — bo był na promocji :) Osobiście byłem zaskoczony, że taką maszynę dało się kupić za około 500 dolarów, czyli wtedy mniej niż 2 000 zł. Wykonaliśmy nią dosłownie dwie czy trzy części, bo kupiliśmy ją za późno :/
 
 Jak macie budżet, to prędzej kupiłbym CNC niż frezarkę stołową. Może Wam pomóc równiutko wyciąć formatki do frontów meblowych. Te same formatki wytniecie pilarką na szynie, a kształty wyrzynarką, tylko każdą sztukę osobno i ręcznie.
 
@@ -522,9 +522,9 @@ Jeśli drukujecie coś do kampera, musicie zwrócić uwagę na dwie rzeczy: temp
 
 Druga sprawa to promieniowanie ultrafioletowe. Rozbija ono długie łańcuchy cząsteczek, z których zbudowane jest tworzywo, więc wydruk wystawiony latami na słońce blaknie i robi się kruchy. ASA powstało właśnie z myślą o pracy na zewnątrz i jest na to odporne, dlatego to z niego drukuje się rzeczy na dach.
 
-Tyle teoria, a teraz uczciwie, jak jest u nas. Uchwyt anteny LTE/5G mamy z PLA i się nie rozpłynął, bo jest płaski i nie przenosi dużej siły, więc nie ma się pod czym wyginać. Uchwyty kamer na naszym dachu są z PETG i przez prawie dwa lata wytrzymały wszystko oprócz uderzenia w drzewo :) Oprócz nich wydrukowaliśmy sporo innych akcesoriów, w tym mniej obciążone łączniki do naszych profili aluminiowych. Używaliśmy tylko PLA i PETG, więc w praktyce z ich wytrzymałością nie jest tak źle jak w teorii.
+Tyle teoria, a teraz uczciwie, jak jest u nas. Uchwyt anteny LTE/5G mamy z PLA i się nie rozpłynął, bo jest płaski i nie przenosi dużej siły, więc nie ma się pod czym wyginać. Uchwyty kamer na naszym dachu są z PETG i od zamontowania wytrzymały wszystko oprócz uderzenia w drzewo :) Oprócz nich wydrukowaliśmy sporo innych akcesoriów, w tym mniej obciążone łączniki do naszych profili aluminiowych. Używaliśmy tylko PLA i PETG, więc w praktyce z ich wytrzymałością nie jest tak źle jak w teorii.
 
-Nasza, już dość stara, drukarka to Flashforge Adventurer 3 i jej największą wadą jest pole robocze: zaledwie 15 na 15 na 15 cm, czyli bardzo mało. Uchwyt do Starlinka już się w niej nie zmieścił, nawet w częściach, i musiał mi go wydrukować kolega, który ma większą drukarkę. Dziś za około 2 000 zł da się swobodnie kupić drukarkę z polem około 25 na 25 cm. Taka wystarcza już do większości rzeczy, a mnóstwo gotowych modeli projektuje się właśnie pod ten rozmiar, bo większość ludzi ma taką.
+Nasza, już dość stara, drukarka to Flashforge Adventurer 3 i jej największą wadą jest pole robocze: zaledwie 15 na 15 na 15 cm, czyli bardzo mało. Uchwyt do Starlinka już się w niej nie zmieścił, nawet w częściach, i musiał mi go wydrukować kolega, który ma większą drukarkę. Za cenę naszej (niecałe 2000 zł) da się swobodnie kupić drukarkę z polem około 25 na 25 cm. Taka wystarcza już do większości rzeczy, a mnóstwo gotowych modeli projektuje się właśnie pod ten rozmiar, bo większość ludzi ma taką.
 
 Swojej nie zmieniałem, chociaż chodzi mi to po głowie. Od znajomych i z internetu wiem, że dobrą opinię zbiera firma Bambu Lab. Jej drukarki są podobno mocno bezobsługowe, więc mało trzeba wiedzieć, żeby zacząć drukować :)
 
@@ -606,6 +606,6 @@ Elektronarzędzia kupiłbym na 230 V, wszystkie oprócz wkrętarki. Pieniądze z
 
 Zestaw minimalny narzędzi przygotowałbym w całości przed pierwszymi pracami, koniecznie razem z wagą! :) Dzięki temu nie przyjedziecie do warsztatu z zapałem do konkretnej roboty tylko po to, żeby na miejscu odkryć, że brakuje Wam jednego narzędzia i trzeba albo czekać na dostawę, albo przepłacić za nie w markecie.
 
-Jeśli chcecie wyposażyć warsztat w wariancie optymalnym, to swobodnie można dokupować po jednym narzędziu, dopiero kiedy konkretna robota będzie go wymagać. Tu nie wpadniecie w pułapkę opisaną powyżej, ponieważ wariant minimalny wystarcza do zrobienia bezwzględnie wszystkiego w kamperze. Wyjątek zrobiłbym dla zagłębiarki: kupiłbym ją od razu zamiast zwykłej pilarki.
+Jeśli chcecie wyposażyć warsztat w wariancie optymalnym, to swobodnie można dokupować po jednym narzędziu, dopiero kiedy konkretna robota będzie go wymagać. Tu nie wpadniecie w pułapkę opisaną powyżej, ponieważ wariant minimalny wystarcza do zrobienia prawie wszystkiego w kamperze. Multimetr warto jednak dokupić, zanim podłączycie pierwsze urządzenie. Wyjątek zrobiłbym dla zagłębiarki: kupiłbym ją od razu zamiast zwykłej pilarki.
 
 Z zestawu nice to have wziąłbym tylko to, co zostanie w warsztacie na lata i z czego będziecie korzystać także przy innych rzeczach niż budowa kampera.
