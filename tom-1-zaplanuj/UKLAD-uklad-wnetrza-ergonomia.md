@@ -238,7 +238,7 @@ Nawiązując do deszczowych dni: w takie dni i tak musimy wychodzić na spacery 
 
 Z dużych minusów tego układu jest kompletny brak garażu. Pomiędzy tylnymi drzwiami a tylną ścianą łazienki mieszczą się krzesełka kempingowe, stolik, szpula z przedłużaczem, wąż do nalewania wody i trochę bagażu. Nie mamy niestety najmniejszych szans przenieść rowerów. Nie wejdzie nam nawet hulajnoga. Jeśli chcemy wziąć ze sobą trapy, bo planujemy jeździć na przykład po lesie, albo jedziemy w zimie na deskę i chcemy wziąć ze sobą snowboard, musimy zrezygnować na przykład z wożenia stołu.
 
-Poza tym nasze łóżko, w przeciwieństwie do Affinity, nie rozsuwa się na szerokość przejścia i to jest jedna z rzeczy, które zdecydowanie musimy poprawić, ponieważ tak na dobrą sprawę wystarczy zamienić stały stelaż na rozsuwany stelaż. Dzięki temu łóżko zamiast 110 cm szerokości będzie miało 140 m i będzie wielkości standardowego małego domowego łóżka.
+Poza tym nasze łóżko, w przeciwieństwie do Affinity, nie rozsuwa się na szerokość przejścia i to jest jedna z rzeczy, które zdecydowanie musimy poprawić, ponieważ tak na dobrą sprawę wystarczy zamienić stały stelaż na rozsuwany stelaż. Dzięki temu łóżko zamiast 110 cm szerokości będzie miało 140 cm i będzie wielkości standardowego małego domowego łóżka.
 
 ### Jak z tego wybrać układ dla siebie?
 
