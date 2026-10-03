@@ -12,7 +12,7 @@ W większości z poradników elektryka jest opisana bardzo dokładnie — o niej
 
 - jak przykręcić zabudowę do ścian kampera, żeby się nie obluzowała od jazdy: spoiler alert — wkręty samowiercące są świetne do montażu blachy na dachu nieruchomego domu, ale w zabudowie kempingowej lepiej sprawdzają się nitonakrętki;
 - z czego wykonać kanalizacje — za to o rurkach do wody bieżącej są całe elaboraty;
-- co zrobić z syfonem — domowego się „wytelepie”, bo jego elementy są łączone na ścisk;
+- co zrobić z syfonem — domowy się „wytelepie”, bo jego elementy są łączone na ścisk;
 - że rada „bierz najlżejszą sklejkę” — skądinąd dobra, bo każdy kilogram zabudowy wozicie potem ze sobą — ma haczyk: lekkie gatunki, jak ceiba, trzymają wkręty dużo słabiej.
 
 A to tylko niektóre z tematów, na których można się kosztownie pomylić lub po prostu zatrzymać podczas zabudowy.
@@ -21,7 +21,7 @@ Skąd to się bierze? Ja odnoszę wrażenie, że poradniki są pisane pod publik
 
 Za to meble? Prawie każdy z góry zakłada, że poradzi sobie sam — w końcu co to jest za problem, przykręcić parę desek? :) A to jest błędne założenie, bo w mojej opinii zabudowa meblowa to zdecydowanie większy temat niż elektryka i jakby tego było mało — istnieje znacznie mniej gotowych rozwiązań tego problemu.
 
-Takich niedocenianych tematów znacznie więcej i właśnie tej wiedzy — krok po kroku, od pierwszego wkręta blasze do działającego prysznica — nigdy nigdzie nie znalazłem w jednym miejscu.
+Takich niedocenianych tematów jest znacznie więcej i właśnie tej wiedzy — krok po kroku, od pierwszego wkręta w blasze do działającego prysznica — nigdy nigdzie nie znalazłem w jednym miejscu.
 
 ## Nasze błędy
 
@@ -42,7 +42,7 @@ O pompach przeczytacie sporo, o rurach wody czystej pod ciśnieniem zdecydowanie
 Zbiornik szarej wody — czyli brudnej, ale bez fekaliów: tej po prysznicu i po myciu naczyń — najczęściej wisi pod kamperem. Problemy zaczynają się, gdy chcecie mieszkać w kamperze cały czas i auto musi być w pełni zimowe: zbiornik pod podwoziem to pierwsza rzecz, która zamarznie. Są na to sposoby — izolowane zbiorniki, maty grzewcze — ale najprostszy sposób to umieścić zbiornik w środku, w przestrzeni, którą i tak ogrzewamy. Tyle że wtedy zbiornik prawie na pewno wyląduje powyżej najniższego odpływu — tego od brodzika i woda sama do niego nie będzie miała jak spłynąć. Producenci seryjnych kamperów rozwiązują to podwójną podłogą: między podłogą, po której się chodzi, a podłogą samochodu siedzi izolacja i zbiorniki szarej wody. Kosztuje to jednak 15–20 centymetrów wysokości i sporo kilogramów, bo taka konstrukcja musi być na tyle sztywna, żeby dało się na niej swobodnie stać.
 Pompa zęzowa załatwia to samo bez podnoszenia podłogi: zbiornik zostaje w środku, powyżej odpływu, a pompa po prostu tłoczy szarą wodę do góry. Na jachtach to standard, bo nie ma szans na montaż zbiornika pod kadłubem :) Mimo że sam od dziecka żegluję i znam to rozwiązanie właśnie z jachtów to i tak za pierwszym podejściem zbudowałem podwójną podłogę. Czemu pompy zęzowe są w kamperach tak mało popularne? Obstawiam, że to rozwiązanie jest po prostu za tanie, żeby wersję zimową seryjnych kamperów dało się sprzedać jako „premium” :)
 
-Ostatnio dużo się mówi o zmianie unijnych przepisów, która pozwoli prowadzić kampery cięższe niż 3,5 tony DMC na zwykłe prawo jazdy kategorii B. Te przepisy rzeczywiście są faktem: nowa unijna dyrektywa o prawach jazdy dopuszcza na kategorii B kampery do 4,25 tony — ale nie automatycznie, tylko po dodatkowym szkoleniu lub egzaminie i z odpowiednim wpisem w prawie jazdy. Na moment pisania tej książki, w pierwszej połowie 2026 roku, to wciąż melodia przyszłości: każdy kraj Unii musi wdrożyć te przepisy u siebie, ma na to czas do końca 2028 roku, a stosowane mają być od końca 2029.
+Ostatnio dużo się mówi o zmianie unijnych przepisów, która pozwoli prowadzić kampery cięższe niż 3,5 tony DMC (dopuszczalnej masy całkowitej) na zwykłe prawo jazdy kategorii B. Te przepisy rzeczywiście są faktem: nowa unijna dyrektywa o prawach jazdy dopuszcza na kategorii B kampery do 4,25 tony — ale nie automatycznie, tylko po dodatkowym szkoleniu lub egzaminie i z odpowiednim wpisem w prawie jazdy. Na moment pisania tej książki, w pierwszej połowie 2026 roku, to wciąż melodia przyszłości: każdy kraj Unii musi wdrożyć te przepisy u siebie, ma na to czas do końca 2028 roku, a stosowane mają być od końca 2029.
 
 I jedna ważna rzecz: ta zmiana dotyczy tego, czym możecie jechać na swoje prawo jazdy — nie podnosi DMC żadnego konkretnego auta. Wielu osobom przy tej okazji wydaje się, że podniosą sobie DMC i będą mogły załadować więcej. Niestety, smutna prawda jest taka, że po pierwszej rejestracji w Polsce DMC praktycznie nie da się podnieść — i dowiadujecie się o tym zwykle wtedy, kiedy jest już za późno, żeby cokolwiek z tym zrobić. W Google znajdziecie firmy, które podnoszą DMC — tyle że robią to przed pierwszą rejestracją, dla pojazdów specjalnych, na przykład dla wojska, policji czy służby celnej, albo za granicą. Dla zwykłego kampera osoby prywatnej, zarejestrowanego już w Polsce, formalnie taka procedura istnieje, ale w praktyce jest nieosiągalna.
 

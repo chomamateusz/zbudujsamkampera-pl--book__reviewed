@@ -2,21 +2,21 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 261 171 słów ≈ 653 stron (zatwierdzone: 86 046 słów ≈ 215 stron, 32.9%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 261 169 słów ≈ 653 stron (zatwierdzone: 86 044 słów ≈ 215 stron, 32.9%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 360 z 85 360 słów (100%) — 32.7% książki
+## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 358 z 85 358 słów (100%) — 32.7% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
 | JAK |  | [Jak czytać tę trylogię?](tom-1-zaplanuj/JAK-jak-czytac-trylogie.md) | 343 | 1 | 0.4% | 0.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-JAK) | ✓ | – |
-| ONAS | 1 | [Wstęp](tom-1-zaplanuj/ONAS-o-nas.md) | 4660 | 12 | 5.5% | 1.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
-| BOXER | 2 | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3230 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
-| FILO | 3 | [Czy to życie jest dla Was?](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6902 | 17 | 8.1% | 2.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
+| ONAS | 1 | [Wstęp](tom-1-zaplanuj/ONAS-o-nas.md) | 4665 | 12 | 5.5% | 1.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-ONAS) | ✓ | – |
+| BOXER | 2 | [Jeden Boxer, dwie zabudowy](tom-1-zaplanuj/BOXER-jeden-boxer-dwie-zabudowy.md) | 3236 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BOXER) | ✓ | – |
+| FILO | 3 | [Czy to życie jest dla Was?](tom-1-zaplanuj/FILO-filozofia-styl-zycia.md) | 6904 | 17 | 8.1% | 2.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-FILO) | ✓ | – |
 | PIERW | 4 | [Formalności życia w trasie](tom-1-zaplanuj/PIERW-formalnosci-pierwszy-rok.md) | 4477 | 11 | 5.2% | 1.7% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PIERW) | ✓ | – |
 | DROGA | 5 | [Budować, zlecić czy kupić?](tom-1-zaplanuj/DROGA-matryca-budowac-czy-kupic.md) | 4067 | 10 | 4.8% | 1.6% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-DROGA) | ✓ | – |
-| MANIF | 6 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2421 | 6 | 2.8% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
-| BAZA | 7 | [Jakie auto wybrać?](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 288 | 26 | 12.1% | 3.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
+| MANIF | 6 | [Budowa to podróż, nie podróżowanie](tom-1-zaplanuj/MANIF-manifest-mvp.md) | 2418 | 6 | 2.8% | 0.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-MANIF) | ✓ | – |
+| BAZA | 7 | [Jakie auto wybrać?](tom-1-zaplanuj/BAZA-wybor-pojazdu-bazowego.md) | 10 276 | 26 | 12.0% | 3.9% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-BAZA) | ✓ | – |
 | PRAWO | 8 | [Prawo, rejestracja, akcyza](tom-1-zaplanuj/PRAWO-formalnosci-prawo-homologacje.md) | 8771 | 22 | 10.3% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAWO) | ✓ | – |
 | PLAN | 9 | [Projektowanie i planowanie](tom-1-zaplanuj/PLAN-projektowanie-i-planowanie.md) | 1387 | 3 | 1.6% | 0.5% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PLAN) | ✓ | – |
 | UKLAD | 10 | [Układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 3257 | 8 | 3.8% | 1.2% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |

@@ -54,7 +54,7 @@ Zanim przetniecie pierwszą deskę, rozplanujcie wnętrze na sucho. Najwięcej z
 
 ### 3. Ile znaczy minimum?
 
-Minimum to nie uniwersalna lista sprzętu, tylko najmniejszy zestaw, który usuwa Wasze deal breakery. U nas, przy mieszkaniu na stałe i pracy zdalnej, były trzy: toaleta i prysznic na pokładzie plus internet.
+Minimum to nie uniwersalna lista sprzętu, tylko najmniejszy zestaw, który usuwa Wasze deal breakery. U nas, przy mieszkaniu na stałe i pracy zdalnej, były trzy: toaleta, prysznic i internet.
 
 Proponuję takie testy po zakupie bazy rozdzielić na trzy poziomy: test na prawie pusto, nawet bez noclegu; test z pierwszą nocą albo dwoma; i dopiero test kampera na dwa tygodnie z pracą albo na dłuższy urlop. Do pierwszego z nich, testu pustej bazy, nie musi działać nic poza sprawnym, zarejestrowanym samochodem. Na pierwsze noclegi wystarczy wariant testowy, o ile mieści się w Waszych granicach akceptacji: materac, przenośna toaleta, kuchenka, lampka na baterie. Przy kamperze na dłuższy urlop podtrzymuję to, co pisałem w rozdziale o filozofii: na dwa tygodnie albo dłużej nie pojechałbym bez toalety, lodówki, normalnego łóżka i ogrzewania. Takie wakacyjne minimum nadal jest małe i może zostać takie na lata korzystania.
 

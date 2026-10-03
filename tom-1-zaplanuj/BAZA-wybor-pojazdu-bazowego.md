@@ -2,7 +2,7 @@
 
 Większość z nas zaczyna budowę kampera od przeglądania ogłoszeń z autami. Kompletnie to rozumiem — ogłoszenia przyjemnie się ogląda, ale to prosta droga, żeby podjąć decyzję niezgodną z naszymi granicami akceptacji z poprzedniego rozdziału :/ 
 
-Granice akceptacji i testy z poprzedniego rozdziału to nie był wstęp do czytania — to był warunek wejścia do tego rozdziału. Ścieżkę wybiera się pod spisane granice, a bazę pod ścieżkę — nigdy odwrotnie. Brzmi banalnie? Jeśli testów jeszcze nie zrobiliście, ta decyzja spokojnie poczeka. I policzcie sami: tydzień wynajmu to wydatek rzędu kilkuset, a maksymalnie kilku tysięcy złotych, a budowa, która okazuje się pomyłką — kilkadziesiąt do kilkuset tysięcy plus minimum rok życia, a w tym urlopy wykorzystane na budowę i przepracowane popołudnia zamiast odpoczynku. 
+Granice akceptacji i testy z poprzedniego rozdziału to nie był wstęp do czytania — to był warunek wejścia do tego rozdziału. Ścieżkę wybiera się pod spisane granice, a bazę pod ścieżkę — nigdy odwrotnie. Brzmi banalnie? Jeśli testów jeszcze nie zrobiliście, ta decyzja spokojnie poczeka. I policzcie sami: tydzień wynajmu to wydatek rzędu kilkuset, maksymalnie kilku tysięcy złotych, a budowa, która okazuje się pomyłką — kilkadziesiąt do kilkuset tysięcy plus minimum rok życia, a w tym urlopy wykorzystane na budowę i przepracowane popołudnia zamiast odpoczynku. 
 
 Ja robiłem testy, ale mimo to sam wpadłem w podobną pułapkę: chciałem kamper „do wszystkiego”. Miał być naraz do miasta, w teren, na zimę, do pracy, na wyprawę. Proponuję od razu wybić to sobie z głowy, bo w kamperze wszystko jest kosztem czegoś — a cena takiego auta rośnie zupełnie nieproporcjonalnie do korzyści. Dlatego, zanim otworzycie OtoMoto, wróćcie na chwilę do swoich granic akceptacji, a następnie odrzućcie modele, które ich kategorycznie nie spełniają.
 
@@ -94,7 +94,7 @@ Zdarza się też pułapka: **ta sama baza występuje w różnych wersjach DMC**.
 
 To samo dotyczy wersji elektrycznych wszystkich blaszaków do 3,5 t. Ze względu na to, że baterie ważą bardzo dużo — ich ładowność oscyluje w granicach 500-700 kilo, więc nie jesteście w stanie na tych samochodach zrobić zabudowy. 
 
-Planujecie wakacyjnie? Prawdopodobnie macie łatwiej: krótsze i/lub niższe auto mniej waży, mniej sprzętu zamontowanego na stałe, mniej wody. Koniecznie sprawdzajcie DMC, bo mniejsze pojazdy w szczególności mogą być rejestrowane poniżej 3,5 tony. Mimo to nie odpuszczajcie ważenia, ale raczej nie musicie zapisywać każdego kilograma.
+Planujecie jeździć wakacyjnie? Prawdopodobnie macie łatwiej: krótsze i/lub niższe auto mniej waży, mniej sprzętu zamontowanego na stałe, mniej wody. Koniecznie sprawdzajcie DMC, bo mniejsze pojazdy w szczególności mogą być rejestrowane poniżej 3,5 tony. Mimo to nie odpuszczajcie ważenia, ale raczej nie musicie zapisywać każdego kilograma.
 
 Planujecie żyć na stałe? Budżet masy to będzie codzienny arkusz kalkulacyjny przez całą budowę. Warto kupić do warsztatu wagę platformową z zakresem do 100 kg. My jeździmy praktycznie na równo z limitem 3,5 tony — ważyliśmy się wielokrotnie — i utrzymanie się w limicie kosztowało nas wyrzucenie z gotowej zabudowy podwójnej podłogi, systemu gazowego i paru innych sprzętów.
 
@@ -338,7 +338,7 @@ Najstarsze i najprostsze to sztywne dołączanie: przekręcacie pokrętło i od 
 
 Drugie to napęd stale załączony na wszystkie koła, w którym między osiami siedzi kolejny mechanizm różnicowy. Obie osie są napędzane cały czas, także na asfalcie, bo mechanizm sam wyrównuje różnice prędkości w zakręcie. 
 
-Trzecie, dziś najczęstsze, to dołączanie sprzęgłem. Auto na co dzień jedzie jedną osią. Między osiami siedzi dodatkowe sprzęgło, dociskane przez elektronikę wtedy, gdy czujniki wykryją poślizg, czasem ułamek sekundy wcześniej. Kierowca nic nie robi, nie ma pokrętła ani przełącznika. To jest to, co Mercedes nazywa AWD, Volkswagen 4MOTION, a Ford AWD. Słabość tego rozwiązania jest jedna: sprzęgło przenosi siłę przez tarcie, a tarcie grzeje, a sterownik w pewnym momencie rozłącza napęd, żeby go nie spalić. Auta z tym układem wyciągną Was z mokrej łąki i śnieżnego parkingu bez problemu, ale nie są stworzone do zakopywania się w piachu.
+Trzecie, dziś najczęstsze, to dołączanie sprzęgłem. Auto na co dzień jedzie jedną osią. Między osiami siedzi dodatkowe sprzęgło, dociskane przez elektronikę wtedy, gdy czujniki wykryją poślizg, czasem ułamek sekundy wcześniej. Kierowca nic nie robi, nie ma pokrętła ani przełącznika. Słabość tego rozwiązania jest jedna: sprzęgło przenosi siłę przez tarcie, a tarcie grzeje, a sterownik w pewnym momencie rozłącza napęd, żeby go nie spalić. Auta z tym układem wyciągną Was z mokrej łąki i śnieżnego parkingu bez problemu, ale nie są stworzone do zakopywania się w piachu.
 
 #### Reduktor
 

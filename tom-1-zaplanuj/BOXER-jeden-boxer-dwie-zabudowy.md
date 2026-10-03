@@ -5,8 +5,8 @@ W tym rozdziale opiszę całą historię naszej budowy. Wydaje mi się, że to 
 ## Karta pojazdu
 
 Nasz kamper to Peugeot Boxer w wersji L4H3, rocznik 2018, pierwszy raz zarejestrowany w 2019. Kupiliśmy go z salonu w Katowicach gdzie poprzedni właściciel zostawił go w rozliczeniu po zakończonym leasingu. Zapłaciliśmy za niego niecałe 100 tysięcy złotych brutto (dokładnie 98 398,77 zł) — nowy kosztowałby wtedy jakieś 180 tysięcy. Przekonał nas między innymi prawie idealny jak na dostawczaka stan wnętrza oraz dostępność od ręki.
-Początkowo, ze względu na chęć posiadania gwarancji, zastanawialiśmy się nad kupnem auta zupełnie nowego. Niestety w tamtym czasie po nowe auto z salonu trzeba było się zapisać na listę oczekujących. Firmy nie wyrabiały z ilością zamówień po covidowych przestojach, jakie miały miejsce w poprzednich latach. Z perspektywy trochę jest nam szkoda, ponieważ niedawno wcześniej zostały wprowadzone ciemnoszare kolory w karoserii, a wcześniej dostępne były tylko w wariancie białym. No i nowe auto miałoby zdecydowanie lepsze wyposażenie wnętrza i odświeżoną szoferkę, która jest najbliższą częścią naszego samochodu. 
-Teraz, jak to piszę, wydaje się drogo, jednakże sprawdziłem w cennikach dostępnych w internecie na te i kolejne lata, aż do dziś i wniosek jest taki: cenniki do tej pory nie spadły, ale wróciły rabaty i salonowe auta „z placu”, a młode dostawczaki z drugiej ręki zaczęły tanieć. Przepłaciliśmy przez moment zakupu, a za nowe zapłacilibyśmy cenę z rynku niedoboru. 
+Początkowo, ze względu na chęć posiadania gwarancji, zastanawialiśmy się nad kupnem auta zupełnie nowego. Niestety w tamtym czasie po nowe auto z salonu trzeba było się zapisać na listę oczekujących. Firmy nie wyrabiały z ilością zamówień po covidowych przestojach, jakie miały miejsce w poprzednich latach. Z perspektywy trochę jest nam szkoda, ponieważ niedawno wcześniej zostały wprowadzone ciemnoszare kolory w karoserii, a wcześniej dostępne były tylko w wariancie białym. No i nowe auto miałoby zdecydowanie lepsze wyposażenie wnętrza i odświeżoną szoferkę, która jest najbrzydszą częścią naszego samochodu. 
+Teraz, jak to piszę, wydaje się drogo, jednakże sprawdziłem w cennikach dostępnych w internecie na te i kolejne lata, aż do dziś i wniosek jest taki: cenniki do tej pory nie spadły, ale wróciły rabaty i salonowe auta „z placu”, a młode dostawczaki z drugiej ręki zaczęły tanieć. Przepłaciliśmy, bo kupowaliśmy w złym momencie. 
 
 Wracając do naszego auta — mieliśmy wgląd w pełną historię faktur i właścicieli więc widzieliśmy dane poprzedniego — z profilu jego działalności woził lekki towar na sprzedaż, a nie materiały budowlane, stąd prawie nieskazitelne wnętrze. Z zewnątrz był standardowo biały i trochę porysowany. Taki też został, założyliśmy, że prędzej czy później tak się porysuje albo gdzieś wgniecie I będzie mniej szkoda, skoro już i tak jest. :)
 
@@ -45,6 +45,8 @@ Niestety taki kamuflaż zaś działa tylko z poziomu chodnika: wystarczy odejś�
 ### Układ
 
 Szoferka w naszym domu jest otwarta na część mieszkalną, bez ściany grodziowej, z dwoma pojedynczymi fotelami na obrotnicach. Od przodu samochodu, po jego lewej stronie mamy stół, lodówkę, potem stałe łóżko i łazienka na całą szerokość tyłu. Po drugiej stronie od drzwi przesuwnych kuchnia wzdłuż na całą szerokość ściany. Ten szkielet przetrwał obie zabudowy :) Fabryczną ścianę grodziową zdjęliśmy prawie od razu, ale w trakcie budowy wkładaliśmy ją na czas jazdy, bo w dowodzie wciąż mieliśmy wpis VAT-1, a ten wymaga przegrody.
+
+![Nasz układ: otwarty przód, dwa biurka, łóżko wzdłuż, łazienka na cały tył](_rysunki/nasz-uklad/nasz-uklad.svg)
 
 ### Szoferka
 
