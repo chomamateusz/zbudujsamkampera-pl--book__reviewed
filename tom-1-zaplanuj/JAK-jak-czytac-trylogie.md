@@ -4,7 +4,7 @@ Ta książka ma trzy tomy — i to nie jest przypadek, tylko dokładnie ta kolej
 
 Tomy są ze sobą mocno powiązane: czytanie od środka jest trochę jak przeczytać „Dwie wieże”, nie czytając „Drużyny Pierścienia” — niby się da, ale tracimy z oczu obraz całości :)
 
-Podział służy również Waszej wygodzie. Bez niego musielibyście przyswoić kilkaset stron książki na raz w jednej porcji. Dzięki podziałowi każdy z trzech tomów ma swój właściwy czas podczas przygody zwanej samodzielną budową kampera.
+Podział służy również Waszej wygodzie. Bez niego musielibyście przyswoić kilkaset stron naraz. Dzięki podziałowi każdy z trzech tomów ma swój właściwy czas podczas przygody zwanej samodzielną budową kampera.
 
 Ile tomów przeczytać, zanim złapiecie za wkrętarkę? To zależy od tego, czego od tej lektury oczekujecie.
 
@@ -22,7 +22,7 @@ Ten tom trzymajcie pod ręką **w trakcie budowy**. Rozdziały idą w kolejnośc
 
 ## Tom 3: Zamieszkaj i jedź
 
-Możecie go zacząć, **gdy zabudowa już stoi** — i już pojechaliście w pierwszą podróż. Są tam tematy opcjonalne, które łatwo dodać lub zmodyfikować w już gotowym kamperze, i codzienność życia w drodze.
+Możecie go zacząć, **gdy zabudowa już stoi** — najlepiej przed pierwszą dłuższą podróżą. Są tam tematy opcjonalne, które łatwo dodać lub zmodyfikować w już gotowym kamperze, i codzienność życia w drodze.
 
 Jeśli trzymacie w ręku tylko jeden tom — wiecie już, gdzie jest reszta. Jeśli zaś dopiero się zastanawiacie, czy to życie jest dla Was — zacznijcie od pierwszego tomu: może Wam zaoszczędzić kilkaset tysięcy złotych, zanim wydacie pierwszą złotówkę.
 
