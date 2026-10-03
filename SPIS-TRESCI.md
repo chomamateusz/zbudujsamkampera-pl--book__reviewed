@@ -2,10 +2,10 @@
 
 Wygenerowano automatycznie — nie edytować ręcznie.
 
-Cała książka: 261 213 słów ≈ 653 stron (zatwierdzone: 86 088 słów ≈ 215 stron, 33.0%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
+Cała książka: 261 214 słów ≈ 653 stron (zatwierdzone: 86 089 słów ≈ 215 stron, 33.0%). Strona = 400 słów. Liczby przy rozdziałach zatwierdzonych to stan faktyczny, przy pozostałych — plan.
 ✅ zatwierdzony · ✏️ w przygotowaniu
 
-## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 414 z 85 414 słów (100%) — 32.7% książki
+## Tom 1: Zaplanuj — zatwierdzone 14/14 rozdziałów, 85 415 z 85 415 słów (100%) — 32.7% książki
 
 | ID | Nr | Rozdział | Słowa | Strony | % tomu | % książki | Status | Etherpad | LanguageTool | Review |
 |---|---:|---|---:|---:|---:|---:|---|---|---:|---|
@@ -22,7 +22,7 @@ Cała książka: 261 213 słów ≈ 653 stron (zatwierdzone: 86 088 słów ≈ 2
 | UKLAD | 10 | [Układ wnętrza](tom-1-zaplanuj/UKLAD-uklad-wnetrza-ergonomia.md) | 3280 | 8 | 3.8% | 1.3% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-UKLAD) | ✓ | – |
 | WARSZ | 11 | [Warsztat do budowy](tom-1-zaplanuj/WARSZ-warsztat-do-budowy.md) | 13 305 | 33 | 15.6% | 5.1% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-WARSZ) | ✓ | – |
 | STOL | 12 | [Stolarka od zera](tom-1-zaplanuj/STOL-stolarka-od-zera.md) | 7341 | 18 | 8.6% | 2.8% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-STOL) | ✓ | – |
-| HYDRO | 13 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8855 | 22 | 10.4% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
+| HYDRO | 13 | [Hydraulika od zera](tom-1-zaplanuj/HYDRO-hydraulika-od-zera.md) | 8856 | 22 | 10.4% | 3.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-HYDRO) | ✓ | – |
 | PRAD | 14 | [Elektryka od zera](tom-1-zaplanuj/PRAD-elektryka-od-zera.md) | 6144 | 15 | 7.2% | 2.4% | ✅ | [pad](https://etherpad.coderoad.pl/p/zbudujsamkampera-tom1-PRAD) | ✓ | – |
 
 ## Tom 2: Zbuduj — zatwierdzone 0/17 rozdziałów, 337 z 104 008 słów (0%) — 39.8% książki
